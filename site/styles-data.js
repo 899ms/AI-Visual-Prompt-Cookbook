@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 112,
+  "styleCount": 113,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Cobalt Pop Cutout Editorial",
+      "slug": "cobalt-pop-cutout-editorial",
+      "category": "Type Posters",
+      "description": "High-saturation editorial posters pairing a low-angle photographic cutout with oversized irregular orange lettering, a cobalt-to-sky-blue field, and flat green organic shapes.",
+      "summary": "A high-saturation editorial poster system that combines one low-angle full-body photographic cutout with oversized irregular orange display lettering, a cobalt-to-sky-blue field, flat green organic edge shapes, and tiny cream callouts. The look is playful, spacious, and street-culture adjacent without becoming grungy or collage-dense.",
+      "preview16": "../styles/cobalt-pop-cutout-editorial/preview-16x9.jpg",
+      "preview9": "../styles/cobalt-pop-cutout-editorial/preview-9x16.jpg",
+      "styleJson": "../styles/cobalt-pop-cutout-editorial/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/cobalt-pop-cutout-editorial.md",
+      "folder": "../styles/cobalt-pop-cutout-editorial/",
+      "anchors": [
+        "A saturated cobalt-to-sky-blue field fills nearly the entire frame, with only restrained environmental details allowed near the lower edge.",
+        "One crisp full-body photographic cutout dominates the center at roughly 55 to 70 percent of the frame height.",
+        "The camera sits below waist level with a mild wide-angle upward perspective that makes the subject and foreground anchor feel monumental.",
+        "A single oversized warm-orange headline spans the upper third, using solid-fill, chunky, hand-warped display letters on an uneven baseline.",
+        "The photographic subject overlaps and obscures part of the headline so type and portrait read as one layered composition.",
+        "Large flat botanical-green ribbons or amoebic blobs enter from two or more frame edges and behave as a loose organic border."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "record-route",
+      "copyPrompt": "Use the \"Cobalt Pop Cutout Editorial\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a middle-aged woman DJ with close-cropped silver hair\nSubject action: stepping forward while lifting a translucent vinyl record above one shoulder\nProduct or prop: a compact orange portable turntable case resting low in the foreground\nLocation: a sunlit rooftop listening party\nBackground elements: one distant water tower and two simple antenna silhouettes near the lower edge\nMain text: SPIN ON\nSecondary text: sound travels / city frequency\nAccent symbol: a small rising arrow\nWardrobe style: a cobalt utility vest over an orange tee with wide cream trousers\n\nStyle direction:\nA high-saturation editorial poster system that combines one low-angle full-body photographic\ncutout with oversized irregular orange display lettering, a cobalt-to-sky-blue field, flat green\norganic edge shapes, and tiny cream callouts. The look is playful, spacious, and street-culture\nadjacent without becoming grungy or collage-dense.\n\nKeep visible:\n- A saturated cobalt-to-sky-blue field fills nearly the entire frame, with only restrained environmental details allowed near the lower edge.\n- One crisp full-body photographic cutout dominates the center at roughly 55 to 70 percent of the frame height.\n- The camera sits below waist level with a mild wide-angle upward perspective that makes the subject and foreground anchor feel monumental.\n- A single oversized warm-orange headline spans the upper third, using solid-fill, chunky, hand-warped display letters on an uneven baseline.\n- The photographic subject overlaps and obscures part of the headline so type and portrait read as one layered composition.\n\nAvoid:\nfire hydrant, person seated on a pedestal, head resting on hand, copied source face, copied\nsource outfit, copied source text, identical layout, crowd, multiple subjects, dense collage,\ntorn paper, ransom typography, halftone, photocopy noise, heavy grain, grunge, spray paint,\npaint splatter, extra rainbow hues, muted palette, painterly illustration, anime, plastic 3D\ncharacter, extreme fisheye anatomy, malformed hands, duplicate limbs, cinematic bokeh, interface\npanels, product grid, pricing badges, watermark, username, logo, QR code, signature\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Crimson Noir Newsprint Editorial",
       "slug": "crimson-noir-newsprint-editorial-style",

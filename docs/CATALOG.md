@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 112 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 113 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Cobalt Pop Cutout Editorial
+
+<a href="../styles/cobalt-pop-cutout-editorial"><img src="../assets/thumbs/cobalt-pop-cutout-editorial-16x9.jpg" width="720" alt="Cobalt Pop Cutout Editorial preview"></a>
+
+A high-saturation editorial poster system that combines one low-angle full-body photographic cutout with oversized irregular orange display lettering, a cobalt-to-sky-blue field, flat green organic edge shapes, and tiny cream callouts. The look is playful, spacious, and street-culture adjacent without becoming grungy or collage-dense.
+
+Files: [style.json](../styles/cobalt-pop-cutout-editorial/style.json) · [Copy Prompt](copy-prompts/cobalt-pop-cutout-editorial.md) · [16:9 preview](../styles/cobalt-pop-cutout-editorial/preview-16x9.jpg) · [9:16 preview](../styles/cobalt-pop-cutout-editorial/preview-9x16.jpg) · [Folder](../styles/cobalt-pop-cutout-editorial)
+
+---
 
 ### Crimson Noir Newsprint Editorial
 
