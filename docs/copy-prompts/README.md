@@ -91,6 +91,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Scarlet Court Photo Type Poster | [Copy Prompt](scarlet-court-photo-type-poster-style.md) | [style.json](../../styles/scarlet-court-photo-type-poster-style/style.json) |
 | Scarlet Megatype Action Collage Style | [Copy Prompt](scarlet-megatype-action-collage-style.md) | [style.json](../../styles/scarlet-megatype-action-collage-style/style.json) |
 | School Grid Paper Cutout Poster | [Copy Prompt](school-grid-paper-cutout-poster.md) | [style.json](../../styles/school-grid-paper-cutout-poster/style.json) |
+| Signal Red Petal Profile Editorial Cover | [Copy Prompt](signal-red-petal-profile-editorial-cover.md) | [style.json](../../styles/signal-red-petal-profile-editorial-cover/style.json) |
 | Sky Blue Home Life Doodle Poster Style | [Copy Prompt](sky-blue-home-life-doodle-poster-style.md) | [style.json](../../styles/sky-blue-home-life-doodle-poster-style/style.json) |
 | Sky Blue Lucky Tag Doodle Poster Style | [Copy Prompt](sky-blue-lucky-tag-doodle-poster-style.md) | [style.json](../../styles/sky-blue-lucky-tag-doodle-poster-style/style.json) |
 | Soft Analog Future Editorial Poster | [Copy Prompt](soft-analog-future-editorial-poster-style.md) | [style.json](../../styles/soft-analog-future-editorial-poster-style/style.json) |

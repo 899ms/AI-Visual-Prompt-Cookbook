@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 113 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 114 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Signal Red Petal Profile Editorial Cover
+
+<a href="../styles/signal-red-petal-profile-editorial-cover"><img src="../assets/thumbs/signal-red-petal-profile-editorial-cover-16x9.jpg" width="720" alt="Signal Red Petal Profile Editorial Cover preview"></a>
+
+A maximal independent-magazine cover system built from a fragmented signal-red masthead, one monumental flat-color side-profile portrait, a sparse off-white editorial rail, and a huge right-heavy mantle of overlapping cobalt, coral, and hot-pink petal lobes. Multiple typographic voices, a single black burst, tiny drawn ephemera, and restrained uncoated-paper texture create a cheeky fashion-editorial rhythm without copying any real publication or person.
+
+Files: [style.json](../styles/signal-red-petal-profile-editorial-cover/style.json) · [Copy Prompt](copy-prompts/signal-red-petal-profile-editorial-cover.md) · [16:9 preview](../styles/signal-red-petal-profile-editorial-cover/preview-16x9.jpg) · [9:16 preview](../styles/signal-red-petal-profile-editorial-cover/preview-9x16.jpg) · [Folder](../styles/signal-red-petal-profile-editorial-cover)
+
+---
 
 ### Cobalt Pop Cutout Editorial
 

@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 113,
+  "styleCount": 114,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Signal Red Petal Profile Editorial Cover",
+      "slug": "signal-red-petal-profile-editorial-cover",
+      "category": "Editorial + Minimal",
+      "description": "Maximal indie-magazine covers with a fragmented signal-red masthead, a monumental flat-color side-profile portrait, and a right-heavy mantle of overlapping cobalt, coral, and pink petal lobes.",
+      "summary": "A maximal independent-magazine cover system built from a fragmented signal-red masthead, one monumental flat-color side-profile portrait, a sparse off-white editorial rail, and a huge right-heavy mantle of overlapping cobalt, coral, and hot-pink petal lobes. Multiple typographic voices, a single black burst, tiny drawn ephemera, and restrained uncoated-paper texture create a cheeky fashion-editorial rhythm without copying any real publication or person.",
+      "preview16": "../styles/signal-red-petal-profile-editorial-cover/preview-16x9.jpg",
+      "preview9": "../styles/signal-red-petal-profile-editorial-cover/preview-9x16.jpg",
+      "styleJson": "../styles/signal-red-petal-profile-editorial-cover/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/signal-red-petal-profile-editorial-cover.md",
+      "folder": "../styles/signal-red-petal-profile-editorial-cover/",
+      "anchors": [
+        "A warm off-white uncoated-paper field supports an asymmetric independent-magazine cover rather than a centered poster or clean card layout.",
+        "A giant signal-red geometric masthead spans at least ninety percent of the top width, occupies roughly eighteen to twenty-two percent of the height, is cropped by the frame, and is split by one or two white horizontal cuts.",
+        "One monumental strict side-profile figure occupies the center-right and extends beyond the right and bottom edges; the head sits near the upper-middle rather than the center.",
+        "A narrow exposed-paper editorial rail occupies roughly one quarter to one third of the left side and carries several irregularly stacked text clusters rather than boxed modules.",
+        "The entire portrait is built from crisp flat vector or cut-paper color planes with no photoreal skin, modeled shading, cast shadows, glossy light, or universal black outline.",
+        "The garment creates a huge right-heavy silhouette from at least thirty overlapping teardrop, petal, scallop, wave, or ribbon lobes at three scales, with warm small lobes nearer the torso and larger cool lobes expanding rightward."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "signal-after-dark",
+      "copyPrompt": "Use the \"Signal Red Petal Profile Editorial Cover\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a middle-aged Black woman radio engineer with a shaved temple and one gold ear cuff, shown in strict left-facing profile\nSubject action: holding a compact field recorder near her ear as if isolating a hidden frequency\nProduct or prop: a tiny black pen-and-ink field recorder with one coiled cable\nLocation: an abstract late-night community broadcast studio expressed only through two signal arcs\nBackground elements: two simplified radio-wave arcs, a tiny frequency scale, and one narrow calibration note\nMain text: MASTHEAD: PULSE; FEATURE: SIGNAL AFTER DARK\nSecondary text: DECK: THE ENGINEER REBUILDING MIDNIGHT RADIO; BURST: LIVE / NO STATIC; ISSUE: 07; FOOTER: FIND THE QUIET FREQUENCY\nAccent symbol: a fictional lightning-wave emblem inside a small shieldless circle\nWardrobe style: a coral work jacket with a monumental cobalt and hot-pink waveform-lobe collar; abstract audio ribbons, never feathers\n\nStyle direction:\nA maximal independent-magazine cover system built from a fragmented signal-red masthead, one\nmonumental flat-color side-profile portrait, a sparse off-white editorial rail, and a huge\nright-heavy mantle of overlapping cobalt, coral, and hot-pink petal lobes. Multiple typographic\nvoices, a single black burst, tiny drawn ephemera, and restrained uncoated-paper texture create\na cheeky fashion-editorial rhythm without copying any real publication or person.\n\nKeep visible:\n- A warm off-white uncoated-paper field supports an asymmetric independent-magazine cover rather than a centered poster or clean card layout.\n- A giant signal-red geometric masthead spans at least ninety percent of the top width, occupies roughly eighteen to twenty-two percent of the height, is cropped by the frame, and is split by one or two white horizontal cuts.\n- One monumental strict side-profile figure occupies the center-right and extends beyond the right and bottom edges; the head sits near the upper-middle rather than the center.\n- A narrow exposed-paper editorial rail occupies roughly one quarter to one third of the left side and carries several irregularly stacked text clusters rather than boxed modules.\n- The entire portrait is built from crisp flat vector or cut-paper color planes with no photoreal skin, modeled shading, cast shadows, glossy light, or universal black outline.\n\nAvoid:\nrecognizable athlete, celebrity likeness, football, soccer, stadium, Norway flag, sports crest,\nreal magazine logo, copied source headline, source number 9, matching blond crown and dark bun,\nmatching angular sunglasses, literal feather boa, identical costume, centered portrait, full\ncontained body, symmetrical grid, boxed sidebar, equal cards, multiple people, photorealistic\nskin, photographic collage, painterly portrait, anime, superhero comic, universal black outline,\nglossy 3D, airbrush, gradient modeling, drop shadow, realistic feathers, flower bouquet, pastel\npalette, rainbow drift, excessive empty space, heavy grunge, torn paper, photocopy distress,\nmuddy halftone, illegible pseudo-text, sticker wall, watermark, username, platform logo, QR\ncode, real barcode, signature\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Cobalt Pop Cutout Editorial",
       "slug": "cobalt-pop-cutout-editorial",
