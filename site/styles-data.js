@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 114,
+  "styleCount": 115,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Burnt Orange Halftone Hero Collage",
+      "slug": "burnt-orange-halftone-hero-collage",
+      "category": "Type Posters",
+      "description": "Dense celebratory editorial posters with a flash-lit photographic hero cutout, burnt-orange screenprint panels, monumental condensed headlines, coarse halftone diagrams, and dry-brush lettering.",
+      "summary": "A dense celebratory editorial poster system that combines one warm, flash-lit photographic hero cutout with burnt-orange screenprint panels, monumental condensed headline type, coarse halftone diagrams, dry-brush lettering, a looping foreground flourish, a monochrome base strip, and disciplined magazine microtype on aged cream paper.",
+      "preview16": "../styles/burnt-orange-halftone-hero-collage/preview-16x9.jpg",
+      "preview9": "../styles/burnt-orange-halftone-hero-collage/preview-9x16.jpg",
+      "styleJson": "../styles/burnt-orange-halftone-hero-collage/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/burnt-orange-halftone-hero-collage.md",
+      "folder": "../styles/burnt-orange-halftone-hero-collage/",
+      "anchors": [
+        "Warm uncoated cream paper ground with a restricted burnt-tangerine, near-black, cream, and white graphic palette around a selectively colorful photographic subject.",
+        "One enormous extra-heavy condensed uppercase headline spans almost the full width behind the subject and is partly hidden by the head and shoulders.",
+        "One dominant waist-up or chest-up photographic hero cutout occupies roughly two-thirds of the canvas and sits near center with a slight right bias.",
+        "The hero and major prop use irregular pasted-sticker edging: a broad cream contour plus a thin black or orange keyline.",
+        "Dense shallow editorial layering follows a fixed stack of paper ground, giant type, orange diagram panel, hero cutout, brush lettering, prop, foreground flourish, monochrome base strip, and caption footer.",
+        "A smaller subject-specific prop overlaps the lower-left quadrant and remains clearly secondary to the hero."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "kiln-notes",
+      "copyPrompt": "Use the \"Burnt Orange Halftone Hero Collage\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an anonymous fictional ceramic artist in a warm waist-up portrait\nSubject action: smiling while shaping the rim of a large coil-built vessel\nProduct or prop: a matte terracotta vessel without handles and one wooden modeling tool\nLocation: a sunlit community pottery studio abstracted as printed collage layers\nBackground elements: concentric wheel rings, shelf silhouettes, clay-splash marks, measurement ticks, and simplified kiln diagrams\nMain text: FORM BY HAND\nSecondary text: EARTH / WATER / HEAT — STUDIO NOTES\nAccent symbol: an original spiral-and-flame seal\nWardrobe style: an indigo work apron over a cream short-sleeve shirt, lightly clay-marked and completely logo-free\n\nStyle direction:\nA dense celebratory editorial poster system that combines one warm, flash-lit photographic hero\ncutout with burnt-orange screenprint panels, monumental condensed headline type, coarse halftone\ndiagrams, dry-brush lettering, a looping foreground flourish, a monochrome base strip, and\ndisciplined magazine microtype on aged cream paper.\n\nKeep visible:\n- Warm uncoated cream paper ground with a restricted burnt-tangerine, near-black, cream, and white graphic palette around a selectively colorful photographic subject.\n- One enormous extra-heavy condensed uppercase headline spans almost the full width behind the subject and is partly hidden by the head and shoulders.\n- One dominant waist-up or chest-up photographic hero cutout occupies roughly two-thirds of the canvas and sits near center with a slight right bias.\n- The hero and major prop use irregular pasted-sticker edging: a broad cream contour plus a thin black or orange keyline.\n- Dense shallow editorial layering follows a fixed stack of paper ground, giant type, orange diagram panel, hero cutout, brush lettering, prop, foreground flourish, monochrome base strip, and caption footer.\n\nAvoid:\nNo Oscar Piastri, no identifiable racing driver, no motorsport, no racing suit, no cap, no\nmedal, no trophy, no Formula car, no racetrack, no source headline, no source biography, no\ncopied autograph, no number 81, no real logo, no sponsor patch, no brand mark, no watermark, no\nusername, no QR code, no platform mark, no invented sponsor label, no cinematic sports\nadvertising, no deep perspective, no bokeh, no lens flare, no volumetric light, no dramatic sky,\nno glossy 3D render, no clean vector minimalism, no Swiss grid, no spacious layout, no smooth\ngradient, no chrome, no neon rainbow palette, no anime, no comic-book painting, no airbrushed\nportrait, no serif headline, no bubble type, no extruded type, no gibberish, no excessive copy,\nno random dirt, no heavy glitch, no JPEG artifacts, no blurred face, no low-resolution output.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Signal Red Petal Profile Editorial Cover",
       "slug": "signal-red-petal-profile-editorial-cover",

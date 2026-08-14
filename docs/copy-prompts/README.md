@@ -16,6 +16,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Blue Lime Kinetic Comic Type Poster Style | [Copy Prompt](blue-lime-kinetic-comic-type-poster-style.md) | [style.json](../../styles/blue-lime-kinetic-comic-type-poster-style/style.json) |
 | Bold Anime Reaction Thumbnail Style | [Copy Prompt](bold-anime-reaction-thumbnail-style.md) | [style.json](../../styles/bold-anime-reaction-thumbnail-style/style.json) |
 | Bold Block Mascot Poster Style | [Copy Prompt](bold-block-mascot-poster-style.md) | [style.json](../../styles/bold-block-mascot-poster-style/style.json) |
+| Burnt Orange Halftone Hero Collage | [Copy Prompt](burnt-orange-halftone-hero-collage.md) | [style.json](../../styles/burnt-orange-halftone-hero-collage/style.json) |
 | Chromatic Fisheye Orbit Pop Poster Style | [Copy Prompt](chromatic-fisheye-orbit-pop-poster-style.md) | [style.json](../../styles/chromatic-fisheye-orbit-pop-poster-style/style.json) |
 | Clean Triptych Travel Vlog Thumbnail Style | [Copy Prompt](clean-triptych-travel-vlog-thumbnail-style.md) | [style.json](../../styles/clean-triptych-travel-vlog-thumbnail-style/style.json) |
 | Cobalt Megatype Roadside Travel Editorial | [Copy Prompt](cobalt-megatype-roadside-travel-editorial-style.md) | [style.json](../../styles/cobalt-megatype-roadside-travel-editorial-style/style.json) |

@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 114 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 115 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Burnt Orange Halftone Hero Collage
+
+<a href="../styles/burnt-orange-halftone-hero-collage"><img src="../assets/thumbs/burnt-orange-halftone-hero-collage-16x9.jpg" width="720" alt="Burnt Orange Halftone Hero Collage preview"></a>
+
+A dense celebratory editorial poster system that combines one warm, flash-lit photographic hero cutout with burnt-orange screenprint panels, monumental condensed headline type, coarse halftone diagrams, dry-brush lettering, a looping foreground flourish, a monochrome base strip, and disciplined magazine microtype on aged cream paper.
+
+Files: [style.json](../styles/burnt-orange-halftone-hero-collage/style.json) · [Copy Prompt](copy-prompts/burnt-orange-halftone-hero-collage.md) · [16:9 preview](../styles/burnt-orange-halftone-hero-collage/preview-16x9.jpg) · [9:16 preview](../styles/burnt-orange-halftone-hero-collage/preview-9x16.jpg) · [Folder](../styles/burnt-orange-halftone-hero-collage)
+
+---
 
 ### Signal Red Petal Profile Editorial Cover
 
