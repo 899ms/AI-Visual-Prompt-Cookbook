@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 115 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 116 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Electric Yellow Cutout Megatype Poster Style
+
+<a href="../styles/electric-yellow-cutout-megatype-poster-style"><img src="../assets/thumbs/electric-yellow-cutout-megatype-poster-style-16x9.jpg" width="720" alt="Electric Yellow Cutout Megatype Poster Style preview"></a>
+
+A high-impact pop advertising poster system that places one oversized photoreal cutout subject over monumental warped display lettering, using an electric-yellow field, black upper type, cobalt-blue lower type, severe cropping, and tiny editorial metadata for scale contrast.
+
+Files: [style.json](../styles/electric-yellow-cutout-megatype-poster-style/style.json) · [Copy Prompt](copy-prompts/electric-yellow-cutout-megatype-poster-style.md) · [16:9 preview](../styles/electric-yellow-cutout-megatype-poster-style/preview-16x9.jpg) · [9:16 preview](../styles/electric-yellow-cutout-megatype-poster-style/preview-9x16.jpg) · [Folder](../styles/electric-yellow-cutout-megatype-poster-style)
+
+---
 
 ### Burnt Orange Halftone Hero Collage
 

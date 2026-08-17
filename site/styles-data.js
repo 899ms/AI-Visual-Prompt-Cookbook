@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 115,
+  "styleCount": 116,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Electric Yellow Cutout Megatype Poster Style",
+      "slug": "electric-yellow-cutout-megatype-poster-style",
+      "category": "Type Posters",
+      "description": "High-impact pop ad posters placing an oversized photoreal cutout over monumental warped display lettering, on an electric-yellow field with black-and-cobalt type and severe cropping.",
+      "summary": "A high-impact pop advertising poster system that places one oversized photoreal cutout subject over monumental warped display lettering, using an electric-yellow field, black upper type, cobalt-blue lower type, severe cropping, and tiny editorial metadata for scale contrast.",
+      "preview16": "../styles/electric-yellow-cutout-megatype-poster-style/preview-16x9.jpg",
+      "preview9": "../styles/electric-yellow-cutout-megatype-poster-style/preview-9x16.jpg",
+      "styleJson": "../styles/electric-yellow-cutout-megatype-poster-style/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/electric-yellow-cutout-megatype-poster-style.md",
+      "folder": "../styles/electric-yellow-cutout-megatype-poster-style/",
+      "anchors": [
+        "One enormous photoreal cutout subject occupies the center and overlaps both typographic bands.",
+        "The backdrop is a nearly edge-to-edge field of pure electric yellow with only a narrow outer breathing margin.",
+        "Monumental black display letters dominate the upper half while monumental cobalt-blue letters dominate the lower half.",
+        "Headline letters are ultra-heavy, tightly packed, irregularly compressed, softly warped, and aggressively cropped by the frame.",
+        "The composition is front-facing and poster-flat, with depth created only by the photographic cutout crossing in front of the type.",
+        "The central cutout is sharply isolated with hard clean edges and rich realistic material detail."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "signal-headphones",
+      "copyPrompt": "Use the \"Electric Yellow Cutout Megatype Poster Style\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a shaved-head music producer in sharp three-quarter profile wearing oversized scarlet studio headphones\nSubject action: tilting their head forward with one ear cup pressed close while listening intently\nProduct or prop: matte scarlet over-ear headphones with a thick coiled cable\nLocation: a seamless electric-yellow studio poster field\nBackground elements: monumental cropped black upper lettering, monumental cropped cobalt lower lettering, and one tiny vertical edition label\nMain text: LOUD SIGNAL\nSecondary text: NIGHT SESSION / EDITION 07\nAccent symbol: a small outlined waveform stamp\nWardrobe style: plain black crewneck with a clean collar and no visible branding\n\nStyle direction:\nA high-impact pop advertising poster system that places one oversized photoreal cutout subject\nover monumental warped display lettering, using an electric-yellow field, black upper type,\ncobalt-blue lower type, severe cropping, and tiny editorial metadata for scale contrast.\n\nKeep visible:\n- One enormous photoreal cutout subject occupies the center and overlaps both typographic bands.\n- The backdrop is a nearly edge-to-edge field of pure electric yellow with only a narrow outer breathing margin.\n- Monumental black display letters dominate the upper half while monumental cobalt-blue letters dominate the lower half.\n- Headline letters are ultra-heavy, tightly packed, irregularly compressed, softly warped, and aggressively cropped by the frame.\n- The composition is front-facing and poster-flat, with depth created only by the photographic cutout crossing in front of the type.\n\nAvoid:\nburger, sandwich, bun, lettuce, fried food, handheld food, hand gripping food, cobalt manicure,\ndripping sauce, bare forearm food pose, DIRTY, BURGER, POSTER, EVENT, 28 NOVEMBER 2023, original\nlogo, original seal, copied source layout, identifiable brand, watermark, username, creator ID,\nQR code, platform logo, realistic room, street, landscape, tabletop, crowd, multiple subjects,\ndense props, gradient, pastel palette, rainbow palette, 3D typography, chrome type, glossy\ninflated letters, serif headline, script headline, thin corporate type, halftone, photocopy\ndistress, paper tear, film grain, heavy noise, soft edges, blurry cutout\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Burnt Orange Halftone Hero Collage",
       "slug": "burnt-orange-halftone-hero-collage",

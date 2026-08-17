@@ -35,6 +35,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Electric Blue Cutout Manga Poster Style | [Copy Prompt](electric-blue-cutout-manga-poster-style.md) | [style.json](../../styles/electric-blue-cutout-manga-poster-style/style.json) |
 | Electric Blue Silhouette Product Launch Style | [Copy Prompt](electric-blue-silhouette-product-launch-style.md) | [style.json](../../styles/electric-blue-silhouette-product-launch-style/style.json) |
 | Electric Cobalt Motion Type Poster | [Copy Prompt](electric-cobalt-motion-type-poster-style.md) | [style.json](../../styles/electric-cobalt-motion-type-poster-style/style.json) |
+| Electric Yellow Cutout Megatype Poster Style | [Copy Prompt](electric-yellow-cutout-megatype-poster-style.md) | [style.json](../../styles/electric-yellow-cutout-megatype-poster-style/style.json) |
 | Fantasy Scribble Mascot Poster Style | [Copy Prompt](fantasy-scribble-mascot-poster-style.md) | [style.json](../../styles/fantasy-scribble-mascot-poster-style/style.json) |
 | Folded Diamond Perspective Type Poster Style | [Copy Prompt](folded-diamond-perspective-type-poster-style.md) | [style.json](../../styles/folded-diamond-perspective-type-poster-style/style.json) |
 | Folded Newspaper Product Ad Style | [Copy Prompt](folded-newspaper-product-ad-style.md) | [style.json](../../styles/folded-newspaper-product-ad-style/style.json) |
