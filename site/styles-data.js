@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 116,
+  "styleCount": 117,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Signal Red Contour Poster",
+      "slug": "signal-red-contour-poster",
+      "category": "Type Posters",
+      "description": "Severe two-ink public-information posters with a near-black field, a monumental flat silhouette traced by an agitated signal-red contour, and detached white grotesk text fragments.",
+      "summary": "A severe two-ink public-information poster system built from a near-black field, one monumental flat silhouette defined by an agitated signal-red contour, and detached white grotesk text arranged around the perimeter like urgent fragments.",
+      "preview16": "../styles/signal-red-contour-poster/preview-16x9.jpg",
+      "preview9": "../styles/signal-red-contour-poster/preview-9x16.jpg",
+      "styleJson": "../styles/signal-red-contour-poster/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/signal-red-contour-poster.md",
+      "folder": "../styles/signal-red-contour-poster/",
+      "anchors": [
+        "Use an almost pure black ground occupying roughly eighty-five percent of the image, with no pictorial background scene.",
+        "Build the composition around one huge black-filled silhouette that nearly disappears into the ground and is revealed by a vivid signal-red perimeter contour.",
+        "Make the red contour uneven, scraped, dry-brush, and slightly broken, with variable thickness and occasional edge chatter.",
+        "Keep the image resolutely flat and poster-like, without modeled volume, spatial depth, perspective scenery, or cast shadows.",
+        "Arrange large white neo-grotesk uppercase text as detached fragments around the outer margins rather than as a conventional centered headline.",
+        "Rotate at least one supporting text block ninety degrees and allow deliberate collisions or near-tangencies between type and the contour subject."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "static-siren",
+      "copyPrompt": "Use the \"Signal Red Contour Poster\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an oversized tabletop emergency radio reduced to a blocky icon-like mass\nSubject action: emitting two compressed signal-wave loops from one corner\nProduct or prop: a single bent antenna integrated into the silhouette\nLocation: an abstract overnight broadcast zone with no visible room\nBackground elements: only two short red frequency ticks and otherwise empty black space\nMain text: HOLD / THE / SIGNAL\nSecondary text: STAY WITH THE FREQUENCY\nAccent symbol: three tiny offset red bars\nWardrobe style: matte black industrial casing with no visible branding\n\nStyle direction:\nA severe two-ink public-information poster system built from a near-black field, one monumental\nflat silhouette defined by an agitated signal-red contour, and detached white grotesk text\narranged around the perimeter like urgent fragments.\n\nKeep visible:\n- Use an almost pure black ground occupying roughly eighty-five percent of the image, with no pictorial background scene.\n- Build the composition around one huge black-filled silhouette that nearly disappears into the ground and is revealed by a vivid signal-red perimeter contour.\n- Make the red contour uneven, scraped, dry-brush, and slightly broken, with variable thickness and occasional edge chatter.\n- Keep the image resolutely flat and poster-like, without modeled volume, spatial depth, perspective scenery, or cast shadows.\n- Arrange large white neo-grotesk uppercase text as detached fragments around the outer margins rather than as a conventional centered headline.\n\nAvoid:\nPhotorealism, photographic backgrounds, 3D render, volumetric light, gradients, glow, shadows,\nmodeled anatomy, realistic skin, perspective scenery, multiple subjects, crowded objects,\ncollage, halftone photo, paper mockup, decorative frame, sticker pack, large red fills, extra\ncolors, serif type, script type, playful rounded fonts, distressed white type, centered\nconventional headline, tobacco, cigarette, cigar, pipe, smoke cloud, smoking gesture, copied\nGerman warning text, copied human silhouette, signature, artist credit, logo, watermark,\nusername, QR code, platform mark.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Electric Yellow Cutout Megatype Poster Style",
       "slug": "electric-yellow-cutout-megatype-poster-style",

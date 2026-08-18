@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 116 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 117 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Signal Red Contour Poster
+
+<a href="../styles/signal-red-contour-poster"><img src="../assets/thumbs/signal-red-contour-poster-16x9.jpg" width="720" alt="Signal Red Contour Poster preview"></a>
+
+A severe two-ink public-information poster system built from a near-black field, one monumental flat silhouette defined by an agitated signal-red contour, and detached white grotesk text arranged around the perimeter like urgent fragments.
+
+Files: [style.json](../styles/signal-red-contour-poster/style.json) · [Copy Prompt](copy-prompts/signal-red-contour-poster.md) · [16:9 preview](../styles/signal-red-contour-poster/preview-16x9.jpg) · [9:16 preview](../styles/signal-red-contour-poster/preview-9x16.jpg) · [Folder](../styles/signal-red-contour-poster)
+
+---
 
 ### Electric Yellow Cutout Megatype Poster Style
 
