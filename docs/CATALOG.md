@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 117 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 118 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Primary Block Isometric Editorial Poster Style
+
+<a href="../styles/primary-block-isometric-editorial-poster-style"><img src="../assets/thumbs/primary-block-isometric-editorial-poster-style-16x9.jpg" width="720" alt="Primary Block Isometric Editorial Poster Style preview"></a>
+
+A crisp editorial poster system built from a sparse diagonal cluster of oversized rounded cuboids, oblique isometric depth, black hairline construction, bright primary-color top planes, darker side faces, oversized grotesk labels, and tiny Swiss-style perimeter copy on warm white paper.
+
+Files: [style.json](../styles/primary-block-isometric-editorial-poster-style/style.json) · [Copy Prompt](copy-prompts/primary-block-isometric-editorial-poster-style.md) · [16:9 preview](../styles/primary-block-isometric-editorial-poster-style/preview-16x9.jpg) · [9:16 preview](../styles/primary-block-isometric-editorial-poster-style/preview-9x16.jpg) · [Folder](../styles/primary-block-isometric-editorial-poster-style)
+
+---
 
 ### Signal Red Contour Poster
 

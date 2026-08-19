@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 117,
+  "styleCount": 118,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Primary Block Isometric Editorial Poster Style",
+      "slug": "primary-block-isometric-editorial-poster-style",
+      "category": "Type Posters",
+      "description": "Crisp editorial posters built from a diagonal cluster of oversized rounded cuboids in oblique isometric depth, with primary-color top planes, oversized grotesk labels, and Swiss-style perimeter copy.",
+      "summary": "A crisp editorial poster system built from a sparse diagonal cluster of oversized rounded cuboids, oblique isometric depth, black hairline construction, bright primary-color top planes, darker side faces, oversized grotesk labels, and tiny Swiss-style perimeter copy on warm white paper.",
+      "preview16": "../styles/primary-block-isometric-editorial-poster-style/preview-16x9.jpg",
+      "preview9": "../styles/primary-block-isometric-editorial-poster-style/preview-9x16.jpg",
+      "styleJson": "../styles/primary-block-isometric-editorial-poster-style/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/primary-block-isometric-editorial-poster-style.md",
+      "folder": "../styles/primary-block-isometric-editorial-poster-style/",
+      "anchors": [
+        "Warm off-white editorial paper field with a thin black perimeter rule and generous clean margins",
+        "Five to eight oversized rounded cuboids arranged as one loose diagonal stepped cluster",
+        "Oblique isometric projection with a visible top plane and two extruded side planes on most forms",
+        "Black hairline outlines, crisp vector-like edges, rounded top corners, and no photographic realism",
+        "Cobalt blue, vermilion red-orange, grass green, cadmium yellow, and warm cream used as discrete solid color masses",
+        "Side planes are darker tonal versions of their top planes, creating depth without gradients or cast shadows"
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "rooftop-garden-modules",
+      "copyPrompt": "Use the \"Primary Block Isometric Editorial Poster Style\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a family of abstract modular rooftop garden planters shaped as broad rounded architectural blocks\nSubject action: stepping upward diagonally as a compact urban growing system\nProduct or prop: one small cream water reservoir block and a simple geometric leaf marker\nLocation: conceptual city-garden exhibition poster\nBackground elements: warm blank paper, one tiny watering schedule, a thin arrow, and sparse coordinate marks at the edges\nMain text: GROW / SUN / RAIN / ROOT\nSecondary text: CITY PLOT 07 — OPEN GARDEN — SEASON ONE\nAccent symbol: ↗\nWardrobe style: smooth matte architectural card models with solid spot-color planes\n\nStyle direction:\nA crisp editorial poster system built from a sparse diagonal cluster of oversized rounded\ncuboids, oblique isometric depth, black hairline construction, bright primary-color top planes,\ndarker side faces, oversized grotesk labels, and tiny Swiss-style perimeter copy on warm white\npaper.\n\nKeep visible:\n- Warm off-white editorial paper field with a thin black perimeter rule and generous clean margins\n- Five to eight oversized rounded cuboids arranged as one loose diagonal stepped cluster\n- Oblique isometric projection with a visible top plane and two extruded side planes on most forms\n- Black hairline outlines, crisp vector-like edges, rounded top corners, and no photographic realism\n- Cobalt blue, vermilion red-orange, grass green, cadmium yellow, and warm cream used as discrete solid color masses\n\nAvoid:\ncomputer keyboard, keyboard keycaps, escape key, flight poster, source wording, end-of-world\nstory, AI apocalypse copy, copied date, copied issue number, studio credit, website, logo,\nwatermark, username, QR code, brand mark, glossy 3D render, photoreal object, realistic room,\ncinematic lighting, strong shadows, reflections, gradients, translucent plastic, chrome, complex\nenvironment, dense collage, sticker bomb, grunge distress, neon glow, blurred typography,\nmisspelled main words, excessive text, borderless full bleed\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Signal Red Contour Poster",
       "slug": "signal-red-contour-poster",

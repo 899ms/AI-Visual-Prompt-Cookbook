@@ -80,6 +80,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Plush City Festival Mobile Poster | [Copy Prompt](plush-city-festival-mobile-poster-style.md) | [style.json](../../styles/plush-city-festival-mobile-poster-style/style.json) |
 | Plush Comic Toy Product Poster Style | [Copy Prompt](plush-comic-toy-product-poster-style.md) | [style.json](../../styles/plush-comic-toy-product-poster-style/style.json) |
 | Pop Bubble Letter Photo Poster Style | [Copy Prompt](pop-bubble-letter-photo-poster-style.md) | [style.json](../../styles/pop-bubble-letter-photo-poster-style/style.json) |
+| Primary Block Isometric Editorial Poster Style | [Copy Prompt](primary-block-isometric-editorial-poster-style.md) | [style.json](../../styles/primary-block-isometric-editorial-poster-style/style.json) |
 | Prismatic Glass Animal Weekend Editorial | [Copy Prompt](prismatic-glass-animal-weekend-editorial.md) | [style.json](../../styles/prismatic-glass-animal-weekend-editorial/style.json) |
 | Quiet Luxury Furniture Nameplate Poster Style | [Copy Prompt](quiet-luxury-furniture-nameplate-poster-style.md) | [style.json](../../styles/quiet-luxury-furniture-nameplate-poster-style/style.json) |
 | Red Black Manga Tabloid Poster Style | [Copy Prompt](red-black-manga-tabloid-poster-style.md) | [style.json](../../styles/red-black-manga-tabloid-poster-style/style.json) |
