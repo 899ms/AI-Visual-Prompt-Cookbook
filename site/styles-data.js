@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 118,
+  "styleCount": 120,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,78 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Neon Scribble Editorial Poster",
+      "slug": "neon-scribble-editorial-poster",
+      "category": "Type Posters",
+      "description": "Confrontational editorial posters with monumental ultra-condensed red type, a cropped black-and-white halftone portrait, offset photo fragments, and electric-blue and acid-green marker scribbles.",
+      "summary": "A confrontational editorial poster system built from monumental ultra-condensed red typography, one centrally cropped black-and-white halftone portrait, offset rectangular photo fragments, and spontaneous electric-blue and acid-green marker annotations on warm cream paper.",
+      "preview16": "../styles/neon-scribble-editorial-poster/preview-16x9.jpg",
+      "preview9": "../styles/neon-scribble-editorial-poster/preview-9x16.jpg",
+      "styleJson": "../styles/neon-scribble-editorial-poster/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/neon-scribble-editorial-poster.md",
+      "folder": "../styles/neon-scribble-editorial-poster/",
+      "anchors": [
+        "A warm cream or pale peach uncoated-paper field remains visible around the composition, especially across the upper margin.",
+        "One enormous red ultra-condensed uppercase headline spans nearly the full canvas and is cropped by at least two edges.",
+        "A single centered chest-up or waist-up editorial portrait interrupts the giant letters, with typography passing both behind and in front of the figure.",
+        "The portrait is predominantly black and white with coarse halftone grain, photocopy texture, high contrast, and a frontal near-eye-level camera.",
+        "Several hard-edged rectangular image fragments offset parts of the face or torso, producing a restrained analog cut-and-paste mosaic rather than a chaotic collage.",
+        "Loose marker scribbles in electric cobalt blue and fluorescent acid green trace hair, facial contours, garment seams, or motion paths."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "midnight-florist",
+      "copyPrompt": "Use the \"Neon Scribble Editorial Poster\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an older female night florist with a silver cropped haircut and a calm direct gaze\nSubject action: holding one sculptural flower stem upright beside her cheek\nProduct or prop: a single oversized anthurium with a dark graphic silhouette\nLocation: an abstract after-hours flower studio implied only by two faint botanical rectangles\nBackground elements: two screened leaf fragments and one narrow blue-violet block\nMain text: BLOOM SHIFT\nSecondary text: NIGHT BOTANY / FIELD NOTE 01\nAccent symbol: a hand-drawn four-point star\nWardrobe style: matte black work apron over a pale high-collar shirt with no blazer or tie\n\nStyle direction:\nA confrontational editorial poster system built from monumental ultra-condensed red typography,\none centrally cropped black-and-white halftone portrait, offset rectangular photo fragments, and\nspontaneous electric-blue and acid-green marker annotations on warm cream paper.\n\nKeep visible:\n- A warm cream or pale peach uncoated-paper field remains visible around the composition, especially across the upper margin.\n- One enormous red ultra-condensed uppercase headline spans nearly the full canvas and is cropped by at least two edges.\n- A single centered chest-up or waist-up editorial portrait interrupts the giant letters, with typography passing both behind and in front of the figure.\n- The portrait is predominantly black and white with coarse halftone grain, photocopy texture, high contrast, and a frontal near-eye-level camera.\n- Several hard-edged rectangular image fragments offset parts of the face or torso, producing a restrained analog cut-and-paste mosaic rather than a chaotic collage.\n\nAvoid:\nMAXIMALISM, IN GRAPHIC DESIGN, BEGINNER GUIDE, ZEKA, ZEKAGRAPHIC.COM, source logo, source\nwebsite, copied red letter arrangement, exact source male face, source hairstyle, white suit\njacket, black shirt and tie, copied eye doodles, copied face-fragment offsets, graphic design\ntutorial cover, real brand, real publication, logo, watermark, username, creator ID, URL, QR\ncode, platform UI, multiple people, crowd, scenic room, cinematic background, dramatic depth of\nfield, colored rim light, glossy 3D text, bevel, extruded lettering, gradient, rainbow palette,\npolished vector graffiti, neon tube, dense stickers, torn-paper clutter, chaotic glitch,\nexcessive grain, muddy compression, low resolution, blur, malformed face, extra limbs, extra\nfingers, illegible anatomy.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
+    {
+      "name": "Vermilion Folk Screenprint Character Poster",
+      "slug": "vermilion-folk-screenprint-character-poster",
+      "category": "Type Posters",
+      "description": "Hand-pulled theatrical screenprint posters with a monumental front-facing character, a limited vermilion-to-rose ink family, carved folk-pattern fills, and integrated hand-lettered type.",
+      "summary": "A hand-pulled theatrical poster system built around one monumental front-facing character, a warm uncoated paper field, a tightly limited vermilion-to-rose ink family, carved folk-pattern fills, and hand-lettered display type that behaves as part of the illustration.",
+      "preview16": "../styles/vermilion-folk-screenprint-character-poster/preview-16x9.jpg",
+      "preview9": "../styles/vermilion-folk-screenprint-character-poster/preview-9x16.jpg",
+      "styleJson": "../styles/vermilion-folk-screenprint-character-poster/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/vermilion-folk-screenprint-character-poster.md",
+      "folder": "../styles/vermilion-folk-screenprint-character-poster/",
+      "anchors": [
+        "One oversized front-facing bust dominates the frame, cropped firmly at the lower torso and nearly touching multiple edges.",
+        "The face is flattened into broad interlocking shapes with a long geometric nose, heavy horizontal eyelids, and intentionally lopsided hand-drawn contours.",
+        "A strict warm palette uses unprinted cream paper plus vermilion, scarlet, brick red, dusty rose, burgundy, and only tiny near-black accents.",
+        "Dense hand-carved folk motifs fill skin, hair, clothing, and props while leaving the cream paper visible as the line color.",
+        "Display lettering is chunky, rounded, irregular, vertically stacked or edge-hugging, and treated as an illustrated shape rather than typeset copy.",
+        "Small secondary lettering forms narrow footer or side bands with uneven baselines, compact spacing, and playful handmade symbols."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "midnight-botanist",
+      "copyPrompt": "Use the \"Vermilion Folk Screenprint Character Poster\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an androgynous midnight botanist with a broad angular face and cropped hair\nSubject action: holding a calm, knowing sideways glance while presenting a rare seedling\nProduct or prop: a small glass cloche containing a curling fern\nLocation: an imaginary nocturnal conservatory festival\nBackground elements: flat leaf silhouettes, seed spirals, two tiny crescent emblems, and narrow paper gaps\nMain text: NIGHT BLOOM\nSecondary text: OPEN AFTER DUSK / HOUSE OF LEAVES\nAccent symbol: a three-petal seed emblem\nWardrobe style: a high-collared work smock filled with carved vine, seed, and wave motifs\n\nStyle direction:\nA hand-pulled theatrical poster system built around one monumental front-facing character, a\nwarm uncoated paper field, a tightly limited vermilion-to-rose ink family, carved folk-pattern\nfills, and hand-lettered display type that behaves as part of the illustration.\n\nKeep visible:\n- One oversized front-facing bust dominates the frame, cropped firmly at the lower torso and nearly touching multiple edges.\n- The face is flattened into broad interlocking shapes with a long geometric nose, heavy horizontal eyelids, and intentionally lopsided hand-drawn contours.\n- A strict warm palette uses unprinted cream paper plus vermilion, scarlet, brick red, dusty rose, burgundy, and only tiny near-black accents.\n- Dense hand-carved folk motifs fill skin, hair, clothing, and props while leaving the cream paper visible as the line color.\n- Display lettering is chunky, rounded, irregular, vertically stacked or edge-hugging, and treated as an illustrated shape rather than typeset copy.\n\nAvoid:\nPhotorealism, realistic skin, photography, 3D render, cinematic depth, perspective background,\ndepth of field, gradients, glossy light, cast shadows, cool colors, blue, green, rainbow\npalette, polished corporate vector art, precise symmetry, modern sans-serif typesetting, generic\nAI fantasy art, anime, clean comic line art, watercolor, oil paint, excessive grunge, heavy\ncompression, random glyphs, illegible pseudo-text, watermark, username, QR code, logo,\nsignature, creator mark, copied theatre branding, crown, monarch, royal beard, Shakespeare,\nMacbeth, Globe theatre, source wording, source dates, source ticket copy.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Primary Block Isometric Editorial Poster Style",
       "slug": "primary-block-isometric-editorial-poster-style",

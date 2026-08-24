@@ -69,6 +69,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Neon Kinetic Typographic Poster | [Copy Prompt](neon-kinetic-typographic-poster-style.md) | [style.json](../../styles/neon-kinetic-typographic-poster-style/style.json) |
 | Neon Outdoor Diary Longform Collage Style | [Copy Prompt](neon-outdoor-diary-longform-collage-style.md) | [style.json](../../styles/neon-outdoor-diary-longform-collage-style/style.json) |
 | Neon Plush Gadget Pop 3D Style | [Copy Prompt](neon-plush-gadget-pop-3d-style.md) | [style.json](../../styles/neon-plush-gadget-pop-3d-style/style.json) |
+| Neon Scribble Editorial Poster | [Copy Prompt](neon-scribble-editorial-poster.md) | [style.json](../../styles/neon-scribble-editorial-poster/style.json) |
 | Neon Stadium 3D Hero Type Poster Style | [Copy Prompt](neon-stadium-3d-hero-type-poster-style.md) | [style.json](../../styles/neon-stadium-3d-hero-type-poster-style/style.json) |
 | Neon Type Photo Scribble Poster | [Copy Prompt](neon-type-photo-scribble-poster.md) | [style.json](../../styles/neon-type-photo-scribble-poster/style.json) |
 | Olive Scribble Sports Poster Style | [Copy Prompt](olive-scribble-sports-poster-style.md) | [style.json](../../styles/olive-scribble-sports-poster-style/style.json) |
@@ -115,6 +116,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Turquoise Red Techno Manga Poster Style | [Copy Prompt](turquoise-red-techno-manga-poster-style.md) | [style.json](../../styles/turquoise-red-techno-manga-poster-style/style.json) |
 | Urban Photo Ink Beast Collage Style | [Copy Prompt](urban-photo-ink-beast-collage-style.md) | [style.json](../../styles/urban-photo-ink-beast-collage-style/style.json) |
 | Urban Transit Doodle Diary Style | [Copy Prompt](urban-transit-doodle-diary-style.md) | [style.json](../../styles/urban-transit-doodle-diary-style/style.json) |
+| Vermilion Folk Screenprint Character Poster | [Copy Prompt](vermilion-folk-screenprint-character-poster.md) | [style.json](../../styles/vermilion-folk-screenprint-character-poster/style.json) |
 | Vermilion Photocopy Tension Editorial | [Copy Prompt](vermilion-photocopy-tension-editorial.md) | [style.json](../../styles/vermilion-photocopy-tension-editorial/style.json) |
 | Warm Fisheye Product Impact Ad Style | [Copy Prompt](warm-fisheye-product-impact-ad-style.md) | [style.json](../../styles/warm-fisheye-product-impact-ad-style/style.json) |
 | Xerox Neon Editorial Collage | [Copy Prompt](xerox-neon-editorial-collage-style.md) | [style.json](../../styles/xerox-neon-editorial-collage-style/style.json) |

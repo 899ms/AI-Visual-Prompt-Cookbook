@@ -1,8 +1,28 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 118 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 120 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Neon Scribble Editorial Poster
+
+<a href="../styles/neon-scribble-editorial-poster"><img src="../assets/thumbs/neon-scribble-editorial-poster-16x9.jpg" width="720" alt="Neon Scribble Editorial Poster preview"></a>
+
+A confrontational editorial poster system built from monumental ultra-condensed red typography, one centrally cropped black-and-white halftone portrait, offset rectangular photo fragments, and spontaneous electric-blue and acid-green marker annotations on warm cream paper.
+
+Files: [style.json](../styles/neon-scribble-editorial-poster/style.json) · [Copy Prompt](copy-prompts/neon-scribble-editorial-poster.md) · [16:9 preview](../styles/neon-scribble-editorial-poster/preview-16x9.jpg) · [9:16 preview](../styles/neon-scribble-editorial-poster/preview-9x16.jpg) · [Folder](../styles/neon-scribble-editorial-poster)
+
+---
+
+### Vermilion Folk Screenprint Character Poster
+
+<a href="../styles/vermilion-folk-screenprint-character-poster"><img src="../assets/thumbs/vermilion-folk-screenprint-character-poster-16x9.jpg" width="720" alt="Vermilion Folk Screenprint Character Poster preview"></a>
+
+A hand-pulled theatrical poster system built around one monumental front-facing character, a warm uncoated paper field, a tightly limited vermilion-to-rose ink family, carved folk-pattern fills, and hand-lettered display type that behaves as part of the illustration.
+
+Files: [style.json](../styles/vermilion-folk-screenprint-character-poster/style.json) · [Copy Prompt](copy-prompts/vermilion-folk-screenprint-character-poster.md) · [16:9 preview](../styles/vermilion-folk-screenprint-character-poster/preview-16x9.jpg) · [9:16 preview](../styles/vermilion-folk-screenprint-character-poster/preview-9x16.jpg) · [Folder](../styles/vermilion-folk-screenprint-character-poster)
+
+---
 
 ### Primary Block Isometric Editorial Poster Style
 
