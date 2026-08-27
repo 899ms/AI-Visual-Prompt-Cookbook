@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 120 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 121 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Split Scorched Editorial Poster
+
+<a href="../styles/split-scorched-editorial-poster"><img src="../assets/thumbs/split-scorched-editorial-poster-16x9.jpg" width="720" alt="Split Scorched Editorial Poster preview"></a>
+
+A high-contrast editorial campaign-poster system built from three interacting depth planes: a shadowed atmosphere, a monumental cropped hero, and one oversized foreground object that breaks the dark-versus-paper seam. The visual tension comes from that object intruding into the otherwise quiet warm-paper information field.
+
+Files: [style.json](../styles/split-scorched-editorial-poster/style.json) · [Copy Prompt](copy-prompts/split-scorched-editorial-poster.md) · [16:9 preview](../styles/split-scorched-editorial-poster/preview-16x9.jpg) · [9:16 preview](../styles/split-scorched-editorial-poster/preview-9x16.jpg) · [Folder](../styles/split-scorched-editorial-poster)
+
+---
 
 ### Neon Scribble Editorial Poster
 

@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 120,
+  "styleCount": 121,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Split Scorched Editorial Poster",
+      "slug": "split-scorched-editorial-poster",
+      "category": "Product + Campaign",
+      "description": "High-contrast editorial campaign posters with a dark ember-lit cropped hero, an oversized foreground prop that breaks the dark-versus-paper seam, and a quiet warm-paper type field.",
+      "summary": "A high-contrast editorial campaign-poster system built from three interacting depth planes: a shadowed atmosphere, a monumental cropped hero, and one oversized foreground object that breaks the dark-versus-paper seam. The visual tension comes from that object intruding into the otherwise quiet warm-paper information field.",
+      "preview16": "../styles/split-scorched-editorial-poster/preview-16x9.jpg",
+      "preview9": "../styles/split-scorched-editorial-poster/preview-9x16.jpg",
+      "styleJson": "../styles/split-scorched-editorial-poster/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/split-scorched-editorial-poster.md",
+      "folder": "../styles/split-scorched-editorial-poster/",
+      "anchors": [
+        "A near-even vertical split establishes a dark saturated image field on the left and an aged warm-paper field on the right, but the split is interrupted by the foreground object.",
+        "The left image field is a deep atmospheric stage with smoky charcoal depth, lateral scarlet haze, and faint horizontal motion or scan streaks behind the subject.",
+        "The hero is a monumental upper-body figure located in the middle depth plane: head in the upper-left quadrant, shoulders and torso receding downward, and the body cropped hard by the left and lower edges.",
+        "The hero is not isolated against a blank backdrop; a faint echo silhouette, glow halo, or doubled contour sits behind and around the head to merge figure and atmosphere.",
+        "Hard molten scarlet-orange rim light cuts the hero and creates a warm underlight on the neck, hands, and upper chest against crushed charcoal shadows.",
+        "One large physical prop is the closest plane: it begins at the lower center in front of the torso, is held or braced by the hands, and visibly overlaps the central seam into the cream information field."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "night-courier",
+      "copyPrompt": "Use the \"Split Scorched Editorial Poster\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a nocturnal bicycle courier with a weathered, focused expression\nSubject action: holding an unfolded waterproof route chart close to the chest\nProduct or prop: a creased analog city route chart with a small brass clip\nLocation: an empty tram platform after rain\nBackground elements: blurred rail wires, wet concrete reflections, one distant amber signal\nMain text: NIGHT\nSHIFT\nSecondary text: CITY ROUTES AFTER DARK\nAccent symbol: DOUBLE SLASH\nWardrobe style: dark waxed canvas jacket, red knit collar, reflective messenger strap\n\nStyle direction:\nA high-contrast editorial campaign-poster system built from three interacting depth planes: a\nshadowed atmosphere, a monumental cropped hero, and one oversized foreground object that breaks\nthe dark-versus-paper seam. The visual tension comes from that object intruding into the\notherwise quiet warm-paper information field.\n\nKeep visible:\n- A near-even vertical split establishes a dark saturated image field on the left and an aged warm-paper field on the right, but the split is interrupted by the foreground object.\n- The left image field is a deep atmospheric stage with smoky charcoal depth, lateral scarlet haze, and faint horizontal motion or scan streaks behind the subject.\n- The hero is a monumental upper-body figure located in the middle depth plane: head in the upper-left quadrant, shoulders and torso receding downward, and the body cropped hard by the left and lower edges.\n- The hero is not isolated against a blank backdrop; a faint echo silhouette, glow halo, or doubled contour sits behind and around the head to merge figure and atmosphere.\n- Hard molten scarlet-orange rim light cuts the hero and creates a warm underlight on the neck, hands, and upper chest against crushed charcoal shadows.\n\nAvoid:\nNo football, helmet, faceguard, shoulder pads, ball, glove, sports league mark, team identity,\njersey number, athlete likeness, stadium, matchup copy, copied date or venue, watermark,\nsignature, QR code, platform logo, bright blue, green, pastel palette, glossy 3D, clean\ncorporate ad, crowded scene, duplicate people, distorted hands, unreadable text, accidental\ndigital noise, muddy dithering, or compression artifacts.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Neon Scribble Editorial Poster",
       "slug": "neon-scribble-editorial-poster",

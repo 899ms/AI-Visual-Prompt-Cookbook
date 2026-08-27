@@ -100,6 +100,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Sky Blue Home Life Doodle Poster Style | [Copy Prompt](sky-blue-home-life-doodle-poster-style.md) | [style.json](../../styles/sky-blue-home-life-doodle-poster-style/style.json) |
 | Sky Blue Lucky Tag Doodle Poster Style | [Copy Prompt](sky-blue-lucky-tag-doodle-poster-style.md) | [style.json](../../styles/sky-blue-lucky-tag-doodle-poster-style/style.json) |
 | Soft Analog Future Editorial Poster | [Copy Prompt](soft-analog-future-editorial-poster-style.md) | [style.json](../../styles/soft-analog-future-editorial-poster-style/style.json) |
+| Split Scorched Editorial Poster | [Copy Prompt](split-scorched-editorial-poster.md) | [style.json](../../styles/split-scorched-editorial-poster/style.json) |
 | Subway Doodle Photo Hybrid | [Copy Prompt](subway-doodle-photo-hybrid-style.md) | [style.json](../../styles/subway-doodle-photo-hybrid-style/style.json) |
 | Sun-Faded Scenic Editorial Poster | [Copy Prompt](sun-faded-scenic-editorial-poster.md) | [style.json](../../styles/sun-faded-scenic-editorial-poster/style.json) |
 | Sunburst Fisheye Bubble Type Poster Style | [Copy Prompt](sunburst-fisheye-bubble-type-poster-style.md) | [style.json](../../styles/sunburst-fisheye-bubble-type-poster-style/style.json) |
