@@ -85,6 +85,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Prismatic Glass Animal Weekend Editorial | [Copy Prompt](prismatic-glass-animal-weekend-editorial.md) | [style.json](../../styles/prismatic-glass-animal-weekend-editorial/style.json) |
 | Quiet Luxury Furniture Nameplate Poster Style | [Copy Prompt](quiet-luxury-furniture-nameplate-poster-style.md) | [style.json](../../styles/quiet-luxury-furniture-nameplate-poster-style/style.json) |
 | Red Black Manga Tabloid Poster Style | [Copy Prompt](red-black-manga-tabloid-poster-style.md) | [style.json](../../styles/red-black-manga-tabloid-poster-style/style.json) |
+| Red Monochrome Editorial Grid | [Copy Prompt](red-monochrome-editorial-grid.md) | [style.json](../../styles/red-monochrome-editorial-grid/style.json) |
 | Red Yellow Grunge Skate Cover Style | [Copy Prompt](red-yellow-grunge-skate-cover-style.md) | [style.json](../../styles/red-yellow-grunge-skate-cover-style/style.json) |
 | Red Yellow Product Trophy Collage Style | [Copy Prompt](red-yellow-product-trophy-collage-style.md) | [style.json](../../styles/red-yellow-product-trophy-collage-style/style.json) |
 | Retro Future Chrome Portrait Dossier | [Copy Prompt](retro-future-chrome-portrait-dossier.md) | [style.json](../../styles/retro-future-chrome-portrait-dossier/style.json) |

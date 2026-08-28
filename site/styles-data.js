@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 121,
+  "styleCount": 122,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Red Monochrome Editorial Grid",
+      "slug": "red-monochrome-editorial-grid",
+      "category": "Type Posters",
+      "description": "Confrontational editorial posters with monumental condensed type, red-and-black duotone photography, rigid off-white gutters, and paper-like ink grain treated as equal grid modules.",
+      "summary": "A confrontational editorial-poster system built from monumental condensed typography, red-and-black duotone photography, rigid off-white gutters, and paper-like ink grain. The design treats photographic crops and type blocks as equal grid modules rather than placing a single hero image behind type.",
+      "preview16": "../styles/red-monochrome-editorial-grid/preview-16x9.jpg",
+      "preview9": "../styles/red-monochrome-editorial-grid/preview-9x16.jpg",
+      "styleJson": "../styles/red-monochrome-editorial-grid/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/red-monochrome-editorial-grid.md",
+      "folder": "../styles/red-monochrome-editorial-grid/",
+      "anchors": [
+        "Use a rigid modular poster grid separated by thick, imperfect off-white paper gutters that stay visible as structural lines.",
+        "Treat the photo crops, black type fields, and red graphic fields as adjacent modules with hard rectangular boundaries.",
+        "Use only ink-black, saturated signal red, and rough off-white paper, with no extra hue or smooth color gradient.",
+        "Render photography as coarse high-contrast red-and-black duotone, with pronounced screenprint dots, xerox grain, and ink speckle.",
+        "Crop subjects aggressively into fragments such as forehead, profile, shoulder, torso, object, or silhouette; do not make a conventionally centered beauty portrait.",
+        "Set the main headline in extremely heavy condensed uppercase sans-serif, close to black, enlarged until it presses against module edges or crops slightly."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "transit-cartographer",
+      "copyPrompt": "Use the \"Red Monochrome Editorial Grid\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an anonymous urban cartographer with a close-cropped profile and wind-tossed hair\nSubject action: pinning a folded transit map to a light table\nProduct or prop: a folded monochrome city-route map with a brass drawing compass\nLocation: a late shift in a municipal map archive\nBackground elements: faint gridlines, a desk lamp silhouette, stacked paper plans\nMain text: TRACE\nLINE\nSecondary text: MAPPING THE NIGHT NETWORK\nAccent symbol: SMALL ROUTE MARKER\nWardrobe style: black canvas work shirt with rolled sleeves\n\nStyle direction:\nA confrontational editorial-poster system built from monumental condensed typography, red-and-\nblack duotone photography, rigid off-white gutters, and paper-like ink grain. The design treats\nphotographic crops and type blocks as equal grid modules rather than placing a single hero image\nbehind type.\n\nKeep visible:\n- Use a rigid modular poster grid separated by thick, imperfect off-white paper gutters that stay visible as structural lines.\n- Treat the photo crops, black type fields, and red graphic fields as adjacent modules with hard rectangular boundaries.\n- Use only ink-black, saturated signal red, and rough off-white paper, with no extra hue or smooth color gradient.\n- Render photography as coarse high-contrast red-and-black duotone, with pronounced screenprint dots, xerox grain, and ink speckle.\n- Crop subjects aggressively into fragments such as forehead, profile, shoulder, torso, object, or silhouette; do not make a conventionally centered beauty portrait.\n\nAvoid:\nNo copied person, copied eyes, copied hand-to-face gesture, copied phrase, copied self-conflict\npremise, copied grid positions, logo, watermark, QR code, brand name, full-color photography,\nblue, green, purple, gradient, glossy product lighting, sleek UI, serif or script lettering,\nthin type, 3D text, crowded microcopy, extra panels, distorted anatomy, or illegible text.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Split Scorched Editorial Poster",
       "slug": "split-scorched-editorial-poster",

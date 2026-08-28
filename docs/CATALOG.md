@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 121 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 122 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Red Monochrome Editorial Grid
+
+<a href="../styles/red-monochrome-editorial-grid"><img src="../assets/thumbs/red-monochrome-editorial-grid-16x9.jpg" width="720" alt="Red Monochrome Editorial Grid preview"></a>
+
+A confrontational editorial-poster system built from monumental condensed typography, red-and-black duotone photography, rigid off-white gutters, and paper-like ink grain. The design treats photographic crops and type blocks as equal grid modules rather than placing a single hero image behind type.
+
+Files: [style.json](../styles/red-monochrome-editorial-grid/style.json) · [Copy Prompt](copy-prompts/red-monochrome-editorial-grid.md) · [16:9 preview](../styles/red-monochrome-editorial-grid/preview-16x9.jpg) · [9:16 preview](../styles/red-monochrome-editorial-grid/preview-9x16.jpg) · [Folder](../styles/red-monochrome-editorial-grid)
+
+---
 
 ### Split Scorched Editorial Poster
 
