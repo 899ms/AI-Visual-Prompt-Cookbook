@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 122,
+  "styleCount": 123,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Retro Pop Sticker Cutout",
+      "slug": "retro-pop-sticker-cutout",
+      "category": "Zine + Collage",
+      "description": "Retro-pop scrapbook posters with oversized yellow headline typography, scarlet offset shadows, thick white die-cut photo cutouts, textured cobalt-blue paper, and playful accent stickers.",
+      "summary": "A loud retro-pop scrapbook poster system that layers an oversized yellow display headline, red offset print shadows, a central natural-color portrait cutout with a thick irregular white die-cut border, cobalt-blue paper texture, and small playful sticker marks. The result feels handmade, glossy-magazine inspired, and high-energy without copying any character, celebrity, or source design.",
+      "preview16": "../styles/retro-pop-sticker-cutout/preview-16x9.jpg",
+      "preview9": "../styles/retro-pop-sticker-cutout/preview-9x16.jpg",
+      "styleJson": "../styles/retro-pop-sticker-cutout/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/retro-pop-sticker-cutout.md",
+      "folder": "../styles/retro-pop-sticker-cutout/",
+      "anchors": [
+        "Use a full-bleed saturated cobalt-blue paper background with visible fine grain, photocopy speckle, and lightly uneven ink texture.",
+        "Set a huge two-word uppercase display headline in warm sunflower yellow, partially concealed behind the main portrait and cropped at the canvas edges.",
+        "Add a misregistered scarlet-red duplicate shadow or offset behind selected yellow headline letterforms, producing a simple two-ink print effect.",
+        "Use one large chest-up or waist-up photographic adult subject in the center or slightly off-center, treated as a paper cutout with an irregular thick white die-cut outline.",
+        "Give the cutout a narrow dark drop shadow or red rim offset that makes it lift above the blue paper and headline layers.",
+        "Place three to five small generic sticker-like accents around the portrait, such as starbursts, tiny cherries, an orange slice, a daisy, or a swirl badge; do not use protected characters or branded iconography."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "zine-maker",
+      "copyPrompt": "Use the \"Retro Pop Sticker Cutout\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an adult zine maker with copper curly hair and a confident three-quarter gaze\nSubject action: holding up a folded handmade mini-publication beside one shoulder\nProduct or prop: an unbranded stapled zine with abstract geometric cover art\nLocation: an implied independent print studio with no detailed scenery\nBackground elements: blue paper texture, yellow word blocks, red print offsets, small generic star and orange-slice stickers\nMain text: MAKE\nNOISE\nSecondary text: SMALL EDITIONS, BIG IDEAS\nAccent symbol: BLACK STARBURST\nWardrobe style: cobalt cardigan over a plain cream T-shirt, small silver earrings\n\nStyle direction:\nA loud retro-pop scrapbook poster system that layers an oversized yellow display headline, red\noffset print shadows, a central natural-color portrait cutout with a thick irregular white die-\ncut border, cobalt-blue paper texture, and small playful sticker marks. The result feels\nhandmade, glossy-magazine inspired, and high-energy without copying any character, celebrity, or\nsource design.\n\nKeep visible:\n- Use a full-bleed saturated cobalt-blue paper background with visible fine grain, photocopy speckle, and lightly uneven ink texture.\n- Set a huge two-word uppercase display headline in warm sunflower yellow, partially concealed behind the main portrait and cropped at the canvas edges.\n- Add a misregistered scarlet-red duplicate shadow or offset behind selected yellow headline letterforms, producing a simple two-ink print effect.\n- Use one large chest-up or waist-up photographic adult subject in the center or slightly off-center, treated as a paper cutout with an irregular thick white die-cut outline.\n- Give the cutout a narrow dark drop shadow or red rim offset that makes it lift above the blue paper and headline layers.\n\nAvoid:\nNo source woman's likeness, black retro bob, leopard jacket, cartoon bow, cat icon, candy swirl,\nthree-heart source sticker row, source headline, source handwritten credit, source barcode,\nsource signature, logo, watermark, username, QR code, branded sticker, protected character,\nfull-color background scene, muted palette, clean corporate style, gradient, glossy 3D, thin\ntypography, too many stickers, distorted face, malformed hands, or unreadable headline.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Red Monochrome Editorial Grid",
       "slug": "red-monochrome-editorial-grid",

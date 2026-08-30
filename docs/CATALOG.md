@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 122 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 123 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Retro Pop Sticker Cutout
+
+<a href="../styles/retro-pop-sticker-cutout"><img src="../assets/thumbs/retro-pop-sticker-cutout-16x9.jpg" width="720" alt="Retro Pop Sticker Cutout preview"></a>
+
+A loud retro-pop scrapbook poster system that layers an oversized yellow display headline, red offset print shadows, a central natural-color portrait cutout with a thick irregular white die-cut border, cobalt-blue paper texture, and small playful sticker marks. The result feels handmade, glossy-magazine inspired, and high-energy without copying any character, celebrity, or source design.
+
+Files: [style.json](../styles/retro-pop-sticker-cutout/style.json) · [Copy Prompt](copy-prompts/retro-pop-sticker-cutout.md) · [16:9 preview](../styles/retro-pop-sticker-cutout/preview-16x9.jpg) · [9:16 preview](../styles/retro-pop-sticker-cutout/preview-9x16.jpg) · [Folder](../styles/retro-pop-sticker-cutout)
+
+---
 
 ### Red Monochrome Editorial Grid
 
