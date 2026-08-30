@@ -1,8 +1,18 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 123 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 124 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Crimson Vanishing Point Editorial
+
+<a href="../styles/crimson-vanishing-point-editorial"><img src="../assets/thumbs/crimson-vanishing-point-editorial-16x9.jpg" width="720" alt="Crimson Vanishing Point Editorial preview"></a>
+
+A high-pressure editorial-poster system that turns a monochrome, ultra-wide one-point-perspective public interior into a typographic corridor. A lone central figure moves away from the viewer as enormous scarlet letters become receding floor, wall, and ceiling planes, while blurred peripheral bodies and faint technical text create urgency without clutter.
+
+Files: [style.json](../styles/crimson-vanishing-point-editorial/style.json) · [Copy Prompt](copy-prompts/crimson-vanishing-point-editorial.md) · [16:9 preview](../styles/crimson-vanishing-point-editorial/preview-16x9.jpg) · [9:16 preview](../styles/crimson-vanishing-point-editorial/preview-9x16.jpg) · [Folder](../styles/crimson-vanishing-point-editorial)
+
+---
 
 ### Retro Pop Sticker Cutout
 

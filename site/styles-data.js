@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 123,
+  "styleCount": 124,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,42 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Crimson Vanishing Point Editorial",
+      "slug": "crimson-vanishing-point-editorial",
+      "category": "Type Posters",
+      "description": "Monochrome ultra-wide forced-perspective corridors with a lone silhouette walker, giant scarlet geometric letter planes receding toward the vanishing point, and motion-blurred crowds.",
+      "summary": "A high-pressure editorial-poster system that turns a monochrome, ultra-wide one-point-perspective public interior into a typographic corridor. A lone central figure moves away from the viewer as enormous scarlet letters become receding floor, wall, and ceiling planes, while blurred peripheral bodies and faint technical text create urgency without clutter.",
+      "preview16": "../styles/crimson-vanishing-point-editorial/preview-16x9.jpg",
+      "preview9": "../styles/crimson-vanishing-point-editorial/preview-9x16.jpg",
+      "styleJson": "../styles/crimson-vanishing-point-editorial/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/crimson-vanishing-point-editorial.md",
+      "folder": "../styles/crimson-vanishing-point-editorial/",
+      "anchors": [
+        "Use a strongly centered one-point perspective inside a long monumental public interior, with repeated bays, arches, ceiling ribs, or light fixtures converging at a single deep vanishing point.",
+        "Render the architecture almost entirely in high-contrast black, white, and silver-gray, with coarse photographic grain and a slightly documentary, low-light feel.",
+        "Place one lone adult figure on the central axis, walking away or moving forward into the depth of the corridor, with the body read primarily as a dark silhouette.",
+        "Keep the central figure smaller than the architecture and typography, approximately 15–25% of canvas height, so the space and word planes dominate the drama.",
+        "Add one to three enormous scarlet-red uppercase word fragments or geometric letter planes aligned to the exact vanishing-point perspective, appearing on the floor, ceiling, or spanning the central corridor.",
+        "Use large red letter planes nearest the viewer and progressively smaller red fragments as they recede toward the vanishing point; they must be dimensional perspective objects, not a flat title pasted over the scene."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "archive-conservator",
+      "copyPrompt": "Use the \"Crimson Vanishing Point Editorial\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an adult archive conservator seen from behind as a dark slender silhouette\nSubject action: walking forward while carrying a rolled restoration canvas under one arm\nProduct or prop: one plain rolled canvas secured with a dark strap, not a case or briefcase\nLocation: a grand but fictional marble library undercroft with repeated vaulted bays\nBackground elements: blurred visitors near the wall niches, soft overhead lamps, no bookshelves or transit details\nMain text: ENTER\nSecondary text: CATALOGUE 04 / CONTINUE FORWARD\nAccent symbol: SMALL RED ARCHIVE TICK\nWardrobe style: long charcoal work coat, dark trousers, plain leather shoes\n\nStyle direction:\nA high-pressure editorial-poster system that turns a monochrome, ultra-wide one-point-\nperspective public interior into a typographic corridor. A lone central figure moves away from\nthe viewer as enormous scarlet letters become receding floor, wall, and ceiling planes, while\nblurred peripheral bodies and faint technical text create urgency without clutter.\n\nKeep visible:\n- Use a strongly centered one-point perspective inside a long monumental public interior, with repeated bays, arches, ceiling ribs, or light fixtures converging at a single deep vanishing point.\n- Render the architecture almost entirely in high-contrast black, white, and silver-gray, with coarse photographic grain and a slightly documentary, low-light feel.\n- Place one lone adult figure on the central axis, walking away or moving forward into the depth of the corridor, with the body read primarily as a dark silhouette.\n- Keep the central figure smaller than the architecture and typography, approximately 15–25% of canvas height, so the space and word planes dominate the drama.\n- Add one to three enormous scarlet-red uppercase word fragments or geometric letter planes aligned to the exact vanishing-point perspective, appearing on the floor, ceiling, or spanning the central corridor.\n\nAvoid:\nNo original subway, no platform, no transit signage, no man in black suit, no briefcase, no\nsource giant word or glyph sequence, no source prose, no exact tunnel geometry, no logo, no\nwatermark, no QR code, no readable real location sign, no blue/yellow/green/orange/purple, no\nmulticolor neon, no flat red title pasted over photo, no center crowd, no glossy stock image, no\nweak perspective, no distorted body, and no illegible headline.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Retro Pop Sticker Cutout",
       "slug": "retro-pop-sticker-cutout",

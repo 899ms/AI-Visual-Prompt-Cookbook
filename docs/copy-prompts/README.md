@@ -29,6 +29,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Cream Smoke City Manga Poster Style | [Copy Prompt](cream-smoke-city-manga-poster-style.md) | [style.json](../../styles/cream-smoke-city-manga-poster-style/style.json) |
 | Crimson Ink Manga Dossier | [Copy Prompt](crimson-ink-manga-dossier.md) | [style.json](../../styles/crimson-ink-manga-dossier/style.json) |
 | Crimson Noir Newsprint Editorial | [Copy Prompt](crimson-noir-newsprint-editorial-style.md) | [style.json](../../styles/crimson-noir-newsprint-editorial-style/style.json) |
+| Crimson Vanishing Point Editorial | [Copy Prompt](crimson-vanishing-point-editorial.md) | [style.json](../../styles/crimson-vanishing-point-editorial/style.json) |
 | Cyan Grain Macro Megatype Poster | [Copy Prompt](cyan-grain-macro-megatype-poster-style.md) | [style.json](../../styles/cyan-grain-macro-megatype-poster-style/style.json) |
 | Cyan Red Shockwave Type Poster Style | [Copy Prompt](cyan-red-shockwave-type-poster-style.md) | [style.json](../../styles/cyan-red-shockwave-type-poster-style/style.json) |
 | Dusk Cyan Layered Type Poster Style | [Copy Prompt](dusk-cyan-layered-type-poster-style.md) | [style.json](../../styles/dusk-cyan-layered-type-poster-style/style.json) |
