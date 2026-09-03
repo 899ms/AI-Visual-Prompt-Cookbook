@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 124,
+  "styleCount": 126,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,78 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Motorsport Technical Editorial",
+      "slug": "motorsport-technical-editorial",
+      "category": "Product + Campaign",
+      "description": "High-energy motorsport editorial posters with dramatic racing photography, oversized condensed type, industrial info cards, and signal-yellow technical accents.",
+      "summary": "A high-energy motorsport editorial visual system that combines a dramatic original racing photograph with oversized condensed typography, industrial information cards, signal-yellow accents, and disciplined technical-document graphic grammar.",
+      "preview16": "../styles/motorsport-technical-editorial/preview-16x9.jpg",
+      "preview9": "../styles/motorsport-technical-editorial/preview-9x16.jpg",
+      "styleJson": "../styles/motorsport-technical-editorial/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/motorsport-technical-editorial.md",
+      "folder": "../styles/motorsport-technical-editorial/",
+      "anchors": [
+        "Oversized italic condensed sans-serif headline cropped by the page edges",
+        "Three-tier hierarchy that alternates between title bands, technical panels, and a dominant racing image",
+        "High-contrast palette of near-black, warm off-white, graphite gray, and concentrated signal yellow",
+        "Dense but disciplined editorial information blocks built from thin rules, outlined boxes, square markers, and small diagrams",
+        "Low front three-quarter action perspective with the vehicle breaking across the graphic grid",
+        "Wet-track or high-contrast night lighting with controlled specular reflections"
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "night-arc",
+      "copyPrompt": "Use the \"Motorsport Technical Editorial\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: a fictional graphite-and-white electric GT race car marked 24\nSubject action: charging through a rain-swept right-hand curve\nProduct or prop: a small yellow pit-radio antenna and blank wheel hubs\nLocation: a fictional endurance circuit under floodlights\nBackground elements: wet asphalt reflections, blurred pit wall lights, and a low safety fence\nMain text: VOLTAGE\nSecondary text: GT-24 / ENDURANCE UNIT\nAccent symbol: diagonal yellow hazard stripe\nWardrobe style: no people; technical automotive editorial styling\n\nStyle direction:\nA high-energy motorsport editorial visual system that combines a dramatic original racing\nphotograph with oversized condensed typography, industrial information cards, signal-yellow\naccents, and disciplined technical-document graphic grammar.\n\nKeep visible:\n- Oversized italic condensed sans-serif headline cropped by the page edges\n- Three-tier hierarchy that alternates between title bands, technical panels, and a dominant racing image\n- High-contrast palette of near-black, warm off-white, graphite gray, and concentrated signal yellow\n- Dense but disciplined editorial information blocks built from thin rules, outlined boxes, square markers, and small diagrams\n- Low front three-quarter action perspective with the vehicle breaking across the graphic grid\n\nAvoid:\nReal brand logos, sponsor graphics, real racing teams, recognizable vehicle models, source car\nlivery, source wording, QR code, barcode, watermark, signature, copied panel positions, dense\nreadable microtext, illegible gibberish paragraphs, neon cyberpunk, generic video-game UI, muddy\nnoise, oversharpening, or accidental compression artifacts.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
+    {
+      "name": "Split Ink Monumental Editorial",
+      "slug": "split-ink-monumental-editorial",
+      "category": "Type Posters",
+      "description": "High-contrast editorial collage with cream-and-vermilion split fields, monumental cropped black letter architecture, monochrome full-body subjects, and tactile screenprint texture.",
+      "summary": "A high-contrast editorial-collage system built from a strict warm-cream and vermilion split field, enormous cropped black letter architecture, a central monochrome full-body subject, and tactile foreground forms. A crumpled red material and an angular dark backdrop provide diagonal drama while microtype, dot grids, and distressed ink create a dense screenprinted poster surface.",
+      "preview16": "../styles/split-ink-monumental-editorial/preview-16x9.jpg",
+      "preview9": "../styles/split-ink-monumental-editorial/preview-9x16.jpg",
+      "styleJson": "../styles/split-ink-monumental-editorial/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/split-ink-monumental-editorial.md",
+      "folder": "../styles/split-ink-monumental-editorial/",
+      "anchors": [
+        "Divide the main field into a hard-edged warm-cream block and a saturated vermilion block, with an intentional vertical or near-vertical seam acting as a primary compositional axis.",
+        "Use monumental near-black uppercase geometric sans-serif letters as cropped vertical architectural slabs behind and around the subject, not as a small headline above the scene.",
+        "Let the oversized type alternate between solid black strokes and cream counter-shapes cut out from the vermilion field, so the type becomes part of the background structure.",
+        "Place one full-body adult subject in a high-contrast monochrome or reduced-color collage treatment, bridging the seam and overlapping the letter architecture.",
+        "Use a large angular dark folded fabric, canopy, paper sculpture, or industrial tarp behind the subject as a single diagonal silhouette; do not use feathered wings or a character-like body extension.",
+        "Include one heavy crumpled vermilion textile, map, or material near the subject's lower half, creating a soft irregular counter-shape to the hard giant type."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "map-maker",
+      "copyPrompt": "Use the \"Split Ink Monumental Editorial\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an adult urban map maker with short braided hair in reduced-color collage treatment\nSubject action: standing on a stack of folded city plans while measuring a route with a long survey ruler\nProduct or prop: a plain aluminum survey ruler and folded unbranded paper map\nLocation: an abstract public-planning archive with no identifiable city\nBackground elements: warm-cream/vermilion split field, large black FORM type slabs, angular dark folded map canopy, crumpled red survey tarp, agave leaves and concrete fragments at base\nMain text: FORM\nSecondary text: CITY FIELD / FIND THE PATH\nAccent symbol: PLUS AND HOLLOW RING\nWardrobe style: dark canvas jacket, cream work shirt, black practical shoes, no armor or cape\n\nStyle direction:\nA high-contrast editorial-collage system built from a strict warm-cream and vermilion split\nfield, enormous cropped black letter architecture, a central monochrome full-body subject, and\ntactile foreground forms. A crumpled red material and an angular dark backdrop provide diagonal\ndrama while microtype, dot grids, and distressed ink create a dense screenprinted poster\nsurface.\n\nKeep visible:\n- Divide the main field into a hard-edged warm-cream block and a saturated vermilion block, with an intentional vertical or near-vertical seam acting as a primary compositional axis.\n- Use monumental near-black uppercase geometric sans-serif letters as cropped vertical architectural slabs behind and around the subject, not as a small headline above the scene.\n- Let the oversized type alternate between solid black strokes and cream counter-shapes cut out from the vermilion field, so the type becomes part of the background structure.\n- Place one full-body adult subject in a high-contrast monochrome or reduced-color collage treatment, bridging the seam and overlapping the letter architecture.\n- Use a large angular dark folded fabric, canopy, paper sculpture, or industrial tarp behind the subject as a single diagonal silhouette; do not use feathered wings or a character-like body extension.\n\nAvoid:\nNo winged warrior, no sword, no armor, no feathered wing, no red cape, no reptile, no crocodile,\nno monster head, no teeth, no scales, no fantasy battle, no source phrase, no source glyphs, no\ncopied central pose, no source dot position, no franchise name, no logo, no watermark, no\nusername, no ornate fantasy letters, no glossy 3D rendering, no cinematic rainbow color, no\nblue/cyan/violet/neon/gold, no extra badges, no distorted anatomy, and no unreadable headline.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Crimson Vanishing Point Editorial",
       "slug": "crimson-vanishing-point-editorial",

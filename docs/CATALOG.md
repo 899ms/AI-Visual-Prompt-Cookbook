@@ -1,8 +1,28 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 124 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 126 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Motorsport Technical Editorial
+
+<a href="../styles/motorsport-technical-editorial"><img src="../assets/thumbs/motorsport-technical-editorial-16x9.jpg" width="720" alt="Motorsport Technical Editorial preview"></a>
+
+A high-energy motorsport editorial visual system that combines a dramatic original racing photograph with oversized condensed typography, industrial information cards, signal-yellow accents, and disciplined technical-document graphic grammar.
+
+Files: [style.json](../styles/motorsport-technical-editorial/style.json) · [Copy Prompt](copy-prompts/motorsport-technical-editorial.md) · [16:9 preview](../styles/motorsport-technical-editorial/preview-16x9.jpg) · [9:16 preview](../styles/motorsport-technical-editorial/preview-9x16.jpg) · [Folder](../styles/motorsport-technical-editorial)
+
+---
+
+### Split Ink Monumental Editorial
+
+<a href="../styles/split-ink-monumental-editorial"><img src="../assets/thumbs/split-ink-monumental-editorial-16x9.jpg" width="720" alt="Split Ink Monumental Editorial preview"></a>
+
+A high-contrast editorial-collage system built from a strict warm-cream and vermilion split field, enormous cropped black letter architecture, a central monochrome full-body subject, and tactile foreground forms. A crumpled red material and an angular dark backdrop provide diagonal drama while microtype, dot grids, and distressed ink create a dense screenprinted poster surface.
+
+Files: [style.json](../styles/split-ink-monumental-editorial/style.json) · [Copy Prompt](copy-prompts/split-ink-monumental-editorial.md) · [16:9 preview](../styles/split-ink-monumental-editorial/preview-16x9.jpg) · [9:16 preview](../styles/split-ink-monumental-editorial/preview-9x16.jpg) · [Folder](../styles/split-ink-monumental-editorial)
+
+---
 
 ### Crimson Vanishing Point Editorial
 

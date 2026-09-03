@@ -62,6 +62,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Mono Noir Type Portrait Poster Style | [Copy Prompt](mono-noir-type-portrait-poster-style.md) | [style.json](../../styles/mono-noir-type-portrait-poster-style/style.json) |
 | Monochrome Grid Sneaker Tech Spec | [Copy Prompt](monochrome-grid-sneaker-tech-spec.md) | [style.json](../../styles/monochrome-grid-sneaker-tech-spec/style.json) |
 | Monochrome Xerox Sports Dossier | [Copy Prompt](monochrome-xerox-sports-dossier.md) | [style.json](../../styles/monochrome-xerox-sports-dossier/style.json) |
+| Motorsport Technical Editorial | [Copy Prompt](motorsport-technical-editorial.md) | [style.json](../../styles/motorsport-technical-editorial/style.json) |
 | Mountain Trail Monster Doodle Poster Style | [Copy Prompt](mountain-trail-monster-doodle-poster-style.md) | [style.json](../../styles/mountain-trail-monster-doodle-poster-style/style.json) |
 | Multi-Color Beverage Splash Ad System Style | [Copy Prompt](multi-color-beverage-splash-ad-system-style.md) | [style.json](../../styles/multi-color-beverage-splash-ad-system-style/style.json) |
 | Naive Marker PSA Poster Style | [Copy Prompt](naive-marker-psa-poster-style.md) | [style.json](../../styles/naive-marker-psa-poster-style/style.json) |
@@ -103,6 +104,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Sky Blue Home Life Doodle Poster Style | [Copy Prompt](sky-blue-home-life-doodle-poster-style.md) | [style.json](../../styles/sky-blue-home-life-doodle-poster-style/style.json) |
 | Sky Blue Lucky Tag Doodle Poster Style | [Copy Prompt](sky-blue-lucky-tag-doodle-poster-style.md) | [style.json](../../styles/sky-blue-lucky-tag-doodle-poster-style/style.json) |
 | Soft Analog Future Editorial Poster | [Copy Prompt](soft-analog-future-editorial-poster-style.md) | [style.json](../../styles/soft-analog-future-editorial-poster-style/style.json) |
+| Split Ink Monumental Editorial | [Copy Prompt](split-ink-monumental-editorial.md) | [style.json](../../styles/split-ink-monumental-editorial/style.json) |
 | Split Scorched Editorial Poster | [Copy Prompt](split-scorched-editorial-poster.md) | [style.json](../../styles/split-scorched-editorial-poster/style.json) |
 | Subway Doodle Photo Hybrid | [Copy Prompt](subway-doodle-photo-hybrid-style.md) | [style.json](../../styles/subway-doodle-photo-hybrid-style/style.json) |
 | Sun-Faded Scenic Editorial Poster | [Copy Prompt](sun-faded-scenic-editorial-poster.md) | [style.json](../../styles/sun-faded-scenic-editorial-poster/style.json) |
