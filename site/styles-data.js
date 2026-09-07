@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 126,
+  "styleCount": 128,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,82 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Monochrome Tech-Grid Editorial",
+      "slug": "monochrome-tech-grid-editorial",
+      "category": "Product + Campaign",
+      "description": "Severe black-and-white editorial posters with an oversized compressed headline, a dense technical micro-information grid, and one monumentally cropped documentary photograph.",
+      "summary": "A severe black-and-white editorial poster system that combines an oversized compressed headline, a dense modular field of technical micro-information, and one documentary photograph cropped with monumental scale. Off-white paper, distressed ink, thin rules, registration motifs, and a restrained safety-red accent make the layout feel like an experimental identity manual crossed with an archival industrial contact sheet.",
+      "preview16": "../styles/monochrome-tech-grid-editorial/preview-16x9.jpg",
+      "preview9": "../styles/monochrome-tech-grid-editorial/preview-9x16.jpg",
+      "styleJson": "../styles/monochrome-tech-grid-editorial/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/monochrome-tech-grid-editorial.md",
+      "folder": "../styles/monochrome-tech-grid-editorial/",
+      "anchors": [
+        "One immense black grotesk headline dominates the uppermost layer, tightly tracked and cropped close to the outer edges.",
+        "A rigid Swiss-influenced modular grid of thin black rules divides the information zone into many unequal technical panels.",
+        "The layout is intentionally dense yet disciplined, with tiny metadata contrasted against a single oversized word and a single oversized photograph.",
+        "One high-contrast black-and-white documentary photograph occupies roughly the lower half in portrait formats or the dominant right/lower field in landscape formats.",
+        "The photographed subject is cropped boldly at the frame edges and seen from a straightforward eye-level or slightly low documentary viewpoint.",
+        "Typography combines an ultra-bold neo-grotesk display face with neutral small sans-serif labels and monospaced technical microcopy."
+      ],
+      "variables": [
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "ASPECT_RATIO"
+      ],
+      "exampleName": "observatory-night-shift",
+      "copyPrompt": "Use the \"Monochrome Tech-Grid Editorial\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an observatory technician beside a compact radio telescope mount\nSubject action: tightening the altitude mechanism before a night calibration\nProduct or prop: a hand wheel, calibration gauge, and compact telescope assembly\nLocation: a windswept mountain observatory platform at dusk\nBackground elements: low guardrails, distant cloud layers, cable trays, and concrete decking\nMain text: NIGHT AXIS\nSecondary text: FIELD CALIBRATION / ALTITUDE UNIT 07 / CLEARANCE 2140M\nAccent symbol: +\nWardrobe style: dark insulated utility jacket, plain work trousers, and protective gloves with no logos\n\nStyle direction:\nA severe black-and-white editorial poster system that combines an oversized compressed headline,\na dense modular field of technical micro-information, and one documentary photograph cropped\nwith monumental scale. Off-white paper, distressed ink, thin rules, registration motifs, and a\nrestrained safety-red accent make the layout feel like an experimental identity manual crossed\nwith an archival industrial contact sheet.\n\nKeep visible:\n- One immense black grotesk headline dominates the uppermost layer, tightly tracked and cropped close to the outer edges.\n- A rigid Swiss-influenced modular grid of thin black rules divides the information zone into many unequal technical panels.\n- The layout is intentionally dense yet disciplined, with tiny metadata contrasted against a single oversized word and a single oversized photograph.\n- One high-contrast black-and-white documentary photograph occupies roughly the lower half in portrait formats or the dominant right/lower field in landscape formats.\n- The photographed subject is cropped boldly at the frame edges and seen from a straightforward eye-level or slightly low documentary viewpoint.\n\nAvoid:\nrally car, racecar, motorsport, racetrack, racing driver, door number 553, sponsor decals,\nTenSecond, T-023, original identity copy, copied layout modules, QR code, scannable barcode,\nwatermark, signature, creator name, real logo, brand mark, glossy 3D render, neon palette,\ngradient, cinematic color photo, lifestyle advertising, scrapbook collage, chaotic UI, excessive\nglitch, heavy noise, text soup, illegible headline, distorted typography, fake paragraphs,\nfisheye, centered product cutout\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
+    {
+      "name": "Sculptural Type Helix — Refined",
+      "slug": "tangerine-type-helix-fisheye",
+      "category": "Type Posters",
+      "description": "Close wide-angle portraits wrapped by a descending sculptural 3D type helix, with strong near/far letter scale, unobstructed faces, and case-specific materials and palettes.",
+      "summary": "Refinement of the existing four helix portraits: retain subjects, props, palette and material families; improve close camera impact, letter hierarchy and scene integration without introducing new concepts.",
+      "preview16": "../styles/tangerine-type-helix-fisheye/preview-16x9.jpg",
+      "preview9": "../styles/tangerine-type-helix-fisheye/preview-9x16.jpg",
+      "styleJson": "../styles/tangerine-type-helix-fisheye/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/tangerine-type-helix-fisheye.md",
+      "folder": "../styles/tangerine-type-helix-fisheye/",
+      "anchors": [
+        "[CORE] Oversized three-dimensional letters form a continuous descending helix of approximately three turns around one person, visibly passing behind the shoulders and in front of the torso.",
+        "[CORE] Strong near/far scale contrast makes the lower foreground lettering dramatically larger than the distant upper arch.",
+        "[CORE] Close wide-angle perspective exaggerates the face and foreground and compresses the distant body and environment.",
+        "[CORE] Keep the face unobstructed, framed by the upper arch; coherent occlusion and scene lighting integrate the letters into the physical space.",
+        "[FLEX] Palette, sculptural letter material, uppercase typeface personality and light mood follow each case art direction; retain thick readable letter volumes and subject/type separation.",
+        "[FLEX] Portrait stacks the turns vertically; landscape broadens their elliptical sweep, preserving upper and lower arcs and front/back depth."
+      ],
+      "variables": [
+        "ASPECT_RATIO",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "SUBJECT",
+        "ACTION",
+        "WARDROBE",
+        "LOCATION",
+        "MAIN_TEXT",
+        "ART_DIRECTION",
+        "REFINEMENT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "BACKGROUND_ELEMENTS",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE"
+      ],
+      "exampleName": "roller-day",
+      "copyPrompt": "Use the \"Sculptural Type Helix — Refined\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: an adult East Asian woman with a short black bob\nSubject action: [your Pose and single salient handheld prop]\nProduct or prop: [your one salient handheld prop]\nLocation: a lavender seaside skate plaza with pale concrete and sparse distant palms at late afternoon\nBackground elements: [your secondary scene details that support the location]\nMain text: PLAYTIME\nSecondary text: [your optional supporting text; leave unused if not needed]\nAccent symbol: [your optional decorative mark; leave unused if not needed]\nWardrobe style: [your Clothing supporting the case-specific art direction]\n\nStyle direction:\nRefinement of the existing four helix portraits: retain subjects, props, palette and material\nfamilies; improve close camera impact, letter hierarchy and scene integration without\nintroducing new concepts.\n\nKeep visible:\n- [CORE] Oversized three-dimensional letters form a continuous descending helix of approximately three turns around one person, visibly passing behind the shoulders and in front of the torso.\n- [CORE] Strong near/far scale contrast makes the lower foreground lettering dramatically larger than the distant upper arch.\n- [CORE] Close wide-angle perspective exaggerates the face and foreground and compresses the distant body and environment.\n- [CORE] Keep the face unobstructed, framed by the upper arch; coherent occlusion and scene lighting integrate the letters into the physical space.\n- [FLEX] Palette, sculptural letter material, uppercase typeface personality and light mood follow each case art direction; retain thick readable letter volumes and subject/type separation.\n\nAvoid:\nWatermarks, logos, SUMMERTIME, basketball, original face, flat overlay lettering, disconnected\nrings, separate support rails, lettering covering eyes, misspelled front-facing words, malformed\nanatomy, default orange-blue-green styling.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Motorsport Technical Editorial",
       "slug": "motorsport-technical-editorial",

@@ -1,8 +1,28 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 126 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 128 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Monochrome Tech-Grid Editorial
+
+<a href="../styles/monochrome-tech-grid-editorial"><img src="../assets/thumbs/monochrome-tech-grid-editorial-16x9.jpg" width="720" alt="Monochrome Tech-Grid Editorial preview"></a>
+
+A severe black-and-white editorial poster system that combines an oversized compressed headline, a dense modular field of technical micro-information, and one documentary photograph cropped with monumental scale. Off-white paper, distressed ink, thin rules, registration motifs, and a restrained safety-red accent make the layout feel like an experimental identity manual crossed with an archival industrial contact sheet.
+
+Files: [style.json](../styles/monochrome-tech-grid-editorial/style.json) · [Copy Prompt](copy-prompts/monochrome-tech-grid-editorial.md) · [16:9 preview](../styles/monochrome-tech-grid-editorial/preview-16x9.jpg) · [9:16 preview](../styles/monochrome-tech-grid-editorial/preview-9x16.jpg) · [Folder](../styles/monochrome-tech-grid-editorial)
+
+---
+
+### Sculptural Type Helix — Refined
+
+<a href="../styles/tangerine-type-helix-fisheye"><img src="../assets/thumbs/tangerine-type-helix-fisheye-16x9.jpg" width="720" alt="Sculptural Type Helix — Refined preview"></a>
+
+Refinement of the existing four helix portraits: retain subjects, props, palette and material families; improve close camera impact, letter hierarchy and scene integration without introducing new concepts.
+
+Files: [style.json](../styles/tangerine-type-helix-fisheye/style.json) · [Copy Prompt](copy-prompts/tangerine-type-helix-fisheye.md) · [16:9 preview](../styles/tangerine-type-helix-fisheye/preview-16x9.jpg) · [9:16 preview](../styles/tangerine-type-helix-fisheye/preview-9x16.jpg) · [Folder](../styles/tangerine-type-helix-fisheye)
+
+---
 
 ### Motorsport Technical Editorial
 
