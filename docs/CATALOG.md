@@ -1,8 +1,28 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 128 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 130 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Color Pop Interlocked Marker Type
+
+<a href="../styles/color-pop-interlocked-marker-type"><img src="../assets/thumbs/color-pop-interlocked-marker-type-16x9.jpg" width="720" alt="Color Pop Interlocked Marker Type preview"></a>
+
+Dense playful hand-drawn megatype: irregular interlocking colored letters, bold black contours, sparse doodles and neutral paper.
+
+Files: [style.json](../styles/color-pop-interlocked-marker-type/style.json) · [Copy Prompt](copy-prompts/color-pop-interlocked-marker-type.md) · [16:9 preview](../styles/color-pop-interlocked-marker-type/preview-16x9.jpg) · [9:16 preview](../styles/color-pop-interlocked-marker-type/preview-9x16.jpg) · [Folder](../styles/color-pop-interlocked-marker-type)
+
+---
+
+### Grainy Envelope Flyer Collage
+
+<a href="../styles/grainy-envelope-flyer-collage"><img src="../assets/thumbs/grainy-envelope-flyer-collage-16x9.jpg" width="720" alt="Grainy Envelope Flyer Collage preview"></a>
+
+A tactile event poster built around repeated photocopied flyers emerging from a saturated paper envelope, framed by cutout icons and spare black type.
+
+Files: [style.json](../styles/grainy-envelope-flyer-collage/style.json) · [Copy Prompt](copy-prompts/grainy-envelope-flyer-collage.md) · [16:9 preview](../styles/grainy-envelope-flyer-collage/preview-16x9.jpg) · [9:16 preview](../styles/grainy-envelope-flyer-collage/preview-9x16.jpg) · [Folder](../styles/grainy-envelope-flyer-collage)
+
+---
 
 ### Monochrome Tech-Grid Editorial
 

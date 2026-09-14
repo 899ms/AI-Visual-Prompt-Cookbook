@@ -23,6 +23,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Cobalt Pop Cutout Editorial | [Copy Prompt](cobalt-pop-cutout-editorial.md) | [style.json](../../styles/cobalt-pop-cutout-editorial/style.json) |
 | Cobalt Torn Didone Portrait Editorial | [Copy Prompt](cobalt-torn-didone-portrait-editorial-style.md) | [style.json](../../styles/cobalt-torn-didone-portrait-editorial-style/style.json) |
 | Cobalt Xerox Script Editorial Poster | [Copy Prompt](cobalt-xerox-script-editorial-poster-style.md) | [style.json](../../styles/cobalt-xerox-script-editorial-poster-style/style.json) |
+| Color Pop Interlocked Marker Type | [Copy Prompt](color-pop-interlocked-marker-type.md) | [style.json](../../styles/color-pop-interlocked-marker-type/style.json) |
 | Coral Window Megatype Motion Poster | [Copy Prompt](coral-window-megatype-motion-poster-style.md) | [style.json](../../styles/coral-window-megatype-motion-poster-style/style.json) |
 | Cozy Bedroom Doodle Companion Snapshot Style | [Copy Prompt](cozy-bedroom-doodle-companion-snapshot-style.md) | [style.json](../../styles/cozy-bedroom-doodle-companion-snapshot-style/style.json) |
 | Crayon Catalog Doodle Poster Style | [Copy Prompt](crayon-catalog-doodle-poster-style.md) | [style.json](../../styles/crayon-catalog-doodle-poster-style/style.json) |
@@ -42,6 +43,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Folded Newspaper Product Ad Style | [Copy Prompt](folded-newspaper-product-ad-style.md) | [style.json](../../styles/folded-newspaper-product-ad-style/style.json) |
 | Foreshortened Gradient Impact Ad Style | [Copy Prompt](foreshortened-gradient-impact-ad-style.md) | [style.json](../../styles/foreshortened-gradient-impact-ad-style/style.json) |
 | Gothic Cat Doodle Photo Collage Style | [Copy Prompt](gothic-cat-doodle-photo-collage-style.md) | [style.json](../../styles/gothic-cat-doodle-photo-collage-style/style.json) |
+| Grainy Envelope Flyer Collage | [Copy Prompt](grainy-envelope-flyer-collage.md) | [style.json](../../styles/grainy-envelope-flyer-collage/style.json) |
 | Halftone Assemblage Metaphor PSA Poster Style | [Copy Prompt](halftone-assemblage-metaphor-psa-poster-style.md) | [style.json](../../styles/halftone-assemblage-metaphor-psa-poster-style/style.json) |
 | Hot Ink Comic Poster | [Copy Prompt](hot-ink-comic-poster.md) | [style.json](../../styles/hot-ink-comic-poster/style.json) |
 | Ice Cyan Megatype Action Poster Style | [Copy Prompt](ice-cyan-megatype-action-poster-style.md) | [style.json](../../styles/ice-cyan-megatype-action-poster-style/style.json) |

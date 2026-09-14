@@ -1,5 +1,5 @@
 window.COOKBOOK_STYLES = {
-  "styleCount": 128,
+  "styleCount": 130,
   "categories": [
     "Editorial + Minimal",
     "Photo + Doodle",
@@ -9,6 +9,91 @@ window.COOKBOOK_STYLES = {
     "Zine + Collage"
   ],
   "styles": [
+    {
+      "name": "Color Pop Interlocked Marker Type",
+      "slug": "color-pop-interlocked-marker-type",
+      "category": "Type Posters",
+      "description": "Playful hand-drawn megatype posters with irregular interlocking colored letters, bold black marker contours, sparse doodles, and neutral paper.",
+      "summary": "Dense playful hand-drawn megatype: irregular interlocking colored letters, bold black contours, sparse doodles and neutral paper.",
+      "preview16": "../styles/color-pop-interlocked-marker-type/preview-16x9.jpg",
+      "preview9": "../styles/color-pop-interlocked-marker-type/preview-9x16.jpg",
+      "styleJson": "../styles/color-pop-interlocked-marker-type/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/color-pop-interlocked-marker-type.md",
+      "folder": "../styles/color-pop-interlocked-marker-type/",
+      "anchors": [
+        "[CORE] Giant individually hand-drawn uppercase letters form a dense interlocking two-word mass, with exaggerated unequal widths, stretched stems, irregular baselines and slight overlaps.",
+        "[CORE] Every major letter has a thick imperfect black marker contour and one vivid flat color; counters remain open and words readable.",
+        "[CORE] Very light cool gray paper (#e4e7e5 approximate) surrounds the lettering, with delicate evenly distributed paper grain; the identical paper color fills all letter counters and hollow text. No bright pure white or yellow aging.",
+        "[CORE] Small loose black contour doodles sit around the letter mass; typography is the subject, never a backdrop to a large character.",
+        "[CORE] Main filled lettering is followed by a smaller hollow-outline uppercase invitation and a casual handwritten footer.",
+        "[CORE] Flat marker-and-print rendering, with sparse local dry-ink scuffs inside selected colored letters and mostly clean neutral paper."
+      ],
+      "variables": [
+        "ASPECT_RATIO",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "WORD_ONE",
+        "WORD_TWO",
+        "INVITATION",
+        "FOOTER",
+        "BADGE",
+        "PALETTE",
+        "DOODLES",
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "MAIN_TEXT",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE"
+      ],
+      "exampleName": "grow-club",
+      "copyPrompt": "Use the \"Color Pop Interlocked Marker Type\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: [your the interlocked hand-drawn two-word headline itself; the letters are the illustration, no separate figure]\nSubject action: [your oversized letters pressing into each other and stretching across the two tiers]\nProduct or prop: [your no product; the small hand-written oval badge acts as the only prop-like element]\nLocation: [your a flat neutral warm-paper poster field with no scene]\nBackground elements: [your sparse unfilled black line doodles scattered in the margins]\nMain text: [your the two-word headline built from WORD_ONE and WORD_TWO]\nSecondary text: [your the hollow-outline invitation line and the casual handwritten footer]\nAccent symbol: [your the small hand-written oval badge]\nWardrobe style: [your not applicable; express theme through letter colors and doodle motifs instead of clothing]\n\nStyle direction:\nDense playful hand-drawn megatype: irregular interlocking colored letters, bold black contours,\nsparse doodles and neutral paper.\n\nKeep visible:\n- [CORE] Giant individually hand-drawn uppercase letters form a dense interlocking two-word mass, with exaggerated unequal widths, stretched stems, irregular baselines and slight overlaps.\n- [CORE] Every major letter has a thick imperfect black marker contour and one vivid flat color; counters remain open and words readable.\n- [CORE] Very light cool gray paper (#e4e7e5 approximate) surrounds the lettering, with delicate evenly distributed paper grain; the identical paper color fills all letter counters and hollow text. No bright pure white or yellow aging.\n- [CORE] Small loose black contour doodles sit around the letter mass; typography is the subject, never a backdrop to a large character.\n- [CORE] Main filled lettering is followed by a smaller hollow-outline uppercase invitation and a casual handwritten footer.\n\nAvoid:\nNo watermark, source brand, rabbit, photographs, 3D extrusion, shadows, uniform typesetting,\npastel wash, beige paper, confetti flood, missing letters or duplicated words.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
+    {
+      "name": "Grainy Envelope Flyer Collage",
+      "slug": "grainy-envelope-flyer-collage",
+      "category": "Type Posters",
+      "description": "Tactile event posters with repeated photocopied flyers spilling from a saturated paper envelope, framed by cutout icons and spare black type.",
+      "summary": "A tactile event poster built around repeated photocopied flyers emerging from a saturated paper envelope, framed by cutout icons and spare black type.",
+      "preview16": "../styles/grainy-envelope-flyer-collage/preview-16x9.jpg",
+      "preview9": "../styles/grainy-envelope-flyer-collage/preview-9x16.jpg",
+      "styleJson": "../styles/grainy-envelope-flyer-collage/style.json",
+      "copyPromptDoc": "../docs/copy-prompts/grainy-envelope-flyer-collage.md",
+      "folder": "../styles/grainy-envelope-flyer-collage/",
+      "anchors": [
+        "[CORE] An open colored paper envelope holds three overlapping cool white event flyers, fanning upward at different small angles; visible triangular envelope folds anchor the lower collage.",
+        "[CORE] Each flyer repeats the same bold black condensed headline and rough monochrome line illustration; at least one headline is fully visible.",
+        "[CORE] A compact irregular cut-paper masthead and small factual text occupy open background outside the central stack.",
+        "[CORE] Several theme-specific cutout stickers orbit the stack with selective white borders, varied scale and shallow overlaps.",
+        "[CORE] Flat printed collage with fine paper grain and rough ink lines, not a dimensional product photograph.",
+        "[FLEX] Background and envelope colors may change by theme but retain strong chromatic contrast against cool white sheets and black ink."
+      ],
+      "variables": [
+        "ASPECT_RATIO",
+        "STYLE_FIDELITY_ANCHORS",
+        "SOURCE_CONTENT_TO_AVOID",
+        "MASTHEAD",
+        "MAIN_TEXT",
+        "DATE_TEXT",
+        "FOOTER",
+        "PALETTE",
+        "ILLUSTRATION",
+        "STICKERS",
+        "SUBJECT",
+        "SUBJECT_ACTION",
+        "PRODUCT_OR_PROP",
+        "LOCATION",
+        "BACKGROUND_ELEMENTS",
+        "SECONDARY_TEXT",
+        "ACCENT_SYMBOL",
+        "WARDROBE_STYLE"
+      ],
+      "exampleName": "print-social",
+      "copyPrompt": "Use the \"Grainy Envelope Flyer Collage\" visual style as the locked visual system.\n\nCreate a 16:9 image.\n\nSubject: [your three tilted photocopied flyers emerging from a large open paper envelope]\nSubject action: [your flyers fanning upward out of the envelope at different angles]\nProduct or prop: [your the saturated open paper envelope with visible triangular side folds]\nLocation: [your a flat saturated cut-paper poster field with no realistic scene]\nBackground elements: [your orbiting cutout sticker icons and coarse print grain around the envelope]\nMain text: PRINT FAIR\nSecondary text: [your the cut-paper masthead, the short date line and the footer line]\nAccent symbol: [your the cutout sticker icons orbiting the envelope]\nWardrobe style: [your not applicable; any figures appear only inside the monochrome flyer drawing]\n\nStyle direction:\nA tactile event poster built around repeated photocopied flyers emerging from a saturated paper\nenvelope, framed by cutout icons and spare black type.\n\nKeep visible:\n- [CORE] An open colored paper envelope holds three overlapping cool white event flyers, fanning upward at different small angles; visible triangular envelope folds anchor the lower collage.\n- [CORE] Each flyer repeats the same bold black condensed headline and rough monochrome line illustration; at least one headline is fully visible.\n- [CORE] A compact irregular cut-paper masthead and small factual text occupy open background outside the central stack.\n- [CORE] Several theme-specific cutout stickers orbit the stack with selective white borders, varied scale and shallow overlaps.\n- [CORE] Flat printed collage with fine paper grain and rough ink lines, not a dimensional product photograph.\n\nAvoid:\nNo source logos, no watermarks, no photographic mockup, no glossy 3D rendering, no extra\nparagraphs, no arbitrary grunge damage, no cropped primary headline.\n\nDo not copy source content, real logos, watermarks, platform UI, QR codes, or exact\nreference layouts. Keep the visual system, but change the subject, text, and scene."
+    },
     {
       "name": "Monochrome Tech-Grid Editorial",
       "slug": "monochrome-tech-grid-editorial",
