@@ -6,7 +6,6 @@ from __future__ import annotations
 import html
 import json
 import re
-import textwrap
 from pathlib import Path
 from typing import Any
 
@@ -17,17 +16,8 @@ README = ROOT / "README.md"
 SITE_DIR = ROOT / "site"
 OUTPUT = SITE_DIR / "styles-data.js"
 
-VARIABLE_ORDER = [
-    "SUBJECT",
-    "SUBJECT_ACTION",
-    "PRODUCT_OR_PROP",
-    "LOCATION",
-    "BACKGROUND_ELEMENTS",
-    "MAIN_TEXT",
-    "SECONDARY_TEXT",
-    "ACCENT_SYMBOL",
-    "WARDROBE_STYLE",
-]
+SWITCHABLE_ASPECT_RATIOS = ("16:9", "9:16", "4:5", "5:4")
+RATIO_RE = re.compile(r"\b(\d+:\d+)\b")
 
 CATEGORY_RULES = [
     (
@@ -170,69 +160,16 @@ def first_text_list(items: Any, limit: int) -> list[str]:
     return result
 
 
-def first_example_values(data: dict[str, Any]) -> tuple[str, dict[str, str]]:
-    examples = data.get("examples")
-    if not isinstance(examples, list) or not examples:
-        return "Custom example", {}
-    first = examples[0]
-    if not isinstance(first, dict):
-        return "Custom example", {}
-    case_name = first.get("case_name")
-    values = first.get("values")
-    if not isinstance(case_name, str) or not case_name.strip():
-        case_name = "Custom example"
-    if not isinstance(values, dict):
-        values = {}
-    clean_values = {str(key): str(value) for key, value in values.items() if isinstance(value, str)}
-    return case_name.strip(), clean_values
-
-
-def fallback_value(data: dict[str, Any], values: dict[str, str], key: str) -> str:
-    value = values.get(key)
-    if value and value.strip():
-        return value.strip()
+def aspect_ratios_for(data: dict[str, Any]) -> list[str]:
     env = data.get("environment_variables")
-    if isinstance(env, dict) and isinstance(env.get(key), str):
-        return f"[your {env[key]}]"
-    return f"[your {key.lower()}]"
-
-
-def wrap(text: str, width: int = 96) -> str:
-    return "\n".join(textwrap.fill(line, width=width) if line else "" for line in text.splitlines())
-
-
-def copy_prompt(data: dict[str, Any], values: dict[str, str]) -> str:
-    name = str(data.get("style_name", "Untitled Style")).strip()
-    summary = str(data.get("style_summary", "")).strip()
-    negative = str(data.get("negative_prompt", "")).strip()
-    anchors = first_text_list(data.get("style_fidelity_anchors"), 5)
-
-    lines = [
-        f'Use the "{name}" visual style as the locked visual system.',
-        "",
-        "Create a 16:9 image.",
-        "",
-    ]
-    for key in VARIABLE_ORDER:
-        label = key.lower().replace("_", " ").capitalize()
-        lines.append(f"{label}: {fallback_value(data, values, key)}")
-
-    if summary:
-        lines.extend(["", "Style direction:", wrap(summary)])
-    if anchors:
-        lines.extend(["", "Keep visible:"])
-        lines.extend(f"- {anchor}" for anchor in anchors)
-    if negative:
-        lines.extend(["", "Avoid:", wrap(negative)])
-
-    lines.extend(
-        [
-            "",
-            "Do not copy source content, real logos, watermarks, platform UI, QR codes, or exact",
-            "reference layouts. Keep the visual system, but change the subject, text, and scene.",
-        ]
-    )
-    return "\n".join(lines).strip()
+    text = ""
+    if isinstance(env, dict) and isinstance(env.get("ASPECT_RATIO"), str):
+        text = env["ASPECT_RATIO"]
+    found: list[str] = []
+    for ratio in RATIO_RE.findall(text):
+        if ratio in SWITCHABLE_ASPECT_RATIOS and ratio not in found:
+            found.append(ratio)
+    return found or ["16:9", "9:16"]
 
 
 def category_for(slug: str, data: dict[str, Any]) -> str:
@@ -264,10 +201,10 @@ def build() -> None:
 
     styles: list[dict[str, Any]] = []
     for slug in ordered_slugs:
+        json_text = style_paths[slug].read_text(encoding="utf-8")
         data = load_json(style_paths[slug])
         name = str(data.get("style_name", slug)).strip()
         summary = str(data.get("style_summary", "")).strip()
-        case_name, values = first_example_values(data)
         env = data.get("environment_variables")
         variables = list(env.keys()) if isinstance(env, dict) else []
 
@@ -285,8 +222,8 @@ def build() -> None:
                 "folder": f"../styles/{slug}/",
                 "anchors": first_text_list(data.get("style_fidelity_anchors"), 6),
                 "variables": variables,
-                "exampleName": case_name,
-                "copyPrompt": copy_prompt(data, values),
+                "aspectRatios": aspect_ratios_for(data),
+                "jsonText": json_text,
             }
         )
 
