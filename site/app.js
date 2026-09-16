@@ -494,12 +494,20 @@ function detailTemplate(style) {
   `;
 }
 
+function hashFragment() {
+  try {
+    return decodeURIComponent(location.hash.replace(/^#/, ""));
+  } catch {
+    return null;
+  }
+}
+
 function slugFromUrl() {
   const params = new URLSearchParams(location.search);
   const querySlug = params.get("style");
   if (querySlug && findStyle(querySlug)) return querySlug;
-  const hash = decodeURIComponent(location.hash.replace(/^#/, ""));
-  if (RESERVED_HASHES.has(hash)) return null;
+  const hash = hashFragment();
+  if (hash === null || RESERVED_HASHES.has(hash)) return null;
   const fromPrefix = hash.startsWith("style/") ? hash.slice(6) : hash;
   return findStyle(fromPrefix) ? fromPrefix : null;
 }
@@ -569,9 +577,12 @@ function fallbackCopy(text) {
   area.style.position = "fixed";
   area.style.opacity = "0";
   document.body.append(area);
-  area.select();
-  document.execCommand("copy");
-  area.remove();
+  try {
+    area.select();
+    return document.execCommand("copy");
+  } finally {
+    area.remove();
+  }
 }
 
 async function copyText(text, message) {
@@ -589,8 +600,14 @@ async function copyText(text, message) {
       copied = false;
     }
   }
-  if (!copied) fallbackCopy(text);
-  showToast(message);
+  if (!copied) {
+    try {
+      copied = fallbackCopy(text);
+    } catch {
+      copied = false;
+    }
+  }
+  showToast(copied ? message : "Copy failed. Please copy the text manually.");
 }
 
 async function copyJson(slug) {
@@ -623,7 +640,8 @@ function syncDetailFromUrl() {
   if (slug) {
     openDetail(slug, { fromUrl: true });
     const params = new URLSearchParams(location.search);
-    if (params.has("style") || decodeURIComponent(location.hash.replace(/^#/, "")).startsWith("style/")) {
+    const hash = hashFragment();
+    if (params.has("style") || (hash && hash.startsWith("style/"))) {
       writeStyleUrl(slug, true);
     }
   } else if (detailPanel.classList.contains("is-open")) {
