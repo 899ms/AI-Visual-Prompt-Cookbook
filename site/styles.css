@@ -421,6 +421,7 @@ h3,
 .byline,
 .byline a,
 .header-actions a,
+.howto,
 .creator-card,
 .creator-avatar,
 .creator-label,
@@ -431,6 +432,7 @@ h3,
 .search-box,
 .search-box input,
 .category-button,
+.choice-button,
 .status-row,
 .status-row strong,
 .section-heading,
@@ -449,7 +451,9 @@ h3,
 .detail-sheet,
 .close-button,
 .anchor-list li,
-.variable-list li,
+.preview-frame,
+.variable-row,
+.filled-prompt,
 .toast {
   transition:
     background-color var(--theme-transition),
@@ -701,9 +705,174 @@ h3,
   font-size: 13px;
 }
 
+body.detail-open {
+  overflow: hidden;
+}
+
+.howto {
+  margin: 0 0 8px;
+  padding: 14px 16px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.howto ol {
+  margin: 0;
+  padding-left: 1.2em;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.howto li + li {
+  margin-top: 4px;
+}
+
+.copy-legend {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.copy-legend code {
+  font-size: 12px;
+}
+
+.detail-controls {
+  display: grid;
+  gap: 14px;
+  margin: 16px 0 4px;
+}
+
+.control-block h3 {
+  margin-bottom: 8px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.choice-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.choice-button {
+  min-height: 32px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--ink);
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.choice-button:hover,
+.choice-button.is-active {
+  border-color: var(--blue);
+}
+
+.choice-button.is-active {
+  background: var(--accent-soft);
+}
+
+.preview-frame {
+  margin: 0;
+  overflow: hidden;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  opacity: 0.62;
+  background: var(--bg);
+}
+
+.preview-frame.is-emphasized {
+  border-color: var(--accent);
+  opacity: 1;
+}
+
+.preview-frame img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  background: #1b1b18;
+}
+
+.preview-frame:not(.preview-frame--portrait) img {
+  aspect-ratio: 16 / 9;
+}
+
+.preview-frame--portrait img {
+  aspect-ratio: 9 / 16;
+}
+
+.preview-frame figcaption {
+  padding: 6px 8px 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.variable-table {
+  display: grid;
+  gap: 8px;
+  margin: 0 0 18px;
+}
+
+.variable-row {
+  display: grid;
+  gap: 6px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg);
+}
+
+.variable-row dt {
+  display: grid;
+  gap: 2px;
+}
+
+.variable-row dt code {
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.variable-row dt span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.variable-row dd {
+  margin: 0;
+  font-size: 13px;
+  white-space: pre-wrap;
+}
+
+.empty-value,
+.empty-note {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.filled-prompt {
+  max-height: 240px;
+  overflow: auto;
+  margin: 0 0 8px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 12px;
+  line-height: 1.45;
+  white-space: pre-wrap;
+}
+
 .card-actions {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 7px;
   margin-top: auto;
 }
@@ -808,27 +977,11 @@ h3,
   display: grid;
   grid-template-columns: 1.5fr 0.7fr;
   gap: 12px;
+  align-items: start;
   margin: 14px 0 20px;
 }
 
-.detail-images img {
-  width: 100%;
-  height: 100%;
-  border-radius: 6px;
-  object-fit: cover;
-  background: #1b1b18;
-}
-
-.detail-images img:first-child {
-  aspect-ratio: 16 / 9;
-}
-
-.detail-images img:last-child {
-  aspect-ratio: 9 / 16;
-}
-
-.anchor-list,
-.variable-list {
+.anchor-list {
   display: flex;
   flex-wrap: wrap;
   gap: 7px;
@@ -836,8 +989,7 @@ h3,
   list-style: none;
 }
 
-.anchor-list li,
-.variable-list li {
+.anchor-list li {
   border: 1px solid var(--line);
   border-radius: 6px;
   background: var(--bg);
@@ -857,7 +1009,7 @@ h3,
   position: fixed;
   right: 18px;
   bottom: 18px;
-  z-index: 30;
+  z-index: 40;
   max-width: min(360px, calc(100vw - 36px));
   transform: translateY(16px);
   opacity: 0;
