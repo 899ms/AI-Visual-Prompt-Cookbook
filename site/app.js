@@ -559,7 +559,7 @@ function showToast(message) {
   window.clearTimeout(showToast.timer);
   showToast.timer = window.setTimeout(() => {
     toast.classList.remove("is-visible");
-  }, 1800);
+  }, 2600);
 }
 
 function fallbackCopy(text) {
@@ -575,11 +575,21 @@ function fallbackCopy(text) {
 }
 
 async function copyText(text, message) {
-  try {
-    await navigator.clipboard.writeText(text);
-  } catch {
-    fallbackCopy(text);
+  let copied = false;
+  if (navigator.clipboard && window.isSecureContext) {
+    try {
+      await Promise.race([
+        navigator.clipboard.writeText(text),
+        new Promise((_, reject) => {
+          window.setTimeout(() => reject(new Error("clipboard timeout")), 400);
+        }),
+      ]);
+      copied = true;
+    } catch {
+      copied = false;
+    }
   }
+  if (!copied) fallbackCopy(text);
   showToast(message);
 }
 
