@@ -1,8 +1,78 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 130 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 137 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Acid Burst Motion Type
+
+<a href="../styles/acid-burst-motion-type"><img src="../assets/thumbs/acid-burst-motion-type-16x9.jpg" width="720" alt="Acid Burst Motion Type preview"></a>
+
+Extreme wide-angle action photography with an enlarged near-lens object, saturated blue environmental depth, one acid-colored angular burst behind the subject and oversized lean typography sweeping diagonally through the foreground.
+
+Files: [style.json](../styles/acid-burst-motion-type/style.json) · [Copy Prompt](copy-prompts/acid-burst-motion-type.md) · [16:9 preview](../styles/acid-burst-motion-type/preview-16x9.jpg) · [9:16 preview](../styles/acid-burst-motion-type/preview-9x16.jpg) · [Folder](../styles/acid-burst-motion-type)
+
+---
+
+### Cream Megatype Impact Editorial
+
+<a href="../styles/cream-megatype-impact-editorial"><img src="../assets/thumbs/cream-megatype-impact-editorial-16x9.jpg" width="720" alt="Cream Megatype Impact Editorial preview"></a>
+
+Close wide-angle action photographs interlocked with enormous warm-cream condensed background type, cobalt environmental depth, tactile ground or water, and a compact rule-divided editorial information rail.
+
+Files: [style.json](../styles/cream-megatype-impact-editorial/style.json) · [Copy Prompt](copy-prompts/cream-megatype-impact-editorial.md) · [16:9 preview](../styles/cream-megatype-impact-editorial/preview-16x9.jpg) · [9:16 preview](../styles/cream-megatype-impact-editorial/preview-9x16.jpg) · [Folder](../styles/cream-megatype-impact-editorial)
+
+---
+
+### Duotone Step Window Editorial
+
+<a href="../styles/duotone-step-window-editorial"><img src="../assets/thumbs/duotone-step-window-editorial-16x9.jpg" width="720" alt="Duotone Step Window Editorial preview"></a>
+
+Oversized regular-weight grotesk typography, emphatic event numerals and a continuous grainy action photograph selectively re-inked through hard-edged stepped color windows.
+
+Files: [style.json](../styles/duotone-step-window-editorial/style.json) · [Copy Prompt](copy-prompts/duotone-step-window-editorial.md) · [16:9 preview](../styles/duotone-step-window-editorial/preview-16x9.jpg) · [9:16 preview](../styles/duotone-step-window-editorial/preview-9x16.jpg) · [Folder](../styles/duotone-step-window-editorial)
+
+---
+
+### Halftone Chroma Fragment Editorial
+
+<a href="../styles/halftone-chroma-fragment-editorial"><img src="../assets/thumbs/halftone-chroma-fragment-editorial-16x9.jpg" width="720" alt="Halftone Chroma Fragment Editorial preview"></a>
+
+High-contrast editorial collage in which monumental coarse black-and-white photographic halftones interact with selective crisp color fragments, heavy display typography and sparse handwritten interventions.
+
+Files: [style.json](../styles/halftone-chroma-fragment-editorial/style.json) · [Copy Prompt](copy-prompts/halftone-chroma-fragment-editorial.md) · [16:9 preview](../styles/halftone-chroma-fragment-editorial/preview-16x9.jpg) · [9:16 preview](../styles/halftone-chroma-fragment-editorial/preview-9x16.jpg) · [Folder](../styles/halftone-chroma-fragment-editorial)
+
+---
+
+### Neon Strip Low Angle Campaign
+
+<a href="../styles/neon-strip-low-angle-campaign"><img src="../assets/thumbs/neon-strip-low-angle-campaign-16x9.jpg" width="720" alt="Neon Strip Low Angle Campaign preview"></a>
+
+Product-led oblique photography, muted grey environments and precise highlighter editorial typography; each product generates a distinct composition.
+
+Files: [style.json](../styles/neon-strip-low-angle-campaign/style.json) · [Copy Prompt](copy-prompts/neon-strip-low-angle-campaign.md) · [16:9 preview](../styles/neon-strip-low-angle-campaign/preview-16x9.jpg) · [9:16 preview](../styles/neon-strip-low-angle-campaign/preview-9x16.jpg) · [Folder](../styles/neon-strip-low-angle-campaign)
+
+---
+
+### Op Stripe Card Editorial
+
+<a href="../styles/op-stripe-card-editorial"><img src="../assets/thumbs/op-stripe-card-editorial-16x9.jpg" width="720" alt="Op Stripe Card Editorial preview"></a>
+
+Playing-card editorial language meets optical black ink ribbons, monumental high-contrast serif type and a crisp colored photographic person on subtly textured light paper.
+
+Files: [style.json](../styles/op-stripe-card-editorial/style.json) · [Copy Prompt](copy-prompts/op-stripe-card-editorial.md) · [16:9 preview](../styles/op-stripe-card-editorial/preview-16x9.jpg) · [9:16 preview](../styles/op-stripe-card-editorial/preview-9x16.jpg) · [Folder](../styles/op-stripe-card-editorial)
+
+---
+
+### Skyward Condensed Action
+
+<a href="../styles/skyward-condensed-action"><img src="../assets/thumbs/skyward-condensed-action-16x9.jpg" width="720" alt="Skyward Condensed Action preview"></a>
+
+Worm-eye airborne sports photography against expansive cool blue sky, with monumental ultra-condensed fluorescent uppercase type occluded by a sharply foreshortened human silhouette.
+
+Files: [style.json](../styles/skyward-condensed-action/style.json) · [Copy Prompt](copy-prompts/skyward-condensed-action.md) · [16:9 preview](../styles/skyward-condensed-action/preview-16x9.jpg) · [9:16 preview](../styles/skyward-condensed-action/preview-9x16.jpg) · [Folder](../styles/skyward-condensed-action)
+
+---
 
 ### Color Pop Interlocked Marker Type
 

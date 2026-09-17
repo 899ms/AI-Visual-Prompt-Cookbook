@@ -5,6 +5,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 
 | Style | Copy Prompt | Full JSON |
 | --- | --- | --- |
+| Acid Burst Motion Type | [Copy Prompt](acid-burst-motion-type.md) | [style.json](../../styles/acid-burst-motion-type/style.json) |
 | Acid Lime 3D Streetwear Type Poster Style | [Copy Prompt](acid-lime-3d-streetwear-type-poster-style.md) | [style.json](../../styles/acid-lime-3d-streetwear-type-poster-style/style.json) |
 | Analog Sticker Diary Portrait Poster Style | [Copy Prompt](analog-sticker-diary-portrait-poster-style.md) | [style.json](../../styles/analog-sticker-diary-portrait-poster-style/style.json) |
 | Backseat Transit Doodle Letter Poster Style | [Copy Prompt](backseat-transit-doodle-letter-poster-style.md) | [style.json](../../styles/backseat-transit-doodle-letter-poster-style/style.json) |
@@ -27,12 +28,14 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Coral Window Megatype Motion Poster | [Copy Prompt](coral-window-megatype-motion-poster-style.md) | [style.json](../../styles/coral-window-megatype-motion-poster-style/style.json) |
 | Cozy Bedroom Doodle Companion Snapshot Style | [Copy Prompt](cozy-bedroom-doodle-companion-snapshot-style.md) | [style.json](../../styles/cozy-bedroom-doodle-companion-snapshot-style/style.json) |
 | Crayon Catalog Doodle Poster Style | [Copy Prompt](crayon-catalog-doodle-poster-style.md) | [style.json](../../styles/crayon-catalog-doodle-poster-style/style.json) |
+| Cream Megatype Impact Editorial | [Copy Prompt](cream-megatype-impact-editorial.md) | [style.json](../../styles/cream-megatype-impact-editorial/style.json) |
 | Cream Smoke City Manga Poster Style | [Copy Prompt](cream-smoke-city-manga-poster-style.md) | [style.json](../../styles/cream-smoke-city-manga-poster-style/style.json) |
 | Crimson Ink Manga Dossier | [Copy Prompt](crimson-ink-manga-dossier.md) | [style.json](../../styles/crimson-ink-manga-dossier/style.json) |
 | Crimson Noir Newsprint Editorial | [Copy Prompt](crimson-noir-newsprint-editorial-style.md) | [style.json](../../styles/crimson-noir-newsprint-editorial-style/style.json) |
 | Crimson Vanishing Point Editorial | [Copy Prompt](crimson-vanishing-point-editorial.md) | [style.json](../../styles/crimson-vanishing-point-editorial/style.json) |
 | Cyan Grain Macro Megatype Poster | [Copy Prompt](cyan-grain-macro-megatype-poster-style.md) | [style.json](../../styles/cyan-grain-macro-megatype-poster-style/style.json) |
 | Cyan Red Shockwave Type Poster Style | [Copy Prompt](cyan-red-shockwave-type-poster-style.md) | [style.json](../../styles/cyan-red-shockwave-type-poster-style/style.json) |
+| Duotone Step Window Editorial | [Copy Prompt](duotone-step-window-editorial.md) | [style.json](../../styles/duotone-step-window-editorial/style.json) |
 | Dusk Cyan Layered Type Poster Style | [Copy Prompt](dusk-cyan-layered-type-poster-style.md) | [style.json](../../styles/dusk-cyan-layered-type-poster-style/style.json) |
 | Electric Blue Cutout Manga Poster Style | [Copy Prompt](electric-blue-cutout-manga-poster-style.md) | [style.json](../../styles/electric-blue-cutout-manga-poster-style/style.json) |
 | Electric Blue Silhouette Product Launch Style | [Copy Prompt](electric-blue-silhouette-product-launch-style.md) | [style.json](../../styles/electric-blue-silhouette-product-launch-style/style.json) |
@@ -45,6 +48,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Gothic Cat Doodle Photo Collage Style | [Copy Prompt](gothic-cat-doodle-photo-collage-style.md) | [style.json](../../styles/gothic-cat-doodle-photo-collage-style/style.json) |
 | Grainy Envelope Flyer Collage | [Copy Prompt](grainy-envelope-flyer-collage.md) | [style.json](../../styles/grainy-envelope-flyer-collage/style.json) |
 | Halftone Assemblage Metaphor PSA Poster Style | [Copy Prompt](halftone-assemblage-metaphor-psa-poster-style.md) | [style.json](../../styles/halftone-assemblage-metaphor-psa-poster-style/style.json) |
+| Halftone Chroma Fragment Editorial | [Copy Prompt](halftone-chroma-fragment-editorial.md) | [style.json](../../styles/halftone-chroma-fragment-editorial/style.json) |
 | Hot Ink Comic Poster | [Copy Prompt](hot-ink-comic-poster.md) | [style.json](../../styles/hot-ink-comic-poster/style.json) |
 | Ice Cyan Megatype Action Poster Style | [Copy Prompt](ice-cyan-megatype-action-poster-style.md) | [style.json](../../styles/ice-cyan-megatype-action-poster-style/style.json) |
 | Impact Burst Halftone Comic Poster Style | [Copy Prompt](impact-burst-halftone-comic-poster-style.md) | [style.json](../../styles/impact-burst-halftone-comic-poster-style/style.json) |
@@ -76,8 +80,10 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Neon Plush Gadget Pop 3D Style | [Copy Prompt](neon-plush-gadget-pop-3d-style.md) | [style.json](../../styles/neon-plush-gadget-pop-3d-style/style.json) |
 | Neon Scribble Editorial Poster | [Copy Prompt](neon-scribble-editorial-poster.md) | [style.json](../../styles/neon-scribble-editorial-poster/style.json) |
 | Neon Stadium 3D Hero Type Poster Style | [Copy Prompt](neon-stadium-3d-hero-type-poster-style.md) | [style.json](../../styles/neon-stadium-3d-hero-type-poster-style/style.json) |
+| Neon Strip Low Angle Campaign | [Copy Prompt](neon-strip-low-angle-campaign.md) | [style.json](../../styles/neon-strip-low-angle-campaign/style.json) |
 | Neon Type Photo Scribble Poster | [Copy Prompt](neon-type-photo-scribble-poster.md) | [style.json](../../styles/neon-type-photo-scribble-poster/style.json) |
 | Olive Scribble Sports Poster Style | [Copy Prompt](olive-scribble-sports-poster-style.md) | [style.json](../../styles/olive-scribble-sports-poster-style/style.json) |
+| Op Stripe Card Editorial | [Copy Prompt](op-stripe-card-editorial.md) | [style.json](../../styles/op-stripe-card-editorial/style.json) |
 | Orange Brush Mascot Action Poster Style | [Copy Prompt](orange-brush-mascot-action-poster-style.md) | [style.json](../../styles/orange-brush-mascot-action-poster-style/style.json) |
 | Photo Illustration Overlay Poster | [Copy Prompt](photo-illustration-overlay-poster-style.md) | [style.json](../../styles/photo-illustration-overlay-poster-style/style.json) |
 | Pink Anime Motorcycle Spec Poster Style | [Copy Prompt](pink-anime-motorcycle-spec-poster-style.md) | [style.json](../../styles/pink-anime-motorcycle-spec-poster-style/style.json) |
@@ -106,6 +112,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Signal Red Petal Profile Editorial Cover | [Copy Prompt](signal-red-petal-profile-editorial-cover.md) | [style.json](../../styles/signal-red-petal-profile-editorial-cover/style.json) |
 | Sky Blue Home Life Doodle Poster Style | [Copy Prompt](sky-blue-home-life-doodle-poster-style.md) | [style.json](../../styles/sky-blue-home-life-doodle-poster-style/style.json) |
 | Sky Blue Lucky Tag Doodle Poster Style | [Copy Prompt](sky-blue-lucky-tag-doodle-poster-style.md) | [style.json](../../styles/sky-blue-lucky-tag-doodle-poster-style/style.json) |
+| Skyward Condensed Action | [Copy Prompt](skyward-condensed-action.md) | [style.json](../../styles/skyward-condensed-action/style.json) |
 | Soft Analog Future Editorial Poster | [Copy Prompt](soft-analog-future-editorial-poster-style.md) | [style.json](../../styles/soft-analog-future-editorial-poster-style/style.json) |
 | Split Ink Monumental Editorial | [Copy Prompt](split-ink-monumental-editorial.md) | [style.json](../../styles/split-ink-monumental-editorial/style.json) |
 | Split Scorched Editorial Poster | [Copy Prompt](split-scorched-editorial-poster.md) | [style.json](../../styles/split-scorched-editorial-poster/style.json) |
