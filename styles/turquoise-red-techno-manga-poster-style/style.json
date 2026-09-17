@@ -3,6 +3,7 @@
   "style_slug": "turquoise-red-techno-manga-poster-style",
   "style_version": "2026.05.19",
   "style_summary": "A retro techno-manga poster system with a cream paper ground, huge red display lettering, turquoise technical clothing or hardware, dense mechanical linework, annotation panels, cel-shaded figure drawing, and slightly faded printed texture.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main illustrated subject, such as a technician, courier, repair worker, field researcher, designer, or compact service robot",
     "SUBJECT_ACTION": "clear action or pose that is not riding a motorcycle, such as calibrating, carrying, repairing, waiting, documenting, or balancing a device",

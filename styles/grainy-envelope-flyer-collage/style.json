@@ -3,6 +3,7 @@
   "style_name": "Grainy Envelope Flyer Collage",
   "style_slug": "grainy-envelope-flyer-collage",
   "style_summary": "A tactile event poster built around repeated photocopied flyers emerging from a saturated paper envelope, framed by cutout icons and spare black type.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "ASPECT_RATIO": "9:16 or 16:9",
     "STYLE_FIDELITY_ANCHORS": "Priority rules supplied at runtime",

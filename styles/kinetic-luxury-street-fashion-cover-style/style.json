@@ -3,6 +3,7 @@
   "style_slug": "kinetic-luxury-street-fashion-cover-style",
   "style_version": "2.1",
   "style_summary": "A premium street-fashion magazine cover style built from side-profile walking photography, horizontal motion-blurred architecture, one dominant luxury garment, wind-shaped hair, restrained urban neutrals, and oversized wide-spaced serif cover typography. It preserves the kinetic editorial grammar of the reference while changing the model identity, wardrobe, prop, headline, and story details.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main fashion subject",
     "SUBJECT_ACTION": "main action, stride, or movement",

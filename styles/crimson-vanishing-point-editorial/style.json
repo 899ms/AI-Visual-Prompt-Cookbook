@@ -3,6 +3,7 @@
   "style_slug": "crimson-vanishing-point-editorial",
   "style_version": "custom-16x9-9x16-1.0",
   "style_summary": "A high-pressure editorial-poster system that turns a monochrome, ultra-wide one-point-perspective public interior into a typographic corridor. A lone central figure moves away from the viewer as enormous scarlet letters become receding floor, wall, and ceiling planes, while blurred peripheral bodies and faint technical text create urgency without clutter.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

@@ -3,6 +3,7 @@
   "style_slug": "monochrome-tech-grid-editorial",
   "style_version": "2.1",
   "style_summary": "A severe black-and-white editorial poster system that combines an oversized compressed headline, a dense modular field of technical micro-information, and one documentary photograph cropped with monumental scale. Off-white paper, distressed ink, thin rules, registration motifs, and a restrained safety-red accent make the layout feel like an experimental identity manual crossed with an archival industrial contact sheet.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "the principal person, object, or machine shown in the documentary photograph",
     "SUBJECT_ACTION": "the decisive action or working gesture captured in the photograph",

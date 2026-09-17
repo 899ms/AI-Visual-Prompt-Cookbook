@@ -3,6 +3,7 @@
   "style_slug": "tokyo-kawaii-travel-collage-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A maximalist Japanese city-travel collage style with bold destination typography, cute sticker elements, manga speech bubbles, cutout fashion photography, halftone urban backgrounds, and scrapbook editorial layout.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main cutout person, character, model, traveler, idol, or fashion figure",
     "SUBJECT_ACTION": "gesture or pose toward the viewer",

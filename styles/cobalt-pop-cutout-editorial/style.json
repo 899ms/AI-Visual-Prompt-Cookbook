@@ -3,6 +3,7 @@
   "style_slug": "cobalt-pop-cutout-editorial",
   "style_version": "2.1",
   "style_summary": "A high-saturation editorial poster system that combines one low-angle full-body photographic cutout with oversized irregular orange display lettering, a cobalt-to-sky-blue field, flat green organic edge shapes, and tiny cream callouts. The look is playful, spacious, and street-culture adjacent without becoming grungy or collage-dense.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main photographic subject",
     "SUBJECT_ACTION": "clear body action or gesture",

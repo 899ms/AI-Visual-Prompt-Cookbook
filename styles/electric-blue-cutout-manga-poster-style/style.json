@@ -3,6 +3,7 @@
   "style_slug": "electric-blue-cutout-manga-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A reusable illustrated poster style built from saturated electric-blue fields, sharp white cutout geometry, oversized rounded modular typography, warm orange microtype, and one cel-shaded manga subject with a large foreground prop in exaggerated perspective.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "Primary illustrated character, mascot, product, or object that carries the poster narrative.",
     "SUBJECT_ACTION": "The active pose, gesture, or motion beat for the primary subject.",

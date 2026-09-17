@@ -3,6 +3,7 @@
   "style_slug": "mono-noir-type-portrait-poster-style",
   "style_version": "2026.05.24",
   "style_summary": "A stark black-and-white editorial poster system pairing a close, high-contrast photographic portrait with oversized lowercase neo-grotesk typography. One headline word is reversed into a clean white rectangular label while the remaining words sit as heavy white type over a charcoal background.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main person, performer, worker, athlete, maker, or character who anchors the poster",
     "SUBJECT_ACTION": "quiet pose, intense gaze, paused task, reflective moment, or restrained movement",

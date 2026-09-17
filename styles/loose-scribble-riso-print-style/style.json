@@ -3,6 +3,7 @@
   "style_slug": "loose-scribble-riso-print-style",
   "style_version": "1.0.0",
   "style_summary": "A sparse handmade riso or screenprint poster style with one large simplified subject, wavering black contour drawing, rough off-white paper, flat blue and coral-red overprint accents, handwritten margin text, and visible print grain.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "The new main subject or simplified object for the print.",
     "SUBJECT_ACTION": "The simple pose, placement, or action of the subject.",

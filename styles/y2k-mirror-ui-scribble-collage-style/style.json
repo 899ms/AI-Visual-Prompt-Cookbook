@@ -3,6 +3,7 @@
   "style_slug": "y2k-mirror-ui-scribble-collage-style",
   "style_version": "1.0.0",
   "style_summary": "A gritty Y2K photomontage style that combines wide-angle flash photography, floating desktop-like interface fragments, thick electric-blue marker outlines, hand-drawn graffiti lettering, and dense analog noise into a chaotic personal-screen collage.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "new central person, object, or activity anchor",
     "SUBJECT_ACTION": "changed action or pose for the central subject",

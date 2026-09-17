@@ -3,6 +3,7 @@
   "style_slug": "signal-red-petal-profile-editorial-cover",
   "style_version": "2.1",
   "style_summary": "A maximal independent-magazine cover system built from a fragmented signal-red masthead, one monumental flat-color side-profile portrait, a sparse off-white editorial rail, and a huge right-heavy mantle of overlapping cobalt, coral, and hot-pink petal lobes. Multiple typographic voices, a single black burst, tiny drawn ephemera, and restrained uncoated-paper texture create a cheeky fashion-editorial rhythm without copying any real publication or person.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main illustrated subject",
     "SUBJECT_ACTION": "subtle profile action or focal gesture",

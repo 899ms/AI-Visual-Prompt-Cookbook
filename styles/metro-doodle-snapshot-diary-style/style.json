@@ -3,6 +3,7 @@
   "style_slug": "metro-doodle-snapshot-diary-style",
   "style_version": "1.0.0",
   "style_summary": "A handheld urban transit photo-collage style combining realistic crowded metro, bus, tram, or station snapshots with expressive marker-like cartoon doodles, oversized foreground gestures, white handwritten diary notes, and saturated comic face overlays.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main person, group, object, or scene focus",
     "SUBJECT_ACTION": "what the subject is doing",

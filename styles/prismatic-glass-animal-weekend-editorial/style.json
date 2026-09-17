@@ -3,6 +3,7 @@
   "style_slug": "prismatic-glass-animal-weekend-editorial",
   "style_version": "2.1.0",
   "style_summary": "A sparse black editorial-poster system built around one oversized translucent animal sculpture with smoky glass depth, liquid-chrome edges, and restrained rainbow refractions, framed by futuristic typographic micro-editorial content about small weekend rituals.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "The single cute animal sculpture used as the hero",
     "SUBJECT_ACTION": "The animal's expressive weekend action and body pose",

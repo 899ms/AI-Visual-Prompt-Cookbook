@@ -3,6 +3,7 @@
   "style_slug": "naive-marker-quote-card-style",
   "style_version": "2.1",
   "style_summary": "A tall, hand-drawn absurdist quote-card poster system with crude black marker outlines, pale pastel panels, blocky blue lettering, off-kilter label tabs, and a simple central object-character gag rendered as flat naive illustration.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

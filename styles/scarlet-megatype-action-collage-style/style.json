@@ -3,6 +3,7 @@
   "style_slug": "scarlet-megatype-action-collage-style",
   "style_version": "2.1",
   "style_summary": "A high-impact action poster system built from a saturated scarlet field, oversized diagonal block typography, layered photographic cutout subjects, hard graphic shadows, compact editorial text blocks, and controlled print grain. It feels like a premium campaign key art poster for speed, pressure, and team momentum without preserving the original sports team, logo, phrase, or exact scene.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

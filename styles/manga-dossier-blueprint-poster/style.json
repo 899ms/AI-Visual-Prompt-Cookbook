@@ -3,6 +3,7 @@
   "style_slug": "manga-dossier-blueprint-poster",
   "style_version": "1.0.0",
   "style_summary": "A distressed manga character-dossier poster system with cream paper margins, oversized condensed typography, grayscale ink hero portraits, cobalt-blue technical panels, cyan kinetic effects, small inset frames, catalog labels, and editorial annotation rails.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action or pose",

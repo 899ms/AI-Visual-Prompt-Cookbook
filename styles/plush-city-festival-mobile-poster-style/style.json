@@ -3,6 +3,7 @@
   "style_slug": "plush-city-festival-mobile-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A bright mobile event poster style combining real city landmarks, soft fuzzy mascot characters, rounded app-card UI framing, bold white festival typography, date/location text, and friendly tourism-campaign energy.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action or pose",

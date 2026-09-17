@@ -3,6 +3,7 @@
   "style_slug": "primary-block-isometric-editorial-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A crisp editorial poster system built from a sparse diagonal cluster of oversized rounded cuboids, oblique isometric depth, black hairline construction, bright primary-color top planes, darker side faces, oversized grotesk labels, and tiny Swiss-style perimeter copy on warm white paper.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "central family of modular objects",
     "SUBJECT_ACTION": "spatial arrangement or implied action",

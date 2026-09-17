@@ -3,6 +3,7 @@
   "style_slug": "red-yellow-grunge-skate-cover-style",
   "style_version": "1.0.0",
   "style_summary": "A raw underground action-culture magazine cover style with oversized warped red-and-yellow headline type, flash-lit photographic cutouts, dark tilted street or venue backgrounds, dense boxed callouts, and coarse analog print degradation.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

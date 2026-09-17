@@ -3,6 +3,7 @@
   "style_slug": "y2k-streetwear-sticker-collage-style",
   "style_version": "1.0.0",
   "style_summary": "A dense Y2K street-photo collage style with oversized cutout subjects, sticker props, loud comic typography, speech bubbles, saturated yellow-blue-green accents, and controlled high-contrast social-poster texture.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "New primary subject or group, different from the source person.",
     "SUBJECT_ACTION": "New visible action or pose, different from the source seated posture.",

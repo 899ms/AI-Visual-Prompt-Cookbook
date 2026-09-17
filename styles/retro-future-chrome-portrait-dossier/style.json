@@ -3,6 +3,7 @@
   "style_slug": "retro-future-chrome-portrait-dossier",
   "style_version": "2.1.0",
   "style_summary": "A retro-futurist editorial portrait system built from an asymmetric technical dossier sidebar, an edge-cropped posterized face, liquid-chrome interruptions, modular grid lines, optical diagrams, and coarse halftone print grain in midnight indigo, warm cream, hot magenta, cobalt, and coral.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "The new portrait subject or character archetype",
     "SUBJECT_ACTION": "The subtle action, gaze, or expressive beat",

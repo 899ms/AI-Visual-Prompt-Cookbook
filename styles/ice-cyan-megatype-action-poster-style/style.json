@@ -3,6 +3,7 @@
   "style_slug": "ice-cyan-megatype-action-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A kinetic editorial action poster style built from an ice-white canvas, oversized deep-cyan condensed typography, pale gray ghost text layers, a central cutout action photograph, neon chartreuse motion blurs, small barcode and registration marks, and sparse magazine-style microcopy.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "Primary person, object, or scene focus for the poster.",
     "SUBJECT_ACTION": "Large readable movement, pose, or gesture that creates forward energy.",

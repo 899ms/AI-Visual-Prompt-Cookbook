@@ -3,6 +3,7 @@
   "style_slug": "urban-transit-doodle-diary-style",
   "style_version": "1.0.0",
   "style_summary": "A raw urban snapshot treated like a personal visual diary, combining real public-space photography with bold hand-drawn comic overlays, handwritten travel notes, saturated cartoon faces, and a large foreground gesture.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main person, group, object, or scene focus",
     "SUBJECT_ACTION": "what the subject is doing",

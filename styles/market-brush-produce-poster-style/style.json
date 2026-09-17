@@ -3,6 +3,7 @@
   "style_slug": "market-brush-produce-poster-style",
   "style_version": "2.1",
   "style_summary": "A sparse fresh-market poster system with a warm ivory paper field, one oversized glossy produce hero, a smaller echo product, violent black hand-cut brush typography, thin editorial header text, and tiny bottom seal-like captions.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main fruit or vegetable hero",
     "SUBJECT_ACTION": "still-life gesture or market-poster action",

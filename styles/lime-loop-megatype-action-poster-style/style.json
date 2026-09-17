@@ -3,6 +3,7 @@
   "style_slug": "lime-loop-megatype-action-poster-style",
   "style_version": "2.1.0",
   "style_summary": "A high-energy studio action-poster system combining an overhead wide-angle photographic subject, enormous stacked dark-green display type, a continuous fluorescent-lime motion loop, clean white negative space, and crisp commercial lighting.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

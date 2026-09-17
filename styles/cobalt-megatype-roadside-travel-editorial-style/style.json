@@ -3,6 +3,7 @@
   "style_slug": "cobalt-megatype-roadside-travel-editorial-style",
   "style_version": "2.1.0",
   "style_summary": "A nostalgic roadside-travel editorial poster system that combines cropped cobalt megatype, sparse locator graphics, warm straight-on architectural photography, cream uncoated paper, and one loose hand-painted word across the dark foreground.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

@@ -3,6 +3,7 @@
   "style_slug": "black-cutout-food-card-ad-style",
   "style_version": "2.1",
   "style_summary": "A black-background food promotion style built around one irregular cream paper card, oversized hand-brushed Chinese lettering, clipped food photography, small price medallions, warm red/yellow accents, and a handmade street-snack print texture.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "food item or plated dish shown as the main sales focus",
     "SUBJECT_ACTION": "food-specific action, garnish motion, utensil lift, or serving moment",

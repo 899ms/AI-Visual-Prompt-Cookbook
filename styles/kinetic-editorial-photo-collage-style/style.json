@@ -3,6 +3,7 @@
   "style_slug": "kinetic-editorial-photo-collage-style",
   "style_version": "2.1.0",
   "style_summary": "A high-energy action-poster system built from staggered photographic tiles on white space, a cutout motion subject, bold black condensed type, loose ink speed marks, and sparse line-art urban scaffolding.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

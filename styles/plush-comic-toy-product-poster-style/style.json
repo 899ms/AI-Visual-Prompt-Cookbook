@@ -3,6 +3,7 @@
   "style_slug": "plush-comic-toy-product-poster-style",
   "style_version": "2026.05.15",
   "style_summary": "A loud toy-product poster style built around one fuzzy plush product hero, retro cream poster paper, a cyan circular backdrop, oversized slanted comic typography, thick black shadows, doodle annotations, sticker labels, lightning graphics, and dense campaign microcopy.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main plush product, toy vehicle, mascot object, gadget, food mascot, or collectible prop",
     "SUBJECT_ACTION": "parked, bouncing, leaning forward, racing, floating, charging, wobbling, or posing like a hero product",

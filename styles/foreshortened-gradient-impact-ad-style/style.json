@@ -3,6 +3,7 @@
   "style_slug": "foreshortened-gradient-impact-ad-style",
   "style_version": "2.1",
   "style_summary": "A premium kinetic advertising system built around a worm's-eye ultra-wide photograph, one monumental foreground product or prop, a dynamic human figure receding behind it, giant edge-cropped diagonal neo-grotesk typography, restrained technical microcopy, and a near-black-to-luminous-color gradient field. The finish is sparse but forceful: commercial photocompositing, selective blur, soft bloom, rim light, and layered type create speed and depth without visual clutter.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "one new human subject appropriate to the campaign concept, with no copied identity",
     "SUBJECT_ACTION": "one clear dynamic action that interacts with the new product or prop",

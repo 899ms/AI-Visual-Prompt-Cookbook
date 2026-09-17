@@ -3,6 +3,7 @@
   "style_slug": "k-pop-apocalypse-ransom-zine-style",
   "style_version": "1.0.0",
   "style_summary": "A maximalist K-pop fashion zine collage style built from a central portrait cutout, crumpled monochrome paper texture, skewed ransom-note typography, loud sticker blocks, saturated lime/blue/red accents, and a bold bottom masthead band.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject, performer, model, musician, dancer, stylist, or youth-culture character",
     "SUBJECT_ACTION": "looking off-frame, posing with attitude, holding a prop, leaning into the camera, or standing in a cutout portrait pose",

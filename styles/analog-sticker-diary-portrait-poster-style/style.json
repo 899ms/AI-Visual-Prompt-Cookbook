@@ -3,6 +3,7 @@
   "style_slug": "analog-sticker-diary-portrait-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A nostalgic analog diary-collage portrait system with a large side-profile illustrated subject, cream graph-paper background, sticker-like personal objects, distressed orange hand lettering, and heavy scanned print texture.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main side-profile person, character, student, musician, traveler, or introspective figure",
     "SUBJECT_ACTION": "quiet emotional action, listening, thinking, walking, studying, waiting, or holding a small prop",

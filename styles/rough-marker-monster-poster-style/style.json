@@ -3,6 +3,7 @@
   "style_slug": "rough-marker-monster-poster-style",
   "style_version": "2.1",
   "style_summary": "A naive children's poster system built from thick black marker outlines, rough crayon-pastel color fills, cream paper grain, oversized goofy creature forms, and chunky hand-lettered black text.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main oversized creature or object-character",
     "SUBJECT_ACTION": "simple goofy action or expression",

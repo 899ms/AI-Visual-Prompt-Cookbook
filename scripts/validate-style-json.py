@@ -11,11 +11,21 @@ from pathlib import Path
 from typing import Any
 
 
+GALLERY_CATEGORIES = (
+    "Photo + Doodle",
+    "Zine + Collage",
+    "Type Posters",
+    "Travel + City",
+    "Editorial + Minimal",
+    "Product + Campaign",
+)
+
 ALLOWED_TOP_LEVEL_FIELDS = {
     "style_name",
     "style_slug",
     "style_version",
     "style_summary",
+    "category",
     "environment_variables",
     "style_fidelity_anchors",
     "source_content_to_avoid",
@@ -38,6 +48,7 @@ REQUIRED_TOP_LEVEL_FIELDS = {
     "style_slug",
     "style_version",
     "style_summary",
+    "category",
     "environment_variables",
     "style_fidelity_anchors",
     "source_content_to_avoid",
@@ -204,6 +215,10 @@ def validate_style_file(style_json: Path, errors: ErrorCollector) -> None:
     style_name = data.get("style_name")
     if isinstance(style_name, str) and isinstance(slug, str) and style_name == slug:
         errors.add("style_name must be human-readable, not a duplicate of style_slug")
+
+    category = data.get("category")
+    if isinstance(category, str) and category not in GALLERY_CATEGORIES:
+        errors.add("category must be one of: " + ", ".join(GALLERY_CATEGORIES))
 
     for field in REQUIRED_TOP_LEVEL_FIELDS:
         if field in data:

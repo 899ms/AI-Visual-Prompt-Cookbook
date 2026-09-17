@@ -3,6 +3,7 @@
   "style_name": "Color Pop Interlocked Marker Type",
   "style_slug": "color-pop-interlocked-marker-type",
   "style_summary": "Dense playful hand-drawn megatype: irregular interlocking colored letters, bold black contours, sparse doodles and neutral paper.",
+  "category": "Type Posters",
   "environment_variables": {
     "ASPECT_RATIO": "9:16 or 16:9",
     "STYLE_FIDELITY_ANCHORS": "Prioritized style rules",

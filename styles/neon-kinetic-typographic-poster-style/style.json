@@ -3,6 +3,7 @@
   "style_slug": "neon-kinetic-typographic-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A dramatic outdoor editorial poster style combining low-angle lifestyle photography, oversized warped neon typography, film grain, and high-energy youth-culture campaign design.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main human figure or object",
     "SUBJECT_ACTION": "dynamic action performed by the subject",

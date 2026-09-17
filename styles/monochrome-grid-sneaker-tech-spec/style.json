@@ -3,6 +3,7 @@
   "style_slug": "monochrome-grid-sneaker-tech-spec",
   "style_version": "1.0.0",
   "style_summary": "A black-and-white footwear product analysis poster system with an oversized sneaker hero, pale engineering grid, top-strip evidence panels, macro material callouts, thin technical connector lines, pixelated uppercase typography, and coarse halftone print texture.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main footwear subject",
     "SUBJECT_ACTION": "how the footwear is presented or analyzed",

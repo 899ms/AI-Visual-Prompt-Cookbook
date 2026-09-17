@@ -3,6 +3,7 @@
   "style_slug": "neon-stadium-3d-hero-type-poster-style",
   "style_version": "2.1",
   "style_summary": "A hyper-saturated 3D event-poster style with toy-like heroic figures, extreme low-angle action, enormous cropped condensed typography, neon lime and purple color fields, orange-red graphic slashes, stadium light bloom, foreground motion blur, debris, and clean high-resolution tactile surfaces.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

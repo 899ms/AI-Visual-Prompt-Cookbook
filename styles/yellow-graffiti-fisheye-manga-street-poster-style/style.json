@@ -3,6 +3,7 @@
   "style_slug": "yellow-graffiti-fisheye-manga-street-poster-style",
   "style_version": "2.1",
   "style_summary": "A hybrid street-poster system combining a cool fisheye urban photo base, a large manga ink cutout subject, oversized sprayed yellow graffiti type, compact white caption hits, pavement tag texture, and soft anxious character emotion.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "primary figure, product, or object to feature",
     "SUBJECT_ACTION": "clear pose, gesture, or action for the feature subject",

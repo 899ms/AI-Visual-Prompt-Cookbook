@@ -9,6 +9,7 @@
     "style_slug",
     "style_version",
     "style_summary",
+    "category",
     "environment_variables",
     "style_fidelity_anchors",
     "source_content_to_avoid",
@@ -35,6 +36,17 @@
     },
     "style_version": { "type": "string", "minLength": 1 },
     "style_summary": { "type": "string", "minLength": 1 },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Photo + Doodle",
+        "Zine + Collage",
+        "Type Posters",
+        "Travel + City",
+        "Editorial + Minimal",
+        "Product + Campaign"
+      ]
+    },
     "environment_variables": {
       "type": "object",
       "additionalProperties": { "type": "string", "minLength": 1 },

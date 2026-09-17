@@ -3,6 +3,7 @@
   "style_slug": "signal-red-contour-poster",
   "style_version": "2.1",
   "style_summary": "A severe two-ink public-information poster system built from a near-black field, one monumental flat silhouette defined by an agitated signal-red contour, and detached white grotesk text arranged around the perimeter like urgent fragments.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "the single monumental subject that dominates the poster",
     "SUBJECT_ACTION": "the subject's simple readable action or transformation",

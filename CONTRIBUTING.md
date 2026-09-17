@@ -25,6 +25,7 @@ Each public style must include these fields:
 - `style_fidelity_anchors`
 - `source_content_to_avoid`
 - `negative_prompt`
+- `category` (`Photo + Doodle`, `Zine + Collage`, `Type Posters`, `Travel + City`, `Editorial + Minimal`, or `Product + Campaign`)
 
 The template should preserve the reusable visual system while requiring new subject matter, text, and scene values.
 

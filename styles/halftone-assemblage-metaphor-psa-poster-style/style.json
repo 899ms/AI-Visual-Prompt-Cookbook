@@ -3,6 +3,7 @@
   "style_slug": "halftone-assemblage-metaphor-psa-poster-style",
   "style_version": "2.1",
   "style_summary": "A sparse retro PSA poster system where one visible class of material is arranged into a different recognizable symbolic silhouette, printed as a muted blue-green halftone object on aged cream paper with compact red-and-navy campaign typography.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

@@ -3,6 +3,7 @@
   "style_slug": "pink-anime-motorcycle-spec-poster-style",
   "style_version": "2.1",
   "style_summary": "A dense motorsport dossier poster system that pairs one original anime rider with one hero motorcycle. Each poster combines a glossy three-quarter product view, a full-body cel-shaded character, oversized italic model-code typography, a pale cream and hot-magenta editorial grid, a monochrome halftone character echo, a three-panel detail strip, and a compact technical specification card. The series keeps one visual grammar while changing the motorcycle, rider styling, accent color, text, and performance details in every case.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "one original fictional anime motorcycle rider or pit-racing character",
     "SUBJECT_ACTION": "confident pose and interaction beside the motorcycle",

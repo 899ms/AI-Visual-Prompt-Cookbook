@@ -3,6 +3,7 @@
   "style_slug": "vermilion-photocopy-tension-editorial",
   "style_version": "2.1",
   "style_summary": "A confrontational editorial poster system built from one monumentally cropped black-and-white photograph, near-binary photocopy contrast, dense analog grain, an oversized vertical condensed headline, compact annotation blocks, and a single vermilion ink layer that cuts across the image as urgent shards and edge-born organic forms.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "one anonymous person, body detail, instrument, crafted object, machine, or other photographic subject",
     "SUBJECT_ACTION": "one tense, focused, or physically decisive action",

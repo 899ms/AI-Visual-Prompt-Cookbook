@@ -3,6 +3,7 @@
   "style_slug": "gothic-cat-doodle-photo-collage-style",
   "style_version": "1.0.0",
   "style_summary": "A playful photo-illustration collage style combining dramatic real architectural photography with oversized flat cartoon creature overlays, bubbly hand-drawn headline lettering, and loose marker doodles.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "oversized illustrated animal, mascot, creature, or playful character",
     "SUBJECT_ACTION": "climbing, wrapping around, peeking over, hugging, guarding, or interacting with the architecture",

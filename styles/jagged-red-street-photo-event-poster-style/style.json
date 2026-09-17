@@ -3,6 +3,7 @@
   "style_slug": "jagged-red-street-photo-event-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A high-impact street event poster system combining a black-and-white documentary photo core, oversized jagged red and black display lettering, thick white sticker-like gutters, and sparse three-color print energy.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

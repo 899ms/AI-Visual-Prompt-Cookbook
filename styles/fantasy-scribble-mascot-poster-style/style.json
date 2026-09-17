@@ -3,6 +3,7 @@
   "style_slug": "fantasy-scribble-mascot-poster-style",
   "style_version": "2.1",
   "style_summary": "A raw hand-drawn fantasy poster system with oversized uneven lettering, neon marker mascot shapes, thick black outlines, loose scribble decorations, and dense childlike collage energy on a white paper field.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

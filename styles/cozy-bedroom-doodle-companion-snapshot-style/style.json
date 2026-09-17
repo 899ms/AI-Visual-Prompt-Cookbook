@@ -3,6 +3,7 @@
   "style_slug": "cozy-bedroom-doodle-companion-snapshot-style",
   "style_version": "2026.05.16",
   "style_summary": "A candid low-light home photo style with a large flat 2D cushion-doll companion composited into the lower foreground, creating a quiet late-night creative diary mood with warm room texture, screen glow, and tiny handwritten doodle marks.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main real-world person, object, or creative activity",
     "SUBJECT_ACTION": "editing, sketching, reading, arranging notes, listening, watching, resting, or reaching",

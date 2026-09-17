@@ -3,6 +3,7 @@
   "style_slug": "naive-marker-psa-poster-style",
   "style_version": "2026.05.17",
   "style_summary": "A friendly hand-drawn public-service poster style built from chunky irregular marker outlines, oversized blue-bordered speech-panel typography, simplified cartoon people, flattened civic props, pastel paper backgrounds, warning-sign motifs, and intentionally naive perspective.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main simplified cartoon subject, group, students, volunteers, workers, neighbors, mascot, or public-service character",
     "SUBJECT_ACTION": "main public-service action or frozen gesture, such as raising a hand, pointing at a sign, sorting objects, passing supplies, checking a list, or holding an oversized prop",

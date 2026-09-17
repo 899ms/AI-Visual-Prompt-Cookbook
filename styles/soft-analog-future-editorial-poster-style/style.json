@@ -3,6 +3,7 @@
   "style_slug": "soft-analog-future-editorial-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A quiet analog-future editorial poster style using warm cream paper, oversized black neo-grotesk typography, strict grid rules, retro technology still life, pale-blue translucent interface panels, botanical foreground accents, and tiny bilingual information design.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main person, field, discipline, audience, or symbolic focus",
     "SUBJECT_ACTION": "what the system helps the subject do or understand",

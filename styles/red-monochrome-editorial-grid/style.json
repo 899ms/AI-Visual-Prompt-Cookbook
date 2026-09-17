@@ -3,6 +3,7 @@
   "style_slug": "red-monochrome-editorial-grid",
   "style_version": "custom-16x9-9x16-1.0",
   "style_summary": "A confrontational editorial-poster system built from monumental condensed typography, red-and-black duotone photography, rigid off-white gutters, and paper-like ink grain. The design treats photographic crops and type blocks as equal grid modules rather than placing a single hero image behind type.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

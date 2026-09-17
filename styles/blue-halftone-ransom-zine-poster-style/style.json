@@ -3,6 +3,7 @@
   "style_slug": "blue-halftone-ransom-zine-poster-style",
   "style_version": "2.1",
   "style_summary": "A rough cobalt-blue ransom-zine poster system built from torn white paper scraps, black photocopied halftone subject cutouts, marker-like handwritten words, crumpled paper texture, and sparse noisy micro captions.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

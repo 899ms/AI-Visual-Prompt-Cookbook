@@ -3,6 +3,7 @@
   "style_slug": "motorsport-technical-editorial",
   "style_version": "2.2",
   "style_summary": "A high-energy motorsport editorial visual system that combines a dramatic original racing photograph with oversized condensed typography, industrial information cards, signal-yellow accents, and disciplined technical-document graphic grammar.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

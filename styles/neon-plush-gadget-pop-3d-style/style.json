@@ -3,6 +3,7 @@
   "style_slug": "neon-plush-gadget-pop-3d-style",
   "style_version": "1.0.0",
   "style_summary": "A glossy toy-advertising 3D style built from acid lime studio backdrops, oversized fuzzy plush mascots, chunky tech props, soft textile surfaces, translucent plastic accessories, checkerboard cards, sticker-like icons, hot-pink burst graphics, and bright commercial lighting.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main plush mascot, fuzzy object, or toy-like character",
     "SUBJECT_ACTION": "simple staged action or pose",

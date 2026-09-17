@@ -3,6 +3,7 @@
   "style_slug": "tri-color-hardcut-portrait-poster-style",
   "style_version": "2026.05.14",
   "style_summary": "A clean three-color hardcut portrait poster style using flat teal background fields, coral-red subject planes, and near-black silhouettes or shadows, with all detail reduced into large hard-edged vector-like cutouts.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main person, character, performer, athlete, worker, object-as-portrait, or stylized figure",
     "SUBJECT_ACTION": "staring forward, leaning on one hand, turning sideways, holding a prop, pausing mid-action, or facing the viewer",

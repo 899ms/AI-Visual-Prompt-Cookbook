@@ -3,6 +3,7 @@
   "style_slug": "coral-window-megatype-motion-poster-style",
   "style_version": "2.1.0",
   "style_summary": "A tactile editorial motion-poster system built from a coral-red paper field, one cool pale-blue photographic window, colossal black condensed typography that crosses the image boundary, a single isolated action subject, sparse micro-editorial labels, and a bold geometric direction symbol.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",
