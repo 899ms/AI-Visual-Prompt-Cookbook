@@ -3,6 +3,7 @@
   "style_slug": "multi-color-beverage-splash-ad-system-style",
   "style_version": "2.1",
   "style_summary": "A reusable beverage launch advertising system with four color-varied templates, built from giant white 3D typography, a diagonal hero drink pack, frozen liquid motion, dense launch-ad copy, and polished commercial product lighting.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

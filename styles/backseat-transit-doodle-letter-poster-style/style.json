@@ -3,6 +3,7 @@
   "style_slug": "backseat-transit-doodle-letter-poster-style",
   "style_version": "2026.05.11",
   "style_summary": "A realistic passenger-seat transport photo transformed into a high-energy travel poster with a central rear-view subject, electric yellow silhouette halo, oversized yellow-orange hand-drawn letters, comic rays, purple music marks, sticker icons, and cyan-white cloud swooshes.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main driver, rider, guide, commuter, musician, courier, or traveler seen from behind",
     "SUBJECT_ACTION": "steering, tapping the horn, checking a mirror, pointing ahead, adjusting the radio, holding a map, or riding through the scene",

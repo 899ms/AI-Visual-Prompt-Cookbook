@@ -3,6 +3,7 @@
   "style_slug": "warm-fisheye-product-impact-ad-style",
   "style_version": "2026.05.20",
   "style_summary": "A high-impact product advertising style built from ultra-wide close-up photography, a tunnel of textured foreground pieces, oversized angled white Chinese display type, warm amber-brown contrast, tiny top navigation labels, product-pack callouts, and compressed social-banner density. It feels like a loud commercial thumbnail shot from inside a pile of snack-like objects, with the product and subject rushing toward the viewer.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "new main subject, product presenter, tiny robot, athlete, maker, hand model, tool, device, or object hero that is not the source subject",
     "SUBJECT_ACTION": "leaning into the lens, reaching through foreground pieces, bursting from a product pile, presenting the prop, grabbing the hero product, or reacting with exaggerated ad energy",

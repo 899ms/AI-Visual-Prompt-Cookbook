@@ -3,6 +3,7 @@
   "style_slug": "liquid-chrome-clearance-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A high-impact commercial poster system built around glossy liquid-chrome 3D typography, extreme editorial crop, acid-lime to mint gradients, black condensed sale-interface typography, micro technical markings, barcode-like metadata, and a dense grid of retail control panels.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main subject, product, figure, object, or commercial scene anchor",
     "SUBJECT_ACTION": "main action, pose, motion, or transformation happening in the poster",

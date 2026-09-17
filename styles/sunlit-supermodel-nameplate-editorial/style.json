@@ -3,6 +3,7 @@
   "style_slug": "sunlit-supermodel-nameplate-editorial",
   "style_version": "2.1",
   "style_summary": "A warm analog fashion editorial poster style combining an outdoor supermodel photograph, lush foreground texture, a small material nameplate detail, and clean white lower-third title/caption typography.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main supermodel or editorial fashion subject",
     "SUBJECT_ACTION": "poised seated, reclining, leaning, or kneeling action",

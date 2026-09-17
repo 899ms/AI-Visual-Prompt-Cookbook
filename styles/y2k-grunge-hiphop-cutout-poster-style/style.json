@@ -3,6 +3,7 @@
   "style_slug": "y2k-grunge-hiphop-cutout-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A Y2K grunge hip-hop magazine collage poster style built from oversized photo cutouts, acid yellow retro typography, rough black-and-white wall textures, dense editorial footer panels, and photocopied print noise.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject, artist, dancer, musician, skater, model, or youth culture figure",
     "SUBJECT_ACTION": "sitting, leaning, holding a prop, looking away, posing casually, or performing a relaxed streetwear pose",

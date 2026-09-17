@@ -3,6 +3,7 @@
   "style_slug": "dusk-cyan-layered-type-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A full-bleed dusk-photo poster system with dark navy silhouettes, oversized cyan and white typography, a huge cropped bottom word, script-like swashes, tiny editorial microcopy, and clean vector icon overlays.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "Main background subject or focal visual that should replace the source landscape content.",
     "SUBJECT_ACTION": "What the subject is doing or how the scene is behaving.",

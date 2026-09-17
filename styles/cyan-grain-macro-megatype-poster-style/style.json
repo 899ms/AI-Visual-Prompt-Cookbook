@@ -3,6 +3,7 @@
   "style_slug": "cyan-grain-macro-megatype-poster-style",
   "style_version": "2.1.0",
   "style_summary": "A sparse experimental editorial poster system built from one radically enlarged macro photograph, a saturated cyan field, monumental white geometric letterforms that interlock with the subject, wide white margins, compact technical metadata, and tactile analog print grain.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "The single photographed animal, object, plant, or product hero",
     "SUBJECT_ACTION": "The subtle gesture, orientation, or physical behavior of the hero",

@@ -3,6 +3,7 @@
   "style_slug": "folded-newspaper-product-ad-style",
   "style_version": "2.1",
   "style_summary": "A folded broadsheet product advertisement style built from dense bilingual newspaper typography, worn off-white paper, black and antique-gold display headlines, stamped label graphics, one red editorial sidebar tab, and a huge photorealistic hero product overlapping the page foreground.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main product, food item, wearable, device, or object shown as the oversized sales hero",
     "SUBJECT_ACTION": "how the product is presented, opened, poured, lifted, stacked, glowing, or interacting with props",

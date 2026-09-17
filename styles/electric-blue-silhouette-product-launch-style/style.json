@@ -3,6 +3,7 @@
   "style_slug": "electric-blue-silhouette-product-launch-style",
   "style_version": "1.0.0",
   "style_summary": "A sparse premium consumer-tech launch poster style built from black negative space, a centered product silhouette, electric-blue rim lighting, a glowing horizontal platform, soft reflection, giant cropped blue background typography, and clean white announcement copy.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main product, object, or technology category",
     "SUBJECT_ACTION": "how the object is staged or presented",

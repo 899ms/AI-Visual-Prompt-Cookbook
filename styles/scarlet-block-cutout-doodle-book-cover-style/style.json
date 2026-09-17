@@ -3,6 +3,7 @@
   "style_slug": "scarlet-block-cutout-doodle-book-cover-style",
   "style_version": "1.0.0",
   "style_summary": "A stark literary cover system built from a white paper field, oversized scarlet serif letterforms, one central photoreal cutout object, rough black marker contour drawing, small bookish serif typography, and strong asymmetrical negative space.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main photoreal cutout object or figure",
     "SUBJECT_ACTION": "how the subject intersects, stands over, pierces, leans through, or interrupts the red typeforms",

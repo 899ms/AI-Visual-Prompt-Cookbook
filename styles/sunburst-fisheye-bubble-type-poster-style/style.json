@@ -3,6 +3,7 @@
   "style_slug": "sunburst-fisheye-bubble-type-poster-style",
   "style_version": "2026.05.11",
   "style_summary": "An ultra-low-angle fisheye summer lifestyle poster style with a close photographic subject, saturated cobalt sky, huge arched lemon-yellow bubble typography, warm orange type shading, Y2K accessories, and heavy analog grain.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT_IDENTITY": "specific adult character identity, including distinct hair, face, styling, and body language when generating a set",
     "SUBJECT": "main person, traveler, skater, swimmer, musician, road-trip friend, product ambassador, or fashion model",

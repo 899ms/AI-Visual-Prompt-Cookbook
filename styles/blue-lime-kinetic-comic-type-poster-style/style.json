@@ -3,6 +3,7 @@
   "style_slug": "blue-lime-kinetic-comic-type-poster-style",
   "style_version": "2.1",
   "style_summary": "A loud flat comic-poster system built from electric-blue grid paper, oversized neon-lime speech-panel geometry, heavy black block typography, sharp yellow back plates, radial action marks, and gritty print texture. The style feels like a kinetic street flyer where the headline is the main subject.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main subject, mascot, object, activity, or event being announced",
     "SUBJECT_ACTION": "simple graphic action or poster-like gesture",

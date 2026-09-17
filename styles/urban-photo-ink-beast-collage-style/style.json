@@ -3,6 +3,7 @@
   "style_slug": "urban-photo-ink-beast-collage-style",
   "style_version": "2.1.0",
   "style_summary": "A surreal editorial collage system that layers monumental flat-ink beasts and tiny theatrical figures over softly faded archival city photography, using black-and-white cut-paper masses, unruly hand-drawn contour work, and sparse cobalt, vermilion, lemon, and blush accents.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "The monumental illustrated creature or hybrid foreground subject",
     "SUBJECT_ACTION": "The expressive action linking the giant subject to the smaller figure",

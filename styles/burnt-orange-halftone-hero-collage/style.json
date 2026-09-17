@@ -3,6 +3,7 @@
   "style_slug": "burnt-orange-halftone-hero-collage",
   "style_version": "2.1.0",
   "style_summary": "A dense celebratory editorial poster system that combines one warm, flash-lit photographic hero cutout with burnt-orange screenprint panels, monumental condensed headline type, coarse halftone diagrams, dry-brush lettering, a looping foreground flourish, a monochrome base strip, and disciplined magazine microtype on aged cream paper.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "anonymous fictional hero subject and portrait crop",
     "SUBJECT_ACTION": "clear gesture or craft action",

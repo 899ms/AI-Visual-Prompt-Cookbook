@@ -19,105 +19,14 @@ OUTPUT = SITE_DIR / "styles-data.js"
 SWITCHABLE_ASPECT_RATIOS = ("16:9", "9:16", "4:5", "5:4")
 RATIO_RE = re.compile(r"\b(\d+:\d+)\b")
 
-CATEGORY_RULES = [
-    (
-        "Photo + Doodle",
-        [
-            "doodle",
-            "snapshot",
-            "diary",
-            "photo",
-            "pet",
-            "mascot",
-            "monster",
-            "landmark",
-            "transit",
-            "subway",
-            "metro",
-        ],
-    ),
-    (
-        "Zine + Collage",
-        [
-            "zine",
-            "collage",
-            "grunge",
-            "sticker",
-            "ransom",
-            "skate",
-            "hip-hop",
-            "y2k",
-            "music",
-        ],
-    ),
-    (
-        "Type Posters",
-        [
-            "type",
-            "typographic",
-            "letter",
-            "halftone",
-            "comic",
-            "anime",
-            "manga",
-            "bubble",
-            "chinese",
-            "poster",
-        ],
-    ),
-    (
-        "Travel + City",
-        [
-            "travel",
-            "tokyo",
-            "city",
-            "vlog",
-            "mountain",
-            "trail",
-            "outdoor",
-            "backseat",
-            "transit",
-        ],
-    ),
-    (
-        "Editorial + Minimal",
-        [
-            "editorial",
-            "minimal",
-            "noir",
-            "portrait",
-            "analog",
-            "future",
-            "diamond",
-            "checkerboard",
-            "luxury",
-        ],
-    ),
-    (
-        "Product + Campaign",
-        [
-            "product",
-            "launch",
-            "gadget",
-            "hud",
-            "macro",
-            "plush",
-            "avatar",
-            "campaign",
-            "tech",
-            "toy",
-            "food",
-            "produce",
-            "market",
-            "farmers",
-            "ad",
-            "advertorial",
-            "advertising",
-            "promotion",
-            "card",
-        ],
-    ),
-]
+GALLERY_CATEGORIES = (
+    "Photo + Doodle",
+    "Zine + Collage",
+    "Type Posters",
+    "Travel + City",
+    "Editorial + Minimal",
+    "Product + Campaign",
+)
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -173,24 +82,12 @@ def aspect_ratios_for(data: dict[str, Any]) -> list[str]:
 
 
 def category_for(slug: str, data: dict[str, Any]) -> str:
-    parts = [
-        slug,
-        str(data.get("style_name", "")),
-        str(data.get("style_summary", "")),
-    ]
-    visual = data.get("visual_deconstruction")
-    if isinstance(visual, dict):
-        parts.append(str(visual.get("style_category", "")))
-    haystack = " ".join(parts).lower()
-
-    best_category = "Editorial + Minimal"
-    best_score = -1
-    for category, keywords in CATEGORY_RULES:
-        score = sum(1 for keyword in keywords if keyword in haystack)
-        if score > best_score:
-            best_category = category
-            best_score = score
-    return best_category
+    category = data.get("category")
+    if category not in GALLERY_CATEGORIES:
+        raise ValueError(
+            f"{slug}: style.json category must be one of {list(GALLERY_CATEGORIES)}, got {category!r}"
+        )
+    return category
 
 
 def build() -> None:
@@ -227,9 +124,10 @@ def build() -> None:
             }
         )
 
+    used_categories = {style["category"] for style in styles}
     payload = {
         "styleCount": len(styles),
-        "categories": sorted({style["category"] for style in styles}),
+        "categories": [category for category in GALLERY_CATEGORIES if category in used_categories],
         "styles": styles,
     }
     SITE_DIR.mkdir(exist_ok=True)

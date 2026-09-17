@@ -3,6 +3,7 @@
   "style_slug": "impact-burst-halftone-comic-poster-style",
   "style_version": "2026.05.12",
   "style_summary": "A loud retro comic poster system built from thick black ink, flat high-saturation colors, oversized impact typography, exaggerated illustrated subjects, diagonal props, speech bursts, smoke puffs, halftone dots, and distressed screen-print grain.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main illustrated subject",
     "SUBJECT_ACTION": "main chaotic action or reaction",

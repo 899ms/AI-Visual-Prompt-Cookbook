@@ -3,6 +3,7 @@
   "style_slug": "sunny-3d-avatar-campaign-style",
   "style_version": "1.0.0",
   "style_summary": "A bright social campaign poster style built from glossy toy-like 3D avatars, saturated blue-sky outdoor lighting, exaggerated wide-angle perspective, oversized slanted headline typography, and neon hand-drawn motion marks.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main subject or avatar group",
     "SUBJECT_ACTION": "main action or pose",

@@ -3,6 +3,7 @@
   "style_slug": "sunlit-coastal-product-blitz",
   "style_version": "2.1.0",
   "style_summary": "A high-density photoreal coastal product advertising style built from sunlit tabletop hero products, tropical foreground botanicals, blue ocean depth, oversized distressed white brush typography, compact bilingual-style label blocks, curved callouts, and shiny gold seal badges.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

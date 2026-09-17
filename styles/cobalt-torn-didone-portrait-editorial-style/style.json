@@ -3,6 +3,7 @@
   "style_slug": "cobalt-torn-didone-portrait-editorial-style",
   "style_version": "2.1",
   "style_summary": "A sparse fashion-editorial poster system built from a warm paper field, one centered halftone portrait or sculptural subject, monumental cobalt Didone typography, an irregular horizontal torn-paper reveal, and restrained calligraphic and catalog-like corner notes.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "the new central portrait subject or sculptural hero object",
     "SUBJECT_ACTION": "the subject's subtle gesture or state",

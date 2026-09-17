@@ -3,6 +3,7 @@
   "style_slug": "cyan-red-shockwave-type-poster-style",
   "style_version": "2.1",
   "style_summary": "A flat illustrated poster system built from a saturated cyan field, oversized red block typography, lemon-yellow human accents, white jagged shockwaves, thick red keylines, and compact rotated microcopy. It feels like a loud regional travel poster crossed with manga impact graphics and screenprinted street signage.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "new central subject or character group",
     "SUBJECT_ACTION": "clear action that creates impact or motion",

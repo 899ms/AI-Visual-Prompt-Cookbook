@@ -3,6 +3,7 @@
   "style_slug": "acid-lime-3d-streetwear-type-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A glossy C4D streetwear campaign poster system built from pale studio space, oversized black block typography, acid-lime marker strokes, sticker badges, fashion-tool props, low wide-angle character staging, and clean synthetic product lighting.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main stylized 3D character, mascot, object, or group",
     "SUBJECT_ACTION": "main staged action or pose",

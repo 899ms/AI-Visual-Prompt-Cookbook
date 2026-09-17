@@ -3,6 +3,7 @@
   "style_slug": "sky-blue-home-life-doodle-poster-style",
   "style_version": "2.1",
   "style_summary": "A naive flat poster system with a full sky-blue field, a rough house-shaped white inset, giant uneven black hand-lettering, small badge labels, and simple thick-outlined cartoon home-life scenes drawn like marker doodles.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main original cartoon subject or small group",
     "SUBJECT_ACTION": "simple domestic action, pause, ritual, workshop, exchange, game, or frozen gesture",

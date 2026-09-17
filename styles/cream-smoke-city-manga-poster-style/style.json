@@ -3,6 +3,7 @@
   "style_slug": "cream-smoke-city-manga-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A vertical and horizontal illustration system built from fine manga ink contour lines, huge cream-toned organic cloud masses, sparse teal framing shapes, peach skin or object accents, and precise miniature urban architecture rendered with clean paper space.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

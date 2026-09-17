@@ -3,6 +3,7 @@
   "style_slug": "crimson-noir-newsprint-editorial-style",
   "style_version": "2.1",
   "style_summary": "A prestige culture-magazine cover system built from one monumental grayscale portrait, narrow Didone display type, condensed editorial callouts, selective deep-crimson documentary fragments, and a visibly fibrous newsprint finish.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "fictional or non-identifiable editorial portrait subject",
     "SUBJECT_ACTION": "controlled pose, gaze, or small gesture",

@@ -3,6 +3,7 @@
   "style_slug": "xerox-neon-editorial-collage-style",
   "style_version": "2.1",
   "style_summary": "A high-impact editorial poster system combining an oversized distressed black headline, one monochrome halftone photo cutout, electric cyan and green registration shadows, horizontal fluorescent paint swashes, loose marker scribbles, and a pale photocopied paper field.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "one recognizable but non-famous human subject",
     "SUBJECT_ACTION": "a simple upward, balancing, reaching, listening, or poised gesture",

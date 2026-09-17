@@ -3,6 +3,7 @@
   "style_slug": "photo-illustration-overlay-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A realistic city photograph with an oversized, high-saturation, flat 2D cartoon figure composited on top, plus hand-drawn stars, sparks, arrows, and comic marks.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action or pose",

@@ -3,6 +3,7 @@
   "style_slug": "hot-ink-comic-poster",
   "style_version": "1.0.0",
   "style_summary": "A loud flat comic flyer style built from a mustard-yellow field, coral-red cutout figures, heavy irregular black marker outlines, hand-lettered bubble type, scribbled microcopy, and dense comic symbols. It feels like an underground club poster or xeroxed street handbill, but the reusable system changes the subject, text, props, and story completely.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "new central subject, not the reference character",
     "SUBJECT_ACTION": "new expressive action or pose",

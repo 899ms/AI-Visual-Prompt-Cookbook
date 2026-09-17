@@ -3,6 +3,7 @@
   "style_slug": "cobalt-xerox-script-editorial-poster-style",
   "style_version": "2.2",
   "style_summary": "A compressed, confrontational cobalt editorial poster system in which fragmented grotesk headlines, two enormous repeated outline-script words, an ambiguous macro halftone photograph, a dark flat Xerox cutout, and dense microcopy collide across nearly the entire page.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "the main person, object, or conceptual subject shown in the halftone photograph",
     "SUBJECT_ACTION": "the subject's clear action or state",

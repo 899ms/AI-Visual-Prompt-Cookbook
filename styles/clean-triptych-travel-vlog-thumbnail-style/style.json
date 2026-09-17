@@ -3,6 +3,7 @@
   "style_slug": "clean-triptych-travel-vlog-thumbnail-style",
   "style_version": "2026.05.14",
   "style_summary": "A clean travel-vlog thumbnail system built from three vertical photographic panels, oversized lowercase white destination type, small italic travel annotations, sparse hand-drawn marks, and a soft phone-camera editorial finish.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main traveler, host, couple, group, or implied travel point of view",
     "SUBJECT_ACTION": "walking, posing, holding a drink, looking across the street, boarding transit, or pausing at a landmark",

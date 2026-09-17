@@ -3,6 +3,7 @@
   "style_slug": "retro-pop-sticker-cutout",
   "style_version": "custom-16x9-9x16-1.0",
   "style_summary": "A loud retro-pop scrapbook poster system that layers an oversized yellow display headline, red offset print shadows, a central natural-color portrait cutout with a thick irregular white die-cut border, cobalt-blue paper texture, and small playful sticker marks. The result feels handmade, glossy-magazine inspired, and high-energy without copying any character, celebrity, or source design.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

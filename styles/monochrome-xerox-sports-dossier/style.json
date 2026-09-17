@@ -3,6 +3,7 @@
   "style_slug": "monochrome-xerox-sports-dossier",
   "style_version": "1.0.0",
   "style_summary": "A black-and-white photocopied editorial collage system with oversized cropped subjects, overlapping inset photo panels, huge distressed condensed type, micro dossier labels, paper grain, halftone, scratches, and a sparse sports-press-kit mood.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "The new fictional main subject to feature in the poster.",
     "SUBJECT_ACTION": "The subject's new action, pose, or movement beat.",

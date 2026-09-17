@@ -3,6 +3,7 @@
   "style_slug": "red-yellow-product-trophy-collage-style",
   "style_version": "2.1.0",
   "style_summary": "A fast-food billboard inspired product collage system with saturated red and yellow poster blocks, oversized condensed typography, glossy cutout products, and a central world-champion trophy silhouette assembled from representative unbranded product objects.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "The main product sculpture or hero object",
     "SUBJECT_ACTION": "How the product objects are arranged or behaving",

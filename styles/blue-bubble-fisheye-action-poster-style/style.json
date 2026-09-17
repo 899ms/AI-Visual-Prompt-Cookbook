@@ -3,6 +3,7 @@
   "style_slug": "blue-bubble-fisheye-action-poster-style",
   "style_version": "2026.05.17",
   "style_summary": "A crisp white youth-culture action poster style with a rectangular fisheye photograph, oversized rounded royal-blue display typography, frame-breaking foreground scale, small blue editorial captions, and one red hand-drawn annotation circle.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "adult action subject, performer, courier, maker, athlete, rider, dancer, chef, technician, or product model",
     "SUBJECT_ACTION": "lunging toward the lens, reaching across the frame, jumping over the camera, presenting a prop, balancing in motion, or landing in a dramatic wide-angle pose",

@@ -3,6 +3,7 @@
   "style_slug": "orange-brush-mascot-action-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A sparse orange-white-black flat illustration system with a white mascot figure, oversized prop, rough black dry-brush linework, orange cheek circles, and screen-printed paper grain.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main flat white mascot, face, hand, or simplified character",
     "SUBJECT_ACTION": "spinning, peeking, pulling, bracing, catching, blowing, balancing, pointing, or reacting",

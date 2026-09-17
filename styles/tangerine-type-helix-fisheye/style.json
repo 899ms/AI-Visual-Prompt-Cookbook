@@ -3,6 +3,7 @@
   "style_name": "Sculptural Type Helix — Refined",
   "style_slug": "tangerine-type-helix-fisheye",
   "style_summary": "Refinement of the existing four helix portraits: retain subjects, props, palette and material families; improve close camera impact, letter hierarchy and scene integration without introducing new concepts.",
+  "category": "Type Posters",
   "environment_variables": {
     "ASPECT_RATIO": "9:16 or 16:9",
     "STYLE_FIDELITY_ANCHORS": "Prioritized fixed CORE and bounded FLEX rules",

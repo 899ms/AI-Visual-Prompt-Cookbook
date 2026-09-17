@@ -3,6 +3,7 @@
   "style_slug": "surreal-megatype-dossier-collage",
   "style_version": "2.1.0",
   "style_summary": "A dense neo-editorial poster system that layers monumental white filled and outlined typography behind a centered surreal photographic cutout sculpture, then frames it with technical microcopy, serial numbers, ruled panels, small warning labels, celestial symbols, and coarse vintage print grain on a deep black field.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "The monumental central subject or surreal object assemblage",
     "SUBJECT_ACTION": "The subject's symbolic action or transformation",

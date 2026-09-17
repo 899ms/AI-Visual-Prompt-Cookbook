@@ -3,6 +3,7 @@
   "style_slug": "sunlit-architectural-fashion-editorial",
   "style_version": "2.1",
   "style_summary": "A polished outdoor high-fashion editorial photography style built from low-angle architectural framing, hard Mediterranean daylight, warm stone neutrals, elongated model silhouettes, restrained luxury styling, and fine graphic lines from wires, railings, shadows, or facade geometry. It recreates the premium fashion-campaign feeling without copying the original models, wardrobe, plaza, prop placement, or poses.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main fashion model, pair of models, or editorial subject",
     "SUBJECT_ACTION": "main pose, stance, gesture, or movement",

@@ -3,6 +3,7 @@
   "style_slug": "split-scorched-editorial-poster",
   "style_version": "2.2",
   "style_summary": "A high-contrast editorial campaign-poster system built from three interacting depth planes: a shadowed atmosphere, a monumental cropped hero, and one oversized foreground object that breaks the dark-versus-paper seam. The visual tension comes from that object intruding into the otherwise quiet warm-paper information field.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

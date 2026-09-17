@@ -3,6 +3,7 @@
   "style_slug": "blue-hud-macro-product-poster",
   "style_version": "2026.05.22",
   "style_summary": "A high-density blue creator-tech advertisement style built around macro 3D hardware heroes, oversized ribbed gloves, electric-blue HUD panels, massive condensed typography, glossy glass cards, and one warm gold performance badge.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main creator-tech product or object being promoted",
     "SUBJECT_ACTION": "how the product is held, presented, activated, or inspected",

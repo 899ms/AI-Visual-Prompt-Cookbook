@@ -3,6 +3,7 @@
   "style_slug": "pop-bubble-letter-photo-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A punchy photo-and-illustration poster style built around a central low-angle fashion portrait framed by oversized flat bubble-letter shapes, saturated candy colors, thick black outlines, oval highlights, and crisp sparkle marks.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main person, model, performer, maker, athlete, student, traveler, or product ambassador",
     "SUBJECT_ACTION": "standing still, leaning back, looking upward, closing eyes in sunlight, holding a prop, stepping forward, or posing calmly",

@@ -3,6 +3,7 @@
   "style_slug": "neon-outdoor-diary-longform-collage-style",
   "style_version": "1.0.0",
   "style_summary": "A tall mobile-first outdoor diary poster system with a charcoal black canvas, documentary action-photo cutouts, acid green kinetic headlines, ripped paper panels, hand-drawn arrows, sticker labels, numbered sections, and dense social-note pacing.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

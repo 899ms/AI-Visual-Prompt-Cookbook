@@ -3,6 +3,7 @@
   "style_slug": "bold-block-mascot-poster-style",
   "style_version": "2026.05.24",
   "style_summary": "A dense flat poster system built from giant black display type, chunky white mascot figures, thick cartoon outlines, tilted cyan or mint color panels, compact badges, tiny red accents, and a clean off-white print surface.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main rounded mascot, figure, product, object, or visual subject",
     "SUBJECT_ACTION": "main action, gesture, presentation, or interaction",

@@ -3,6 +3,7 @@
   "style_slug": "split-ink-monumental-editorial",
   "style_version": "custom-16x9-9x16-1.0",
   "style_summary": "A high-contrast editorial-collage system built from a strict warm-cream and vermilion split field, enormous cropped black letter architecture, a central monochrome full-body subject, and tactile foreground forms. A crumpled red material and an angular dark backdrop provide diagonal drama while microtype, dot grids, and distressed ink create a dense screenprinted poster surface.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action",

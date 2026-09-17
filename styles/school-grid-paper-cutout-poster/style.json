@@ -3,6 +3,7 @@
   "style_slug": "school-grid-paper-cutout-poster",
   "style_version": "1.0.0",
   "style_summary": "A sparse nostalgic poster system built from warm classroom grid paper, hand-drawn vertical notebook writing, and one large centered torn-paper collage object photographed with shallow real-paper shadows.",
+  "category": "Zine + Collage",
   "environment_variables": {
     "SUBJECT": "main subject or object silhouette",
     "SUBJECT_ACTION": "simple visual action or implied purpose",

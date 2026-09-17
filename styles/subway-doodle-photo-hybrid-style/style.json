@@ -3,6 +3,7 @@
   "style_slug": "subway-doodle-photo-hybrid-style",
   "style_version": "1.0.0",
   "style_summary": "A phone-shot urban transit poster style combining documentary subway or street transport photography with expressive hand-drawn cartoon overlays, doodled character faces, oversized foreground gestures, handwritten notes, and social media screenshot texture.",
+  "category": "Travel + City",
   "environment_variables": {
     "SUBJECT": "main subject",
     "SUBJECT_ACTION": "main action or pose",

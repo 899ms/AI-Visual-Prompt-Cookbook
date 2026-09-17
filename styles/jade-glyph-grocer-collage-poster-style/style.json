@@ -3,6 +3,7 @@
   "style_slug": "jade-glyph-grocer-collage-poster-style",
   "style_version": "1.0.0",
   "style_summary": "A sparse East Asian grocer-poster system built from warm cream paper, oversized jade-green hand-cut glyphs, pale vegetable silhouette clouds, tiny editorial headers, and one glossy produce-photo centerpiece layered over the typography.",
+  "category": "Product + Campaign",
   "environment_variables": {
     "SUBJECT": "main fresh-market product, produce item, or food object",
     "SUBJECT_ACTION": "still-life pose or poster gesture",

@@ -3,6 +3,7 @@
   "style_slug": "chromatic-fisheye-orbit-pop-poster-style",
   "style_version": "2026.05.18",
   "style_summary": "A high-key pop poster system built from extreme fisheye photography, a convex glass-dome center, oversized orbiting typography, hot red-magenta-orange letter fills, aqua chromatic light arcs, and light analog print texture.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "main person, duo, small crew, performer, maker, athlete, courier, scientist, chef, or product model",
     "SUBJECT_ACTION": "leaning over a fisheye lens, crouching inside a circular dome, looking down toward camera, reaching across frame, presenting a prop, or sitting in a compressed lens bubble",

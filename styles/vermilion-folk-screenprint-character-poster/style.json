@@ -3,6 +3,7 @@
   "style_slug": "vermilion-folk-screenprint-character-poster",
   "style_version": "2.1",
   "style_summary": "A hand-pulled theatrical poster system built around one monumental front-facing character, a warm uncoated paper field, a tightly limited vermilion-to-rose ink family, carved folk-pattern fills, and hand-lettered display type that behaves as part of the illustration.",
+  "category": "Type Posters",
   "environment_variables": {
     "SUBJECT": "the single monumental character or figure",
     "SUBJECT_ACTION": "a restrained frontal action or expression",

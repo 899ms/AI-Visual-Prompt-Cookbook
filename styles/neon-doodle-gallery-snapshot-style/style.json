@@ -3,6 +3,7 @@
   "style_slug": "neon-doodle-gallery-snapshot-style",
   "style_version": "1.0.0",
   "style_summary": "A candid phone-photo style layered with chaotic neon digital marker doodles: hot-pink and cyan subject outlines, yellow monster spikes, rough handwritten captions, stars, paw prints, spiderweb corners, scribble bars, halos, plants, and student diary energy.",
+  "category": "Photo + Doodle",
   "environment_variables": {
     "SUBJECT": "main person, group, student, artist, friend, commuter, shopper, or quiet candid figure",
     "SUBJECT_ACTION": "looking at art, studying, walking, waiting, browsing, reacting, hiding, laughing, or holding a prop",

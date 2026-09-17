@@ -3,6 +3,7 @@
   "style_slug": "luxury-perspective-checkerboard-editorial",
   "style_version": "1.0.0",
   "style_summary": "A high-fashion editorial poster style with low-angle luxury photography, sharp red-and-white checkerboard perspective planes, generous white space, oversized custom script typography, and restrained emerald or teal accents. It evokes international luxury maison advertising without copying any real brand mark, campaign, model, product, or exact layout.",
+  "category": "Editorial + Minimal",
   "environment_variables": {
     "SUBJECT": "main model, product, or luxury subject",
     "SUBJECT_ACTION": "main pose, movement, or product presentation",
