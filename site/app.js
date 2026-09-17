@@ -4,9 +4,19 @@ const RESERVED_HASHES = new Set(["", "curator", "featuredTitle", "galleryTitle"]
 const PORTRAIT_RATIOS = new Set(["9:16", "4:5"]);
 const LANDSCAPE_RATIOS = new Set(["16:9", "5:4"]);
 
+function categoryFromUrl() {
+  try {
+    const category = new URLSearchParams(location.search).get("category");
+    if (category === "All" || data.categories.includes(category)) return category;
+  } catch {
+    // Ignore malformed query strings and fall back to All.
+  }
+  return "All";
+}
+
 const state = {
   query: "",
-  category: "All",
+  category: categoryFromUrl(),
 };
 
 const detailState = {
@@ -523,6 +533,17 @@ function writeStyleUrl(slug, replace = false) {
   }, 0);
 }
 
+function syncCategoryUrl() {
+  const url = new URL(location.href);
+  if (state.category === "All") url.searchParams.delete("category");
+  else url.searchParams.set("category", state.category);
+  ignoreUrlSync = true;
+  history.replaceState(history.state, "", url);
+  window.setTimeout(() => {
+    ignoreUrlSync = false;
+  }, 0);
+}
+
 function setDetailOpen(open) {
   detailPanel.classList.toggle("is-open", open);
   detailPanel.setAttribute("aria-hidden", open ? "false" : "true");
@@ -653,6 +674,7 @@ document.addEventListener("click", (event) => {
   const categoryButton = event.target.closest("[data-category]");
   if (categoryButton) {
     state.category = categoryButton.dataset.category;
+    syncCategoryUrl();
     renderCategories();
     renderGrid();
     return;
