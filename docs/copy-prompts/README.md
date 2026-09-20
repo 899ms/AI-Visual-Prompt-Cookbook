@@ -8,6 +8,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Acid Burst Motion Type | [Copy Prompt](acid-burst-motion-type.md) | [style.json](../../styles/acid-burst-motion-type/style.json) |
 | Acid Lime 3D Streetwear Type Poster Style | [Copy Prompt](acid-lime-3d-streetwear-type-poster-style.md) | [style.json](../../styles/acid-lime-3d-streetwear-type-poster-style/style.json) |
 | Analog Sticker Diary Portrait Poster Style | [Copy Prompt](analog-sticker-diary-portrait-poster-style.md) | [style.json](../../styles/analog-sticker-diary-portrait-poster-style/style.json) |
+| Annotated Absence | [Copy Prompt](annotated-absence.md) | [style.json](../../styles/annotated-absence/style.json) |
 | Backseat Transit Doodle Letter Poster Style | [Copy Prompt](backseat-transit-doodle-letter-poster-style.md) | [style.json](../../styles/backseat-transit-doodle-letter-poster-style/style.json) |
 | Black Cutout Food Card Ad | [Copy Prompt](black-cutout-food-card-ad-style.md) | [style.json](../../styles/black-cutout-food-card-ad-style/style.json) |
 | Blue Bubble Fisheye Action Poster Style | [Copy Prompt](blue-bubble-fisheye-action-poster-style.md) | [style.json](../../styles/blue-bubble-fisheye-action-poster-style/style.json) |
@@ -52,6 +53,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Hot Ink Comic Poster | [Copy Prompt](hot-ink-comic-poster.md) | [style.json](../../styles/hot-ink-comic-poster/style.json) |
 | Ice Cyan Megatype Action Poster Style | [Copy Prompt](ice-cyan-megatype-action-poster-style.md) | [style.json](../../styles/ice-cyan-megatype-action-poster-style/style.json) |
 | Impact Burst Halftone Comic Poster Style | [Copy Prompt](impact-burst-halftone-comic-poster-style.md) | [style.json](../../styles/impact-burst-halftone-comic-poster-style/style.json) |
+| Ink Body Manifesto | [Copy Prompt](ink-body-manifesto.md) | [style.json](../../styles/ink-body-manifesto/style.json) |
 | Jade Glyph Grocer Collage Poster Style | [Copy Prompt](jade-glyph-grocer-collage-poster-style.md) | [style.json](../../styles/jade-glyph-grocer-collage-poster-style/style.json) |
 | Jagged Red Street Photo Event Poster Style | [Copy Prompt](jagged-red-street-photo-event-poster-style.md) | [style.json](../../styles/jagged-red-street-photo-event-poster-style/style.json) |
 | K-Pop Apocalypse Ransom Zine Style | [Copy Prompt](k-pop-apocalypse-ransom-zine-style.md) | [style.json](../../styles/k-pop-apocalypse-ransom-zine-style/style.json) |
@@ -64,6 +66,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Luxury Perspective Checkerboard Editorial | [Copy Prompt](luxury-perspective-checkerboard-editorial.md) | [style.json](../../styles/luxury-perspective-checkerboard-editorial/style.json) |
 | Manga Dossier Blueprint Poster | [Copy Prompt](manga-dossier-blueprint-poster.md) | [style.json](../../styles/manga-dossier-blueprint-poster/style.json) |
 | Market Brush Produce Poster Style | [Copy Prompt](market-brush-produce-poster-style.md) | [style.json](../../styles/market-brush-produce-poster-style/style.json) |
+| Memory Fragment Portrait | [Copy Prompt](memory-fragment-portrait.md) | [style.json](../../styles/memory-fragment-portrait/style.json) |
 | Metro Doodle Snapshot Diary | [Copy Prompt](metro-doodle-snapshot-diary-style.md) | [style.json](../../styles/metro-doodle-snapshot-diary-style/style.json) |
 | Mono Noir Type Portrait Poster Style | [Copy Prompt](mono-noir-type-portrait-poster-style.md) | [style.json](../../styles/mono-noir-type-portrait-poster-style/style.json) |
 | Monochrome Grid Sneaker Tech Spec | [Copy Prompt](monochrome-grid-sneaker-tech-spec.md) | [style.json](../../styles/monochrome-grid-sneaker-tech-spec/style.json) |
@@ -92,6 +95,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Plush City Festival Mobile Poster | [Copy Prompt](plush-city-festival-mobile-poster-style.md) | [style.json](../../styles/plush-city-festival-mobile-poster-style/style.json) |
 | Plush Comic Toy Product Poster Style | [Copy Prompt](plush-comic-toy-product-poster-style.md) | [style.json](../../styles/plush-comic-toy-product-poster-style/style.json) |
 | Pop Bubble Letter Photo Poster Style | [Copy Prompt](pop-bubble-letter-photo-poster-style.md) | [style.json](../../styles/pop-bubble-letter-photo-poster-style/style.json) |
+| Portrait as Terrain | [Copy Prompt](portrait-as-terrain.md) | [style.json](../../styles/portrait-as-terrain/style.json) |
 | Primary Block Isometric Editorial Poster Style | [Copy Prompt](primary-block-isometric-editorial-poster-style.md) | [style.json](../../styles/primary-block-isometric-editorial-poster-style/style.json) |
 | Prismatic Glass Animal Weekend Editorial | [Copy Prompt](prismatic-glass-animal-weekend-editorial.md) | [style.json](../../styles/prismatic-glass-animal-weekend-editorial/style.json) |
 | Quiet Luxury Furniture Nameplate Poster Style | [Copy Prompt](quiet-luxury-furniture-nameplate-poster-style.md) | [style.json](../../styles/quiet-luxury-furniture-nameplate-poster-style/style.json) |

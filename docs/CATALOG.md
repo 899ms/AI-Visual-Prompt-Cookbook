@@ -1,8 +1,48 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 137 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 141 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Annotated Absence
+
+<a href="../styles/annotated-absence"><img src="../assets/thumbs/annotated-absence-16x9.jpg" width="720" alt="Annotated Absence preview"></a>
+
+A photographic subject yields to white paper, retained as hand-traced contour, intimate word labels and sparse gray image fragments.
+
+Files: [style.json](../styles/annotated-absence/style.json) · [Copy Prompt](copy-prompts/annotated-absence.md) · [16:9 preview](../styles/annotated-absence/preview-16x9.jpg) · [9:16 preview](../styles/annotated-absence/preview-9x16.jpg) · [Folder](../styles/annotated-absence)
+
+---
+
+### Ink Body Manifesto
+
+<a href="../styles/ink-body-manifesto"><img src="../assets/thumbs/ink-body-manifesto-16x9.jpg" width="720" alt="Ink Body Manifesto preview"></a>
+
+Realistic figures on pale gray-white ground, their torsos constructed from irregular black handwriting, with a compact heavy black headline and sparse red handwritten marks.
+
+Files: [style.json](../styles/ink-body-manifesto/style.json) · [Copy Prompt](copy-prompts/ink-body-manifesto.md) · [16:9 preview](../styles/ink-body-manifesto/preview-16x9.jpg) · [9:16 preview](../styles/ink-body-manifesto/preview-9x16.jpg) · [Folder](../styles/ink-body-manifesto)
+
+---
+
+### Memory Fragment Portrait
+
+<a href="../styles/memory-fragment-portrait"><img src="../assets/thumbs/memory-fragment-portrait-16x9.jpg" width="720" alt="Memory Fragment Portrait preview"></a>
+
+A coarse-halftone black-and-white portrait tiled by a regular white grid; selected cells become faded life photographs, blank paper, and one fluorescent-pink key memory. From afar it is a face; up close it is a relationship.
+
+Files: [style.json](../styles/memory-fragment-portrait/style.json) · [Copy Prompt](copy-prompts/memory-fragment-portrait.md) · [16:9 preview](../styles/memory-fragment-portrait/preview-16x9.jpg) · [9:16 preview](../styles/memory-fragment-portrait/preview-9x16.jpg) · [Folder](../styles/memory-fragment-portrait)
+
+---
+
+### Portrait as Terrain
+
+<a href="../styles/portrait-as-terrain"><img src="../assets/thumbs/portrait-as-terrain-16x9.jpg" width="720" alt="Portrait as Terrain preview"></a>
+
+Monochrome human fragments become monumental single-color landscapes inhabited by tiny figures.
+
+Files: [style.json](../styles/portrait-as-terrain/style.json) · [Copy Prompt](copy-prompts/portrait-as-terrain.md) · [16:9 preview](../styles/portrait-as-terrain/preview-16x9.jpg) · [9:16 preview](../styles/portrait-as-terrain/preview-9x16.jpg) · [Folder](../styles/portrait-as-terrain)
+
+---
 
 ### Acid Burst Motion Type
 
