@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img alt="Styles" src="https://img.shields.io/badge/styles-141-ff5a7a?style=flat-square">
-  <img alt="Previews" src="https://img.shields.io/badge/previews-282-4cc9f0?style=flat-square">
+  <img alt="Styles" src="https://img.shields.io/badge/styles-147-ff5a7a?style=flat-square">
+  <img alt="Previews" src="https://img.shields.io/badge/previews-294-4cc9f0?style=flat-square">
   <img alt="Format" src="https://img.shields.io/badge/format-style.json-111111?style=flat-square">
   <img alt="Languages" src="https://img.shields.io/badge/languages-6-f7b801?style=flat-square">
 </p>
@@ -119,49 +119,49 @@ Ingin mencoba versi singkat dulu? Buka [Copy Prompt Library](docs/copy-prompts/R
 
 ## Gaya Unggulan
 
-Enam sistem visual ini cocok untuk memulai. Setiap gaya berisi satu JSON dan dua gambar preview. Jelajahi 141 gaya lengkap di galeri [All Styles](#all-styles) di bawah.
+Enam sistem visual ini cocok untuk memulai. Setiap gaya berisi satu JSON dan dua gambar preview. Jelajahi 147 gaya lengkap di galeri [All Styles](#all-styles) di bawah.
 
 <!-- HTML table used for rich image+link cells -->
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="styles/annotated-absence"><img src="assets/thumbs/annotated-absence-16x9.jpg" alt="Annotated Absence preview"></a>
-<h3>Annotated Absence</h3>
-<p>A photographic subject yields to white paper, retained as hand-traced contour, intimate word labels and sparse gray image fragments.</p>
-<p><a href="styles/annotated-absence/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/annotated-absence.md">Salin Prompt</a> · <a href="styles/annotated-absence">Folder</a></p>
+<a href="styles/chromatic-impact-athlete"><img src="assets/thumbs/chromatic-impact-athlete-16x9.jpg" alt="Chromatic Impact Athlete preview"></a>
+<h3>Chromatic Impact Athlete</h3>
+<p>High-contrast athletic editorial posters that turn a frozen movement into a collision of grayscale body photography, extreme perspective, and a single red-orange energy accent.</p>
+<p><a href="styles/chromatic-impact-athlete/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/chromatic-impact-athlete.md">Salin Prompt</a> · <a href="styles/chromatic-impact-athlete">Folder</a></p>
 </td>
 <td width="33%" valign="top">
-<a href="styles/ink-body-manifesto"><img src="assets/thumbs/ink-body-manifesto-16x9.jpg" alt="Ink Body Manifesto preview"></a>
-<h3>Ink Body Manifesto</h3>
-<p>Realistic figures on pale gray-white ground, their torsos constructed from irregular black handwriting, with a compact heavy black headline and sparse red handwritten marks.</p>
-<p><a href="styles/ink-body-manifesto/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/ink-body-manifesto.md">Salin Prompt</a> · <a href="styles/ink-body-manifesto">Folder</a></p>
+<a href="styles/cream-curve-editorial"><img src="assets/thumbs/cream-curve-editorial-16x9.jpg" alt="Cream Curve Editorial preview"></a>
+<h3>Cream Curve Editorial</h3>
+<p>Sunlit photographic editorial posters shaped by monumental condensed cream lettering, elastic curves and deliberate subject/type depth exchanges. Each theme gives the lettering a different spatial job.</p>
+<p><a href="styles/cream-curve-editorial/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/cream-curve-editorial.md">Salin Prompt</a> · <a href="styles/cream-curve-editorial">Folder</a></p>
 </td>
 <td width="33%" valign="top">
-<a href="styles/memory-fragment-portrait"><img src="assets/thumbs/memory-fragment-portrait-16x9.jpg" alt="Memory Fragment Portrait preview"></a>
-<h3>Memory Fragment Portrait</h3>
-<p>A coarse-halftone black-and-white portrait tiled by a regular white grid; selected cells become faded life photographs, blank paper, and one fluorescent-pink key memory. From afar it is a face; up close it is a relationship.</p>
-<p><a href="styles/memory-fragment-portrait/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/memory-fragment-portrait.md">Salin Prompt</a> · <a href="styles/memory-fragment-portrait">Folder</a></p>
+<a href="styles/kinetic-footwear-process"><img src="assets/thumbs/kinetic-footwear-process-16x9.jpg" alt="Kinetic Footwear Process preview"></a>
+<h3>Kinetic Footwear Process</h3>
+<p>A premium, motion-led footwear campaign turns athletic movement into a compact visual process story: a newly invented shoe mechanism is shown through action, sequential states and tactile engineering close-ups, with restrained micro-labels.</p>
+<p><a href="styles/kinetic-footwear-process/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/kinetic-footwear-process.md">Salin Prompt</a> · <a href="styles/kinetic-footwear-process">Folder</a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="styles/portrait-as-terrain"><img src="assets/thumbs/portrait-as-terrain-16x9.jpg" alt="Portrait as Terrain preview"></a>
-<h3>Portrait as Terrain</h3>
-<p>Monochrome human fragments become monumental single-color landscapes inhabited by tiny figures.</p>
-<p><a href="styles/portrait-as-terrain/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/portrait-as-terrain.md">Salin Prompt</a> · <a href="styles/portrait-as-terrain">Folder</a></p>
+<a href="styles/sensory-footwear-lab"><img src="assets/thumbs/sensory-footwear-lab-16x9.jpg" alt="Sensory Footwear Lab preview"></a>
+<h3>Sensory Footwear Lab</h3>
+<p>Minimal future-sport product concepts pair tactile podded outsoles with quiet athletic gestures, modular editorial panels, ice-cool architecture and signal-coral accents.</p>
+<p><a href="styles/sensory-footwear-lab/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/sensory-footwear-lab.md">Salin Prompt</a> · <a href="styles/sensory-footwear-lab">Folder</a></p>
 </td>
 <td width="33%" valign="top">
-<a href="styles/acid-burst-motion-type"><img src="assets/thumbs/acid-burst-motion-type-16x9.jpg" alt="Acid Burst Motion Type preview"></a>
-<h3>Acid Burst Motion Type</h3>
-<p>Extreme wide-angle action photography with an enlarged near-lens object, saturated blue environmental depth, one acid-colored angular burst behind the subject and oversized lean typography sweeping diagonally through the foreground.</p>
-<p><a href="styles/acid-burst-motion-type/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/acid-burst-motion-type.md">Salin Prompt</a> · <a href="styles/acid-burst-motion-type">Folder</a></p>
+<a href="styles/vector-atelier"><img src="assets/thumbs/vector-atelier-16x9.jpg" alt="Visual OS 051 — Freeze the Gear preview"></a>
+<h3>Visual OS 051 — Freeze the Gear</h3>
+<p>Full-bleed future-sport posters isolate one razor-sharp piece of gear against directional motion trails, luminous gradients and a single giant white geometric slogan.</p>
+<p><a href="styles/vector-atelier/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/vector-atelier.md">Salin Prompt</a> · <a href="styles/vector-atelier">Folder</a></p>
 </td>
 <td width="33%" valign="top">
-<a href="styles/cream-megatype-impact-editorial"><img src="assets/thumbs/cream-megatype-impact-editorial-16x9.jpg" alt="Cream Megatype Impact Editorial preview"></a>
-<h3>Cream Megatype Impact Editorial</h3>
-<p>Close wide-angle action photographs interlocked with enormous warm-cream condensed background type, cobalt environmental depth, tactile ground or water, and a compact rule-divided editorial information rail.</p>
-<p><a href="styles/cream-megatype-impact-editorial/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/cream-megatype-impact-editorial.md">Salin Prompt</a> · <a href="styles/cream-megatype-impact-editorial">Folder</a></p>
+<a href="styles/vector-process-study"><img src="assets/thumbs/vector-process-study-16x9.jpg" alt="Vector Process Study preview"></a>
+<h3>Vector Process Study</h3>
+<p>Premium footwear process boards explain load, flex, fit and construction through sequential image panels, tactile material macros, sparse micro-labels and a distinct sculptural shoe architecture.</p>
+<p><a href="styles/vector-process-study/style.json"><strong>Buka style.json</strong></a> · <a href="docs/copy-prompts/vector-process-study.md">Salin Prompt</a> · <a href="styles/vector-process-study">Folder</a></p>
 </td>
 </tr>
 </table>
@@ -195,13 +195,59 @@ python3 scripts/validate-style-json.py .
 
 ## All Styles
 
-Jelajahi semua 141 gaya di bawah.
+Jelajahi semua 147 gaya di bawah.
 
 Pustaka lengkap ini mencakup gaya unggulan di atas. Untuk deskripsi lengkap dan semua tautan file per gaya, lihat [docs/CATALOG.md](docs/CATALOG.md).
 
 <!-- HTML table used for rich image+link cells -->
 
 <table>
+<tr>
+<td width="33%" valign="top">
+<a id="chromatic-impact-athlete"></a>
+<a href="styles/chromatic-impact-athlete"><img src="assets/thumbs/chromatic-impact-athlete-16x9.jpg" alt="Chromatic Impact Athlete preview"></a>
+<p><strong><a href="styles/chromatic-impact-athlete">Chromatic Impact Athlete</a></strong><br>
+<em>High-contrast athletic posters colliding grayscale body photography, extreme perspective, and a single red-orange energy accent.</em><br>
+<a href="styles/chromatic-impact-athlete/style.json">style.json</a> · <a href="docs/copy-prompts/chromatic-impact-athlete.md">prompt</a> · <a href="styles/chromatic-impact-athlete/preview-9x16.jpg">9:16</a></p>
+</td>
+<td width="33%" valign="top">
+<a id="cream-curve-editorial"></a>
+<a href="styles/cream-curve-editorial"><img src="assets/thumbs/cream-curve-editorial-16x9.jpg" alt="Cream Curve Editorial preview"></a>
+<p><strong><a href="styles/cream-curve-editorial">Cream Curve Editorial</a></strong><br>
+<em>Sunlit editorial posters shaped by monumental condensed cream lettering, elastic curves, and subject/type depth exchanges.</em><br>
+<a href="styles/cream-curve-editorial/style.json">style.json</a> · <a href="docs/copy-prompts/cream-curve-editorial.md">prompt</a> · <a href="styles/cream-curve-editorial/preview-9x16.jpg">9:16</a></p>
+</td>
+<td width="33%" valign="top">
+<a id="kinetic-footwear-process"></a>
+<a href="styles/kinetic-footwear-process"><img src="assets/thumbs/kinetic-footwear-process-16x9.jpg" alt="Kinetic Footwear Process preview"></a>
+<p><strong><a href="styles/kinetic-footwear-process">Kinetic Footwear Process</a></strong><br>
+<em>Motion-led footwear campaigns showing a shoe mechanism through action, sequential states, and tactile engineering close-ups.</em><br>
+<a href="styles/kinetic-footwear-process/style.json">style.json</a> · <a href="docs/copy-prompts/kinetic-footwear-process.md">prompt</a> · <a href="styles/kinetic-footwear-process/preview-9x16.jpg">9:16</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a id="sensory-footwear-lab"></a>
+<a href="styles/sensory-footwear-lab"><img src="assets/thumbs/sensory-footwear-lab-16x9.jpg" alt="Sensory Footwear Lab preview"></a>
+<p><strong><a href="styles/sensory-footwear-lab">Sensory Footwear Lab</a></strong><br>
+<em>Minimal future-sport concepts pairing tactile podded outsoles with quiet athletic gestures, ice-cool architecture, and signal-coral accents.</em><br>
+<a href="styles/sensory-footwear-lab/style.json">style.json</a> · <a href="docs/copy-prompts/sensory-footwear-lab.md">prompt</a> · <a href="styles/sensory-footwear-lab/preview-9x16.jpg">9:16</a></p>
+</td>
+<td width="33%" valign="top">
+<a id="vector-atelier"></a>
+<a href="styles/vector-atelier"><img src="assets/thumbs/vector-atelier-16x9.jpg" alt="Visual OS 051 — Freeze the Gear preview"></a>
+<p><strong><a href="styles/vector-atelier">Visual OS 051 — Freeze the Gear</a></strong><br>
+<em>Full-bleed future-sport posters isolating one razor-sharp piece of gear against directional motion trails and a giant white slogan.</em><br>
+<a href="styles/vector-atelier/style.json">style.json</a> · <a href="docs/copy-prompts/vector-atelier.md">prompt</a> · <a href="styles/vector-atelier/preview-9x16.jpg">9:16</a></p>
+</td>
+<td width="33%" valign="top">
+<a id="vector-process-study"></a>
+<a href="styles/vector-process-study"><img src="assets/thumbs/vector-process-study-16x9.jpg" alt="Vector Process Study preview"></a>
+<p><strong><a href="styles/vector-process-study">Vector Process Study</a></strong><br>
+<em>Premium footwear process boards explaining load, flex, fit, and construction through sequential panels and tactile macros.</em><br>
+<a href="styles/vector-process-study/style.json">style.json</a> · <a href="docs/copy-prompts/vector-process-study.md">prompt</a> · <a href="styles/vector-process-study/preview-9x16.jpg">9:16</a></p>
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 <a id="annotated-absence"></a>

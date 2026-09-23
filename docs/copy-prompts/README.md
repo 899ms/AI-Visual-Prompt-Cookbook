@@ -20,6 +20,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Bold Block Mascot Poster Style | [Copy Prompt](bold-block-mascot-poster-style.md) | [style.json](../../styles/bold-block-mascot-poster-style/style.json) |
 | Burnt Orange Halftone Hero Collage | [Copy Prompt](burnt-orange-halftone-hero-collage.md) | [style.json](../../styles/burnt-orange-halftone-hero-collage/style.json) |
 | Chromatic Fisheye Orbit Pop Poster Style | [Copy Prompt](chromatic-fisheye-orbit-pop-poster-style.md) | [style.json](../../styles/chromatic-fisheye-orbit-pop-poster-style/style.json) |
+| Chromatic Impact Athlete | [Copy Prompt](chromatic-impact-athlete.md) | [style.json](../../styles/chromatic-impact-athlete/style.json) |
 | Clean Triptych Travel Vlog Thumbnail Style | [Copy Prompt](clean-triptych-travel-vlog-thumbnail-style.md) | [style.json](../../styles/clean-triptych-travel-vlog-thumbnail-style/style.json) |
 | Cobalt Megatype Roadside Travel Editorial | [Copy Prompt](cobalt-megatype-roadside-travel-editorial-style.md) | [style.json](../../styles/cobalt-megatype-roadside-travel-editorial-style/style.json) |
 | Cobalt Pop Cutout Editorial | [Copy Prompt](cobalt-pop-cutout-editorial.md) | [style.json](../../styles/cobalt-pop-cutout-editorial/style.json) |
@@ -29,6 +30,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Coral Window Megatype Motion Poster | [Copy Prompt](coral-window-megatype-motion-poster-style.md) | [style.json](../../styles/coral-window-megatype-motion-poster-style/style.json) |
 | Cozy Bedroom Doodle Companion Snapshot Style | [Copy Prompt](cozy-bedroom-doodle-companion-snapshot-style.md) | [style.json](../../styles/cozy-bedroom-doodle-companion-snapshot-style/style.json) |
 | Crayon Catalog Doodle Poster Style | [Copy Prompt](crayon-catalog-doodle-poster-style.md) | [style.json](../../styles/crayon-catalog-doodle-poster-style/style.json) |
+| Cream Curve Editorial | [Copy Prompt](cream-curve-editorial.md) | [style.json](../../styles/cream-curve-editorial/style.json) |
 | Cream Megatype Impact Editorial | [Copy Prompt](cream-megatype-impact-editorial.md) | [style.json](../../styles/cream-megatype-impact-editorial/style.json) |
 | Cream Smoke City Manga Poster Style | [Copy Prompt](cream-smoke-city-manga-poster-style.md) | [style.json](../../styles/cream-smoke-city-manga-poster-style/style.json) |
 | Crimson Ink Manga Dossier | [Copy Prompt](crimson-ink-manga-dossier.md) | [style.json](../../styles/crimson-ink-manga-dossier/style.json) |
@@ -58,6 +60,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Jagged Red Street Photo Event Poster Style | [Copy Prompt](jagged-red-street-photo-event-poster-style.md) | [style.json](../../styles/jagged-red-street-photo-event-poster-style/style.json) |
 | K-Pop Apocalypse Ransom Zine Style | [Copy Prompt](k-pop-apocalypse-ransom-zine-style.md) | [style.json](../../styles/k-pop-apocalypse-ransom-zine-style/style.json) |
 | Kinetic Editorial Photo Collage | [Copy Prompt](kinetic-editorial-photo-collage-style.md) | [style.json](../../styles/kinetic-editorial-photo-collage-style/style.json) |
+| Kinetic Footwear Process | [Copy Prompt](kinetic-footwear-process.md) | [style.json](../../styles/kinetic-footwear-process/style.json) |
 | Kinetic Geometric Doodle Cutouts | [Copy Prompt](kinetic-geometric-doodle-cutouts.md) | [style.json](../../styles/kinetic-geometric-doodle-cutouts/style.json) |
 | Kinetic Luxury Street Fashion Cover Style | [Copy Prompt](kinetic-luxury-street-fashion-cover-style.md) | [style.json](../../styles/kinetic-luxury-street-fashion-cover-style/style.json) |
 | Lime Loop Megatype Action Poster | [Copy Prompt](lime-loop-megatype-action-poster-style.md) | [style.json](../../styles/lime-loop-megatype-action-poster-style/style.json) |
@@ -112,6 +115,7 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Scarlet Court Photo Type Poster | [Copy Prompt](scarlet-court-photo-type-poster-style.md) | [style.json](../../styles/scarlet-court-photo-type-poster-style/style.json) |
 | Scarlet Megatype Action Collage Style | [Copy Prompt](scarlet-megatype-action-collage-style.md) | [style.json](../../styles/scarlet-megatype-action-collage-style/style.json) |
 | School Grid Paper Cutout Poster | [Copy Prompt](school-grid-paper-cutout-poster.md) | [style.json](../../styles/school-grid-paper-cutout-poster/style.json) |
+| Sensory Footwear Lab | [Copy Prompt](sensory-footwear-lab.md) | [style.json](../../styles/sensory-footwear-lab/style.json) |
 | Signal Red Contour Poster | [Copy Prompt](signal-red-contour-poster.md) | [style.json](../../styles/signal-red-contour-poster/style.json) |
 | Signal Red Petal Profile Editorial Cover | [Copy Prompt](signal-red-petal-profile-editorial-cover.md) | [style.json](../../styles/signal-red-petal-profile-editorial-cover/style.json) |
 | Sky Blue Home Life Doodle Poster Style | [Copy Prompt](sky-blue-home-life-doodle-poster-style.md) | [style.json](../../styles/sky-blue-home-life-doodle-poster-style/style.json) |
@@ -137,6 +141,8 @@ Use them when you want a short copy-and-paste entry point; use `style.json` when
 | Turquoise Red Techno Manga Poster Style | [Copy Prompt](turquoise-red-techno-manga-poster-style.md) | [style.json](../../styles/turquoise-red-techno-manga-poster-style/style.json) |
 | Urban Photo Ink Beast Collage Style | [Copy Prompt](urban-photo-ink-beast-collage-style.md) | [style.json](../../styles/urban-photo-ink-beast-collage-style/style.json) |
 | Urban Transit Doodle Diary Style | [Copy Prompt](urban-transit-doodle-diary-style.md) | [style.json](../../styles/urban-transit-doodle-diary-style/style.json) |
+| Visual OS 051 — Freeze the Gear | [Copy Prompt](vector-atelier.md) | [style.json](../../styles/vector-atelier/style.json) |
+| Vector Process Study | [Copy Prompt](vector-process-study.md) | [style.json](../../styles/vector-process-study/style.json) |
 | Vermilion Folk Screenprint Character Poster | [Copy Prompt](vermilion-folk-screenprint-character-poster.md) | [style.json](../../styles/vermilion-folk-screenprint-character-poster/style.json) |
 | Vermilion Photocopy Tension Editorial | [Copy Prompt](vermilion-photocopy-tension-editorial.md) | [style.json](../../styles/vermilion-photocopy-tension-editorial/style.json) |
 | Warm Fisheye Product Impact Ad Style | [Copy Prompt](warm-fisheye-product-impact-ad-style.md) | [style.json](../../styles/warm-fisheye-product-impact-ad-style/style.json) |

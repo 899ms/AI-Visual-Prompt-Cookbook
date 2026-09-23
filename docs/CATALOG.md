@@ -1,8 +1,68 @@
 # Style Catalog — Full Details
 
-Complete descriptions and all file links for each of the 141 styles. For a visual gallery, see the [main README](../README.md#all-styles).
+Complete descriptions and all file links for each of the 147 styles. For a visual gallery, see the [main README](../README.md#all-styles).
 
 [← Back to README](../README.md)
+
+### Chromatic Impact Athlete
+
+<a href="../styles/chromatic-impact-athlete"><img src="../assets/thumbs/chromatic-impact-athlete-16x9.jpg" width="720" alt="Chromatic Impact Athlete preview"></a>
+
+High-contrast athletic editorial posters that turn a frozen movement into a collision of grayscale body photography, extreme perspective, and a single red-orange energy accent.
+
+Files: [style.json](../styles/chromatic-impact-athlete/style.json) · [Copy Prompt](copy-prompts/chromatic-impact-athlete.md) · [16:9 preview](../styles/chromatic-impact-athlete/preview-16x9.jpg) · [9:16 preview](../styles/chromatic-impact-athlete/preview-9x16.jpg) · [Folder](../styles/chromatic-impact-athlete)
+
+---
+
+### Cream Curve Editorial
+
+<a href="../styles/cream-curve-editorial"><img src="../assets/thumbs/cream-curve-editorial-16x9.jpg" width="720" alt="Cream Curve Editorial preview"></a>
+
+Sunlit photographic editorial posters shaped by monumental condensed cream lettering, elastic curves and deliberate subject/type depth exchanges. Each theme gives the lettering a different spatial job.
+
+Files: [style.json](../styles/cream-curve-editorial/style.json) · [Copy Prompt](copy-prompts/cream-curve-editorial.md) · [16:9 preview](../styles/cream-curve-editorial/preview-16x9.jpg) · [9:16 preview](../styles/cream-curve-editorial/preview-9x16.jpg) · [Folder](../styles/cream-curve-editorial)
+
+---
+
+### Kinetic Footwear Process
+
+<a href="../styles/kinetic-footwear-process"><img src="../assets/thumbs/kinetic-footwear-process-16x9.jpg" width="720" alt="Kinetic Footwear Process preview"></a>
+
+A premium, motion-led footwear campaign turns athletic movement into a compact visual process story: a newly invented shoe mechanism is shown through action, sequential states and tactile engineering close-ups, with restrained micro-labels.
+
+Files: [style.json](../styles/kinetic-footwear-process/style.json) · [Copy Prompt](copy-prompts/kinetic-footwear-process.md) · [16:9 preview](../styles/kinetic-footwear-process/preview-16x9.jpg) · [9:16 preview](../styles/kinetic-footwear-process/preview-9x16.jpg) · [Folder](../styles/kinetic-footwear-process)
+
+---
+
+### Sensory Footwear Lab
+
+<a href="../styles/sensory-footwear-lab"><img src="../assets/thumbs/sensory-footwear-lab-16x9.jpg" width="720" alt="Sensory Footwear Lab preview"></a>
+
+Minimal future-sport product concepts pair tactile podded outsoles with quiet athletic gestures, modular editorial panels, ice-cool architecture and signal-coral accents.
+
+Files: [style.json](../styles/sensory-footwear-lab/style.json) · [Copy Prompt](copy-prompts/sensory-footwear-lab.md) · [16:9 preview](../styles/sensory-footwear-lab/preview-16x9.jpg) · [9:16 preview](../styles/sensory-footwear-lab/preview-9x16.jpg) · [Folder](../styles/sensory-footwear-lab)
+
+---
+
+### Visual OS 051 — Freeze the Gear
+
+<a href="../styles/vector-atelier"><img src="../assets/thumbs/vector-atelier-16x9.jpg" width="720" alt="Visual OS 051 — Freeze the Gear preview"></a>
+
+Full-bleed future-sport posters isolate one razor-sharp piece of gear against directional motion trails, luminous gradients and a single giant white geometric slogan.
+
+Files: [style.json](../styles/vector-atelier/style.json) · [Copy Prompt](copy-prompts/vector-atelier.md) · [16:9 preview](../styles/vector-atelier/preview-16x9.jpg) · [9:16 preview](../styles/vector-atelier/preview-9x16.jpg) · [Folder](../styles/vector-atelier)
+
+---
+
+### Vector Process Study
+
+<a href="../styles/vector-process-study"><img src="../assets/thumbs/vector-process-study-16x9.jpg" width="720" alt="Vector Process Study preview"></a>
+
+Premium footwear process boards explain load, flex, fit and construction through sequential image panels, tactile material macros, sparse micro-labels and a distinct sculptural shoe architecture.
+
+Files: [style.json](../styles/vector-process-study/style.json) · [Copy Prompt](copy-prompts/vector-process-study.md) · [16:9 preview](../styles/vector-process-study/preview-16x9.jpg) · [9:16 preview](../styles/vector-process-study/preview-9x16.jpg) · [Folder](../styles/vector-process-study)
+
+---
 
 ### Annotated Absence
 
